@@ -1,0 +1,18 @@
+[
+  {
+    "friends_at": "2018-07-14T16:26:52.000Z",
+    "user": {
+      "username": "@erik.richy",
+      "private": false,
+      "deleted": false,
+      "name": "Erik Richvalský",
+      "vip": false,
+      "vip_ep": false,
+      "director": false,
+      "ids": {
+        "slug": "erik-richy",
+        "trakt": 3677155
+      }
+    }
+  }
+]

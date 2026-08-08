@@ -1,0 +1,1819 @@
+[
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt2708480",
+        "plex": {
+          "guid": "5d9c08e61cae62001f74fa9e",
+          "slug": "the-terror"
+        },
+        "slug": "the-terror",
+        "tmdb": 75191,
+        "tvdb": 322191,
+        "trakt": 115673
+      },
+      "year": 2018,
+      "title": "The Terror",
+      "aired_episodes": 21
+    },
+    "rank": 1,
+    "id": 1461429452,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7235466",
+        "plex": {
+          "guid": "5d9c08e9705e7a001e6e645b",
+          "slug": "9-1-1"
+        },
+        "slug": "9-1-1",
+        "tmdb": 75219,
+        "tvdb": 337907,
+        "trakt": 125308
+      },
+      "year": 2018,
+      "title": "9-1-1",
+      "aired_episodes": 142
+    },
+    "rank": 2,
+    "id": 1461429441,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7772588",
+        "plex": {
+          "guid": "5d9c091408fddd001f2a71c3",
+          "slug": "for-all-mankind"
+        },
+        "slug": "for-all-mankind",
+        "tmdb": 87917,
+        "tvdb": 356202,
+        "trakt": 140481
+      },
+      "year": 2019,
+      "title": "For All Mankind",
+      "aired_episodes": 47
+    },
+    "rank": 3,
+    "id": 1461429442,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt10834220",
+        "plex": {
+          "guid": "60d0678b1f4779002c78700d",
+          "slug": "the-chestnut-man"
+        },
+        "slug": "the-chestnut-man",
+        "tmdb": 127865,
+        "tvdb": 386374,
+        "trakt": 165237
+      },
+      "year": 2021,
+      "title": "The Chestnut Man",
+      "aired_episodes": 12
+    },
+    "rank": 4,
+    "id": 1461429453,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt30459041",
+        "plex": {
+          "guid": "657dc33ef513062f56b44a23",
+          "slug": "your-friends-and-neighbors"
+        },
+        "slug": "your-friends-neighbors",
+        "tmdb": 241609,
+        "tvdb": 443433,
+        "trakt": 217691
+      },
+      "year": 2025,
+      "title": "Your Friends & Neighbors",
+      "aired_episodes": 15
+    },
+    "rank": 5,
+    "id": 1461429445,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31589662",
+        "plex": {
+          "guid": "66948ced836d6c7c1774fab8",
+          "slug": "georgie-and-mandys-first-marriage"
+        },
+        "slug": "georgie-mandy-s-first-marriage",
+        "tmdb": 243875,
+        "tvdb": 448023,
+        "trakt": 228089
+      },
+      "year": 2024,
+      "title": "Georgie & Mandy's First Marriage",
+      "aired_episodes": 41
+    },
+    "rank": 6,
+    "id": 1461429446,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33265765",
+        "plex": {
+          "guid": "670911d764ef701e671a9ce8",
+          "slug": "legends-2026"
+        },
+        "slug": "legends-2026",
+        "tmdb": 262280,
+        "tvdb": 453615,
+        "trakt": 253005
+      },
+      "year": 2026,
+      "title": "Legends",
+      "aired_episodes": 6
+    },
+    "rank": 7,
+    "id": 1463951738,
+    "listed_at": "2026-05-04T00:04:27.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33253070",
+        "plex": {
+          "guid": "678ba9a1d0e1095dc64e6fca",
+          "slug": "m-i-a-1"
+        },
+        "slug": "m-i-a",
+        "tmdb": 262388,
+        "tvdb": 453655,
+        "trakt": 253143
+      },
+      "year": 2026,
+      "title": "M.I.A.",
+      "aired_episodes": 9
+    },
+    "rank": 8,
+    "id": 1463951739,
+    "listed_at": "2026-05-04T00:04:27.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33550053",
+        "plex": {
+          "guid": "6823c9224eb01a7282133dc5",
+          "slug": "9-1-1-nashville"
+        },
+        "slug": "9-1-1-nashville",
+        "tmdb": 284838,
+        "tvdb": 460463,
+        "trakt": 277227
+      },
+      "year": 2025,
+      "title": "9-1-1: Nashville",
+      "aired_episodes": 18
+    },
+    "rank": 9,
+    "id": 1461429447,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39387440",
+        "plex": {
+          "guid": "67deb60606664721b90ad656",
+          "slug": "sold-out-on-you-1"
+        },
+        "slug": "sold-out-on-you",
+        "tmdb": 287011,
+        "tvdb": 461821,
+        "trakt": 280075
+      },
+      "year": 2026,
+      "title": "Sold Out on You",
+      "aired_episodes": 6
+    },
+    "rank": 10,
+    "id": 1462066629,
+    "listed_at": "2026-04-28T00:00:22.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39333617",
+        "plex": {
+          "guid": "674ea584ad4451090c84fa57",
+          "slug": "perfect-crown-1"
+        },
+        "slug": "perfect-crown",
+        "tmdb": 278573,
+        "tvdb": 457394,
+        "trakt": 265819
+      },
+      "year": 2026,
+      "title": "Perfect Crown",
+      "aired_episodes": 10
+    },
+    "rank": 11,
+    "id": 1461429421,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41090249",
+        "plex": {
+          "guid": "69b6a48418fd4e188f018774",
+          "slug": "the-absolute-value-of-romance-1"
+        },
+        "slug": "absolute-value-of-romance",
+        "tmdb": 314784,
+        "tvdb": 473833,
+        "trakt": 317636
+      },
+      "year": 2026,
+      "title": "Absolute Value of Romance",
+      "aired_episodes": 10
+    },
+    "rank": 12,
+    "id": 1462833619,
+    "listed_at": "2026-04-30T00:06:13.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36732944",
+        "plex": {
+          "guid": "691e16194fda848ad9c64dcc",
+          "slug": "we-are-all-trying-here"
+        },
+        "slug": "we-are-all-trying-here",
+        "tmdb": 289424,
+        "tvdb": 462837,
+        "trakt": 283140
+      },
+      "year": 2026,
+      "title": "We Are All Trying Here",
+      "aired_episodes": 7
+    },
+    "rank": 13,
+    "id": 1461429422,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39010903",
+        "plex": {
+          "guid": "689ac73ac4d27c66876b0343",
+          "slug": "filing-for-love"
+        },
+        "slug": "filing-for-love",
+        "tmdb": 297640,
+        "tvdb": 466543,
+        "trakt": 294054
+      },
+      "year": 2026,
+      "title": "Filing for Love",
+      "aired_episodes": 5
+    },
+    "rank": 14,
+    "id": 1462066631,
+    "listed_at": "2026-04-28T00:00:22.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8772296",
+        "plex": {
+          "guid": "5d9c091b170e24001f2af270",
+          "slug": "euphoria-us"
+        },
+        "slug": "euphoria-2019",
+        "tmdb": 85552,
+        "tvdb": 360261,
+        "trakt": 144629
+      },
+      "year": 2019,
+      "title": "Euphoria",
+      "aired_episodes": 20
+    },
+    "rank": 15,
+    "id": 1461429424,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9813792",
+        "plex": {
+          "guid": "608ae6cf5077dd002d3bb8be",
+          "slug": "from"
+        },
+        "slug": "from",
+        "tmdb": 124364,
+        "tvdb": 401003,
+        "trakt": 188205
+      },
+      "year": 2022,
+      "title": "FROM",
+      "aired_episodes": 33
+    },
+    "rank": 16,
+    "id": 1461429426,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32420734",
+        "plex": {
+          "guid": "664c912d9ecccd2ff053cd86",
+          "slug": "rooster"
+        },
+        "slug": "rooster",
+        "tmdb": 254953,
+        "tvdb": 457770,
+        "trakt": 240718
+      },
+      "year": 2026,
+      "title": "Rooster",
+      "aired_episodes": 9
+    },
+    "rank": 17,
+    "id": 1461429427,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt30923123",
+        "plex": {
+          "guid": "68024ff83fe58bc416057189",
+          "slug": "the-audacity"
+        },
+        "slug": "the-audacity",
+        "tmdb": 258036,
+        "tvdb": 459000,
+        "trakt": 246726
+      },
+      "year": 2026,
+      "title": "The Audacity",
+      "aired_episodes": 5
+    },
+    "rank": 18,
+    "id": 1461429428,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33995822",
+        "plex": {
+          "guid": "680dcacb04723c8c65b192aa",
+          "slug": "the-cage-4"
+        },
+        "slug": "the-cage-2026",
+        "tmdb": 287230,
+        "tvdb": 461846,
+        "trakt": 280376
+      },
+      "year": 2026,
+      "title": "The Cage",
+      "aired_episodes": 2
+    },
+    "rank": 19,
+    "id": 1462472835,
+    "listed_at": "2026-04-29T00:04:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36849871",
+        "plex": {
+          "guid": "681bfb361a7ad6c1b6da9873",
+          "slug": "marshals"
+        },
+        "slug": "marshals",
+        "tmdb": 290856,
+        "tvdb": 463433,
+        "trakt": 284855
+      },
+      "year": 2026,
+      "title": "Marshals",
+      "aired_episodes": 10
+    },
+    "rank": 20,
+    "id": 1461429429,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36363511",
+        "plex": {
+          "guid": "67fa37a76dedef4b68533ecd",
+          "slug": "mint-1"
+        },
+        "slug": "mint",
+        "tmdb": 247032,
+        "tvdb": 462006,
+        "trakt": 227376
+      },
+      "year": 2026,
+      "title": "Mint",
+      "aired_episodes": 6
+    },
+    "rank": 21,
+    "id": 1461429430,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39245629",
+        "plex": {
+          "guid": "6830c5cc1fd12bb4d612f96e",
+          "slug": "the-scarecrow"
+        },
+        "slug": "the-scarecrow",
+        "tmdb": 292121,
+        "tvdb": 466122,
+        "trakt": 286484
+      },
+      "year": 2026,
+      "title": "The Scarecrow",
+      "aired_episodes": 6
+    },
+    "rank": 22,
+    "id": 1463701776,
+    "listed_at": "2026-05-03T00:04:16.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt35668813",
+        "plex": {
+          "guid": "699dfa78ac669a54a4d4211a",
+          "slug": "unconditional-1"
+        },
+        "slug": "unconditional-2026",
+        "tmdb": 314916,
+        "tvdb": 459958,
+        "trakt": 316966
+      },
+      "year": 2026,
+      "title": "Unconditional",
+      "aired_episodes": 2
+    },
+    "rank": 23,
+    "id": 1461429449,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31137273",
+        "plex": {
+          "guid": "65be308abf1c327017d109b2",
+          "slug": "margos-got-money-troubles"
+        },
+        "slug": "margo-s-got-money-troubles",
+        "tmdb": 245318,
+        "tvdb": 445651,
+        "trakt": 223228
+      },
+      "year": 2026,
+      "title": "Margo's Got Money Troubles",
+      "aired_episodes": 6
+    },
+    "rank": 24,
+    "id": 1461429433,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32767294",
+        "plex": {
+          "guid": "663d641c1d1e5710e3608a41",
+          "slug": "half-man"
+        },
+        "slug": "half-man",
+        "tmdb": 257994,
+        "tvdb": 446817,
+        "trakt": 246405
+      },
+      "year": 2026,
+      "title": "Half Man",
+      "aired_episodes": 3
+    },
+    "rank": 25,
+    "id": 1461429435,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33332385",
+        "plex": {
+          "guid": "66da94bee48eef4cef8fc3e6",
+          "slug": "widows-bay"
+        },
+        "slug": "widow-s-bay",
+        "tmdb": 270476,
+        "tvdb": 454109,
+        "trakt": 254678
+      },
+      "year": 2026,
+      "title": "Widow's Bay",
+      "aired_episodes": 3
+    },
+    "rank": 26,
+    "id": 1461429436,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt1190634",
+        "plex": {
+          "guid": "5d9c08f246115600200ae0f6",
+          "slug": "the-boys"
+        },
+        "slug": "the-boys-2019",
+        "tmdb": 76479,
+        "tvdb": 355567,
+        "trakt": 139960
+      },
+      "year": 2019,
+      "title": "The Boys",
+      "aired_episodes": 38
+    },
+    "rank": 27,
+    "id": 1461429437,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33022938",
+        "plex": {
+          "guid": "6733b5377ed74808b73991f2",
+          "slug": "the-house-of-the-spirits-1"
+        },
+        "slug": "the-house-of-the-spirits",
+        "tmdb": 259702,
+        "tvdb": 452532,
+        "trakt": 249464
+      },
+      "year": 2026,
+      "title": "The House of the Spirits",
+      "aired_episodes": 5
+    },
+    "rank": 28,
+    "id": 1463458396,
+    "listed_at": "2026-05-02T00:00:24.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33546863",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "off-campus",
+        "tmdb": 273240,
+        "tvdb": 455086,
+        "trakt": 258304
+      },
+      "year": 2026,
+      "title": "Off Campus",
+      "aired_episodes": 0
+    },
+    "rank": 29,
+    "id": 1462066632,
+    "listed_at": "2026-04-28T00:00:22.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37253311",
+        "plex": {
+          "guid": "69cb8f83cb76b7c75922c91c",
+          "slug": "gold-land-1"
+        },
+        "slug": "gold-land",
+        "tmdb": 278113,
+        "tvdb": 457275,
+        "trakt": 265259
+      },
+      "year": 2026,
+      "title": "Gold Land",
+      "aired_episodes": 4
+    },
+    "rank": 30,
+    "id": 1464722650,
+    "listed_at": "2026-05-07T00:06:15.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt10970762",
+        "plex": {
+          "guid": "67ec4b17063a2874f7d50ea5",
+          "slug": "the-testaments-2"
+        },
+        "slug": "the-testaments",
+        "tmdb": 287527,
+        "tvdb": 460241,
+        "trakt": 280754
+      },
+      "year": 2026,
+      "title": "The Testaments",
+      "aired_episodes": 7
+    },
+    "rank": 31,
+    "id": 1461429438,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39900984",
+        "plex": {
+          "guid": "699ef29592c3f989e1bbed01",
+          "slug": "zlutou-zabou-az-do-mongolska"
+        },
+        "slug": "zlutou-zabou-az-do-mongolska",
+        "tmdb": 314611,
+        "tvdb": null,
+        "trakt": 316881
+      },
+      "year": 2026,
+      "title": "Žlutou žábou až do Mongolska",
+      "aired_episodes": 11
+    },
+    "rank": 32,
+    "id": 1461429439,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34991493",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "dutton-ranch",
+        "tmdb": 299167,
+        "tvdb": 463308,
+        "trakt": 296208
+      },
+      "year": 2026,
+      "title": "Dutton Ranch",
+      "aired_episodes": 0
+    },
+    "rank": 33,
+    "id": 1461429454,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt27557289",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-boroughs",
+        "tmdb": 224941,
+        "tvdb": 433989,
+        "trakt": 204528
+      },
+      "year": 2026,
+      "title": "The Boroughs",
+      "aired_episodes": 0
+    },
+    "rank": 34,
+    "id": 1461429455,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt2861424",
+        "plex": {
+          "guid": "5d9c08382192ba001f30a9c7",
+          "slug": "rick-and-morty"
+        },
+        "slug": "rick-and-morty",
+        "tmdb": 60625,
+        "tvdb": 275274,
+        "trakt": 69829
+      },
+      "year": 2013,
+      "title": "Rick and Morty",
+      "aired_episodes": 81
+    },
+    "rank": 35,
+    "id": 1461429456,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt30460310",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "spider-noir",
+        "tmdb": 220102,
+        "tvdb": 450033,
+        "trakt": 202400
+      },
+      "year": 2026,
+      "title": "Spider-Noir",
+      "aired_episodes": 0
+    },
+    "rank": 36,
+    "id": 1461429457,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt40385200",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "world-war-ii-with-tom-hanks",
+        "tmdb": 316992,
+        "tvdb": null,
+        "trakt": 317627
+      },
+      "year": 2026,
+      "title": "World War II with Tom Hanks",
+      "aired_episodes": 0
+    },
+    "rank": 37,
+    "id": 1461429458,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32140872",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "star-city",
+        "tmdb": 252107,
+        "tvdb": 449146,
+        "trakt": 235622
+      },
+      "year": 2026,
+      "title": "Star City",
+      "aired_episodes": 0
+    },
+    "rank": 38,
+    "id": 1461429459,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34675596",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "cape-fear",
+        "tmdb": 277439,
+        "tvdb": 456813,
+        "trakt": 264291
+      },
+      "year": 2026,
+      "title": "Cape Fear",
+      "aired_episodes": 0
+    },
+    "rank": 39,
+    "id": 1461429460,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt16418808",
+        "plex": {
+          "guid": "62a35be541db86d50abcadfb",
+          "slug": "sugar-2024"
+        },
+        "slug": "sugar-2024",
+        "tmdb": 203744,
+        "tvdb": 421070,
+        "trakt": 196180
+      },
+      "year": 2024,
+      "title": "Sugar",
+      "aired_episodes": 8
+    },
+    "rank": 40,
+    "id": 1461429461,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11198330",
+        "plex": {
+          "guid": "5e160ed3e68804001e87a7b5",
+          "slug": "house-of-the-dragon"
+        },
+        "slug": "house-of-the-dragon",
+        "tmdb": 94997,
+        "tvdb": 371572,
+        "trakt": 154574
+      },
+      "year": 2022,
+      "title": "House of the Dragon",
+      "aired_episodes": 18
+    },
+    "rank": 41,
+    "id": 1462472836,
+    "listed_at": "2026-04-29T00:04:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt14688458",
+        "plex": {
+          "guid": "61b180686bfb4feb48515e07",
+          "slug": "silo"
+        },
+        "slug": "silo",
+        "tmdb": 125988,
+        "tvdb": 403245,
+        "trakt": 180770
+      },
+      "year": 2023,
+      "title": "Silo",
+      "aired_episodes": 20
+    },
+    "rank": 42,
+    "id": 1461429462,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7414406",
+        "plex": {
+          "guid": "5d9c090108fddd001f2a5b4b",
+          "slug": "all-american"
+        },
+        "slug": "all-american-2018",
+        "tmdb": 82428,
+        "tvdb": 348200,
+        "trakt": 131353
+      },
+      "year": 2018,
+      "title": "All American",
+      "aired_episodes": 119
+    },
+    "rank": 43,
+    "id": 1461429463,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34866681",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "lucky-2026",
+        "tmdb": 278624,
+        "tvdb": 457437,
+        "trakt": 265812
+      },
+      "year": 2026,
+      "title": "Lucky",
+      "aired_episodes": 0
+    },
+    "rank": 44,
+    "id": 1461429464,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt10986410",
+        "plex": {
+          "guid": "5e204251072b9e003ca5c140",
+          "slug": "ted-lasso"
+        },
+        "slug": "ted-lasso",
+        "tmdb": 97546,
+        "tvdb": 383203,
+        "trakt": 162639
+      },
+      "year": 2020,
+      "title": "Ted Lasso",
+      "aired_episodes": 34
+    },
+    "rank": 45,
+    "id": 1464510658,
+    "listed_at": "2026-05-06T00:02:17.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9794044",
+        "plex": {
+          "guid": "5e165ad891c203004123a1b5",
+          "slug": "citadel"
+        },
+        "slug": "citadel",
+        "tmdb": 114922,
+        "tvdb": 393268,
+        "trakt": 171028
+      },
+      "year": 2023,
+      "title": "Citadel",
+      "aired_episodes": 13
+    },
+    "rank": 46,
+    "id": 1461429450,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13745850",
+        "plex": {
+          "guid": "6190f2b7646c288531f04ccf",
+          "slug": "the-last-thing-he-told-me"
+        },
+        "slug": "the-last-thing-he-told-me",
+        "tmdb": 201289,
+        "tvdb": 406686,
+        "trakt": 195284
+      },
+      "year": 2023,
+      "title": "The Last Thing He Told Me",
+      "aired_episodes": 15
+    },
+    "rank": 47,
+    "id": 1461429466,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt17220216",
+        "plex": {
+          "guid": "629239d5227b9116a93569f0",
+          "slug": "monarch-legacy-of-monsters"
+        },
+        "slug": "monarch-legacy-of-monsters",
+        "tmdb": 202411,
+        "tvdb": 422598,
+        "trakt": 195644
+      },
+      "year": 2023,
+      "title": "Monarch: Legacy of Monsters",
+      "aired_episodes": 20
+    },
+    "rank": 48,
+    "id": 1461429443,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt18923754",
+        "plex": {
+          "guid": "628b9a7558130eca919281cb",
+          "slug": "daredevil-born-again"
+        },
+        "slug": "daredevil-born-again",
+        "tmdb": 202555,
+        "tvdb": 422712,
+        "trakt": 195845
+      },
+      "year": 2025,
+      "title": "Daredevil: Born Again",
+      "aired_episodes": 17
+    },
+    "rank": 49,
+    "id": 1461429432,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt27331527",
+        "plex": {
+          "guid": "6424274be7025053a45a7e0c",
+          "slug": "man-on-fire"
+        },
+        "slug": "man-on-fire",
+        "tmdb": 223386,
+        "tvdb": 433027,
+        "trakt": 203594
+      },
+      "year": 2026,
+      "title": "Man on Fire",
+      "aired_episodes": 7
+    },
+    "rank": 50,
+    "id": 1461429444,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt27486290",
+        "plex": {
+          "guid": "68093ee067a55c6c48b25952",
+          "slug": "stranger-things-tales-from-85"
+        },
+        "slug": "stranger-things-tales-from-85",
+        "tmdb": 224263,
+        "tvdb": 462906,
+        "trakt": 204203
+      },
+      "year": 2026,
+      "title": "Stranger Things: Tales from '85",
+      "aired_episodes": 10
+    },
+    "rank": 51,
+    "id": 1461429467,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt16997004",
+        "plex": {
+          "guid": "65fe1b86894085ba7bd8ed87",
+          "slug": "matka-king"
+        },
+        "slug": "matka-king",
+        "tmdb": 249765,
+        "tvdb": 476174,
+        "trakt": 231996
+      },
+      "year": 2026,
+      "title": "Matka King",
+      "aired_episodes": 8
+    },
+    "rank": 52,
+    "id": 1461429468,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31909098",
+        "plex": {
+          "guid": "6602f0d4b42181dae868b6ab",
+          "slug": "the-miniature-wife"
+        },
+        "slug": "the-miniature-wife",
+        "tmdb": 250220,
+        "tvdb": 448132,
+        "trakt": 232617
+      },
+      "year": 2026,
+      "title": "The Miniature Wife",
+      "aired_episodes": 10
+    },
+    "rank": 53,
+    "id": 1461429469,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31937954",
+        "plex": {
+          "guid": "6618540eb55799d71ea9e060",
+          "slug": "imperfect-women-1"
+        },
+        "slug": "imperfect-women",
+        "tmdb": 108181,
+        "tvdb": 448179,
+        "trakt": 232778
+      },
+      "year": 2026,
+      "title": "Imperfect Women",
+      "aired_episodes": 8
+    },
+    "rank": 54,
+    "id": 1461429434,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32499838",
+        "plex": {
+          "guid": "665a8f96cb0ebc6783fed175",
+          "slug": "kevin"
+        },
+        "slug": "kevin",
+        "tmdb": 255760,
+        "tvdb": 450674,
+        "trakt": 242541
+      },
+      "year": 2026,
+      "title": "Kevin",
+      "aired_episodes": 8
+    },
+    "rank": 55,
+    "id": 1461429470,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32974250",
+        "plex": {
+          "guid": "66d074f49e31390470dc6c70",
+          "slug": "naughty-business"
+        },
+        "slug": "naughty-business",
+        "tmdb": 258842,
+        "tvdb": 452094,
+        "trakt": 248217
+      },
+      "year": 2026,
+      "title": "Naughty Business",
+      "aired_episodes": 8
+    },
+    "rank": 56,
+    "id": 1462472837,
+    "listed_at": "2026-04-29T00:04:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32932523",
+        "plex": {
+          "guid": "6699f0178b365400e0c3ccc2",
+          "slug": "worst-ex-ever-1"
+        },
+        "slug": "worst-ex-ever",
+        "tmdb": 259259,
+        "tvdb": 452357,
+        "trakt": 248773
+      },
+      "year": 2024,
+      "title": "Worst Ex Ever",
+      "aired_episodes": 8
+    },
+    "rank": 57,
+    "id": 1461429451,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31631142",
+        "plex": {
+          "guid": "66d077f58e425a34ab364caf",
+          "slug": "unchosen"
+        },
+        "slug": "unchosen",
+        "tmdb": 262848,
+        "tvdb": 453813,
+        "trakt": 253675
+      },
+      "year": 2026,
+      "title": "Unchosen",
+      "aired_episodes": 6
+    },
+    "rank": 58,
+    "id": 1461429471,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37024175",
+        "plex": {
+          "guid": "66d9793c6abce217354e6c25",
+          "slug": "bandi"
+        },
+        "slug": "bandi",
+        "tmdb": 269161,
+        "tvdb": 475364,
+        "trakt": 254655
+      },
+      "year": 2026,
+      "title": "Bandi",
+      "aired_episodes": 8
+    },
+    "rank": 59,
+    "id": 1461429472,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt35466672",
+        "plex": {
+          "guid": "679960dab0ac6cec256baf3f",
+          "slug": "malcolm-in-the-middle-lifes-still-unfair"
+        },
+        "slug": "malcolm-in-the-middle-life-s-still-unfair",
+        "tmdb": 279471,
+        "tvdb": 457779,
+        "trakt": 269843
+      },
+      "year": 2026,
+      "title": "Malcolm in the Middle: Life's Still Unfair",
+      "aired_episodes": 4
+    },
+    "rank": 60,
+    "id": 1461429474,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt35668375",
+        "plex": {
+          "guid": "67a6d1d0dd581e4020d26fe4",
+          "slug": "glory-1"
+        },
+        "slug": "glory",
+        "tmdb": 283657,
+        "tvdb": 459821,
+        "trakt": 275656
+      },
+      "year": 2026,
+      "title": "Glory",
+      "aired_episodes": 7
+    },
+    "rank": 61,
+    "id": 1464722651,
+    "listed_at": "2026-05-07T00:06:15.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36104233",
+        "plex": {
+          "guid": "6822f91fa0c44e014e9a211b",
+          "slug": "if-wishes-could-kill"
+        },
+        "slug": "if-wishes-could-kill",
+        "tmdb": 285838,
+        "tvdb": 461062,
+        "trakt": 278535
+      },
+      "year": 2026,
+      "title": "If Wishes Could Kill",
+      "aired_episodes": 8
+    },
+    "rank": 62,
+    "id": 1462066633,
+    "listed_at": "2026-04-28T00:00:22.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32477632",
+        "plex": {
+          "guid": "666ff784c406d01ce6d6edd6",
+          "slug": "secret-service-1"
+        },
+        "slug": "secret-service-2026",
+        "tmdb": 287450,
+        "tvdb": 451314,
+        "trakt": 280659
+      },
+      "year": 2026,
+      "title": "Secret Service",
+      "aired_episodes": 5
+    },
+    "rank": 63,
+    "id": 1462833620,
+    "listed_at": "2026-04-30T00:06:13.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37031059",
+        "plex": {
+          "guid": "67ed2df19c8773840b003b26",
+          "slug": "flunked"
+        },
+        "slug": "flunked",
+        "tmdb": 287978,
+        "tvdb": 475208,
+        "trakt": 281253
+      },
+      "year": 2026,
+      "title": "Flunked",
+      "aired_episodes": 8
+    },
+    "rank": 64,
+    "id": 1462066634,
+    "listed_at": "2026-04-28T00:00:22.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36742714",
+        "plex": {
+          "guid": "69c701beb12646cd123f5558",
+          "slug": "santita"
+        },
+        "slug": "santita",
+        "tmdb": 290230,
+        "tvdb": 473121,
+        "trakt": 284121
+      },
+      "year": 2026,
+      "title": "Santita",
+      "aired_episodes": 7
+    },
+    "rank": 65,
+    "id": 1462472838,
+    "listed_at": "2026-04-29T00:04:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36957934",
+        "plex": {
+          "guid": "68a2c3a99c0cefc0c6d48e41",
+          "slug": "big-mistakes"
+        },
+        "slug": "big-mistakes",
+        "tmdb": 291506,
+        "tvdb": 466852,
+        "trakt": 285724
+      },
+      "year": 2026,
+      "title": "Big Mistakes",
+      "aired_episodes": 8
+    },
+    "rank": 66,
+    "id": 1461429475,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37091702",
+        "plex": {
+          "guid": "683b66bb3803e7bfd475c072",
+          "slug": "the-glass-house-2026"
+        },
+        "slug": "the-glass-house-2026",
+        "tmdb": 292686,
+        "tvdb": 464207,
+        "trakt": 287178
+      },
+      "year": 2026,
+      "title": "The Glass House",
+      "aired_episodes": 6
+    },
+    "rank": 67,
+    "id": 1464510659,
+    "listed_at": "2026-05-06T00:02:17.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38337374",
+        "plex": {
+          "guid": "68d4c2f1c288b36263533cb7",
+          "slug": "straight-to-hell-1"
+        },
+        "slug": "straight-to-hell",
+        "tmdb": 300529,
+        "tvdb": 468044,
+        "trakt": 298668
+      },
+      "year": 2026,
+      "title": "Straight to Hell",
+      "aired_episodes": 9
+    },
+    "rank": 68,
+    "id": 1464722652,
+    "listed_at": "2026-05-07T00:06:15.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38494451",
+        "plex": {
+          "guid": "68dfa39e410782339d4db97d",
+          "slug": "missed-call"
+        },
+        "slug": "missed-call",
+        "tmdb": 301370,
+        "tvdb": 471753,
+        "trakt": 299765
+      },
+      "year": 2026,
+      "title": "Missed Call",
+      "aired_episodes": 5
+    },
+    "rank": 69,
+    "id": 1462066635,
+    "listed_at": "2026-04-28T00:00:22.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38582409",
+        "plex": {
+          "guid": "68e248a43ee090733523bbeb",
+          "slug": "el-homenaje"
+        },
+        "slug": "the-tribute",
+        "tmdb": 302034,
+        "tvdb": null,
+        "trakt": 301044
+      },
+      "year": 2026,
+      "title": "The Tribute",
+      "aired_episodes": 8
+    },
+    "rank": 70,
+    "id": 1464236388,
+    "listed_at": "2026-05-05T00:02:17.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34273502",
+        "plex": {
+          "guid": "6757d233521ed9d2cf338e5d",
+          "slug": "prisoner-2026"
+        },
+        "slug": "prisoner-2026",
+        "tmdb": 311858,
+        "tvdb": 456090,
+        "trakt": 314606
+      },
+      "year": 2026,
+      "title": "Prisoner",
+      "aired_episodes": 6
+    },
+    "rank": 71,
+    "id": 1463701777,
+    "listed_at": "2026-05-03T00:04:16.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt40826311",
+        "plex": {
+          "guid": "69bd888a7ab07ecca2a770b6",
+          "slug": "trust-me-the-false-prophet"
+        },
+        "slug": "trust-me-the-false-prophet",
+        "tmdb": 316898,
+        "tvdb": 475706,
+        "trakt": 317595
+      },
+      "year": 2026,
+      "title": "Trust Me: The False Prophet",
+      "aired_episodes": 4
+    },
+    "rank": 72,
+    "id": 1461429480,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37041367",
+        "plex": {
+          "guid": "69b43bd357302fe4edc38ed3",
+          "slug": "ronaldinho-the-one-and-only"
+        },
+        "slug": "ronaldinho-the-one-and-only",
+        "tmdb": 316544,
+        "tvdb": 475363,
+        "trakt": 317694
+      },
+      "year": 2026,
+      "title": "Ronaldinho: The One and Only",
+      "aired_episodes": 3
+    },
+    "rank": 73,
+    "id": 1461429482,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39656291",
+        "plex": {
+          "guid": "69b5538d565fd0b0cd81d8e8",
+          "slug": "the-dark-wizard"
+        },
+        "slug": "the-dark-wizard",
+        "tmdb": 316527,
+        "tvdb": 476088,
+        "trakt": 317472
+      },
+      "year": 2026,
+      "title": "The Dark Wizard",
+      "aired_episodes": 4
+    },
+    "rank": 74,
+    "id": 1464963638,
+    "listed_at": "2026-05-08T00:12:23.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37366823",
+        "plex": {
+          "guid": "68571d28995c7891cd50998d",
+          "slug": "twenty-twenty-six"
+        },
+        "slug": "twenty-twenty-six",
+        "tmdb": 317556,
+        "tvdb": 464942,
+        "trakt": 317787
+      },
+      "year": 2026,
+      "title": "Twenty Twenty Six",
+      "aired_episodes": 5
+    },
+    "rank": 75,
+    "id": 1461429440,
+    "listed_at": "2026-04-25T21:14:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41082351",
+        "plex": {
+          "guid": "69cd9bfae23adb8b7fa721a1",
+          "slug": "should-i-marry-a-murderer"
+        },
+        "slug": "should-i-marry-a-murderer",
+        "tmdb": 318262,
+        "tvdb": 476125,
+        "trakt": 318003
+      },
+      "year": 2026,
+      "title": "Should I Marry A Murderer?",
+      "aired_episodes": 3
+    },
+    "rank": 76,
+    "id": 1464236389,
+    "listed_at": "2026-05-05T00:02:17.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41508977",
+        "plex": {
+          "guid": "69d5066ed9cd0a3327e6951e",
+          "slug": "hulk-hogan-real-american"
+        },
+        "slug": "hulk-hogan-real-american",
+        "tmdb": 318880,
+        "tvdb": 476473,
+        "trakt": 318163
+      },
+      "year": 2026,
+      "title": "Hulk Hogan: Real American",
+      "aired_episodes": 4
+    },
+    "rank": 77,
+    "id": 1462472840,
+    "listed_at": "2026-04-29T00:04:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41611874",
+        "plex": {
+          "guid": "69d8ce8c86edc664c827b8ae",
+          "slug": "my-killer-father-the-green-hollow-murders-1"
+        },
+        "slug": "my-killer-father-the-green-hollow-murders",
+        "tmdb": 318179,
+        "tvdb": 476602,
+        "trakt": 318401
+      },
+      "year": 2026,
+      "title": "My Killer Father: The Green Hollow Murders",
+      "aired_episodes": 3
+    },
+    "rank": 78,
+    "id": 1464236390,
+    "listed_at": "2026-05-05T00:02:17.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt40699747",
+        "plex": {
+          "guid": "69deb9fbcb485c80c003064a",
+          "slug": "lis-2"
+        },
+        "slug": "lis",
+        "tmdb": 316630,
+        "tvdb": 457520,
+        "trakt": 318424
+      },
+      "year": 2026,
+      "title": "LIS",
+      "aired_episodes": 8
+    },
+    "rank": 79,
+    "id": 1464722653,
+    "listed_at": "2026-05-07T00:06:15.000Z",
+    "notes": null
+  }
+]

@@ -1,0 +1,2463 @@
+[
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt3006802",
+        "plex": {
+          "guid": "5d9c082302391c001f5820d4",
+          "slug": "outlander"
+        },
+        "slug": "outlander",
+        "tmdb": 56570,
+        "tvdb": 270408,
+        "trakt": 56212
+      },
+      "year": 2014,
+      "title": "Outlander",
+      "aired_episodes": 100
+    },
+    "rank": 1,
+    "id": 1465163223,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39333617",
+        "plex": {
+          "guid": "674ea584ad4451090c84fa57",
+          "slug": "perfect-crown-1"
+        },
+        "slug": "perfect-crown",
+        "tmdb": 278573,
+        "tvdb": 457394,
+        "trakt": 265819
+      },
+      "year": 2026,
+      "title": "Perfect Crown",
+      "aired_episodes": 10
+    },
+    "rank": 2,
+    "id": 1465163224,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32268630",
+        "plex": {
+          "guid": "6634a38e4a044f7f876506aa",
+          "slug": "sheriff-country"
+        },
+        "slug": "sheriff-country",
+        "tmdb": 253391,
+        "tvdb": 449708,
+        "trakt": 238131
+      },
+      "year": 2025,
+      "title": "Sheriff Country",
+      "aired_episodes": 18
+    },
+    "rank": 3,
+    "id": 1465106724,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt16098700",
+        "plex": {
+          "guid": "627e37a6dcbc250fc7b9abce",
+          "slug": "fire-country"
+        },
+        "slug": "fire-country",
+        "tmdb": 202297,
+        "tvdb": 420063,
+        "trakt": 195577
+      },
+      "year": 2022,
+      "title": "Fire Country",
+      "aired_episodes": 70
+    },
+    "rank": 4,
+    "id": 1465106725,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt35826715",
+        "plex": {
+          "guid": "67b5362ff6be73365de6d070",
+          "slug": "boston-blue"
+        },
+        "slug": "boston-blue",
+        "tmdb": 284736,
+        "tvdb": 460392,
+        "trakt": 277132
+      },
+      "year": 2025,
+      "title": "Boston Blue",
+      "aired_episodes": 18
+    },
+    "rank": 5,
+    "id": 1465106726,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt12392496",
+        "plex": {
+          "guid": "5f07205016b164004031c706",
+          "slug": "undekhi"
+        },
+        "slug": "undekhi",
+        "tmdb": 105759,
+        "tvdb": 385124,
+        "trakt": 164591
+      },
+      "year": 2020,
+      "title": "Undekhi",
+      "aired_episodes": 32
+    },
+    "rank": 6,
+    "id": 1465106727,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41090249",
+        "plex": {
+          "guid": "69b6a48418fd4e188f018774",
+          "slug": "the-absolute-value-of-romance-1"
+        },
+        "slug": "absolute-value-of-romance",
+        "tmdb": 314784,
+        "tvdb": 473833,
+        "trakt": 317636
+      },
+      "year": 2026,
+      "title": "Absolute Value of Romance",
+      "aired_episodes": 10
+    },
+    "rank": 7,
+    "id": 1465106728,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31701210",
+        "plex": {
+          "guid": "6646a0327e29d143b5f7b151",
+          "slug": "light-to-the-night"
+        },
+        "slug": "light-to-the-night",
+        "tmdb": 254498,
+        "tvdb": 450114,
+        "trakt": 240083
+      },
+      "year": 2026,
+      "title": "Light to the Night",
+      "aired_episodes": 22
+    },
+    "rank": 8,
+    "id": 1464550565,
+    "listed_at": "2026-05-06T05:12:16.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28267514",
+        "plex": {
+          "guid": "65d1dfcbcc4a37319ea09ce6",
+          "slug": "thank-you-next"
+        },
+        "slug": "thank-you-next",
+        "tmdb": 251883,
+        "tvdb": 446276,
+        "trakt": 235382
+      },
+      "year": 2024,
+      "title": "Thank You, Next",
+      "aired_episodes": 24
+    },
+    "rank": 9,
+    "id": 1465163225,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt4859164",
+        "plex": {
+          "guid": "5d9c080c08fddd001f2910e9",
+          "slug": "the-loud-house"
+        },
+        "slug": "the-loud-house",
+        "tmdb": 68073,
+        "tvdb": 309726,
+        "trakt": 106798
+      },
+      "year": 2016,
+      "title": "The Loud House",
+      "aired_episodes": 395
+    },
+    "rank": 10,
+    "id": 1465106729,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0103396",
+        "plex": {
+          "guid": "5d9c07fe6c3e37001ecd3821",
+          "slug": "dateline-nbc"
+        },
+        "slug": "dateline-nbc",
+        "tmdb": 78,
+        "tvdb": 70600,
+        "trakt": 77
+      },
+      "year": 1992,
+      "title": "Dateline NBC",
+      "aired_episodes": 1086
+    },
+    "rank": 11,
+    "id": 1465106730,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39501026",
+        "plex": {
+          "guid": "6971f1ff96864a05290e9555",
+          "slug": "hell-university"
+        },
+        "slug": "hell-university",
+        "tmdb": 312172,
+        "tvdb": null,
+        "trakt": 314948
+      },
+      "year": 2026,
+      "title": "Hell University",
+      "aired_episodes": 14
+    },
+    "rank": 12,
+    "id": 1465163226,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13554536",
+        "plex": {
+          "guid": "658ba8c77268a8355209861b",
+          "slug": "late-bloomer"
+        },
+        "slug": "late-bloomer",
+        "tmdb": 243732,
+        "tvdb": 443805,
+        "trakt": 220668
+      },
+      "year": 2024,
+      "title": "Late Bloomer",
+      "aired_episodes": 20
+    },
+    "rank": 13,
+    "id": 1465106731,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34929679",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "only-friends-dream-on",
+        "tmdb": 315472,
+        "tvdb": null,
+        "trakt": 317233
+      },
+      "year": 2026,
+      "title": "Only Friends: Dream On",
+      "aired_episodes": 11
+    },
+    "rank": 14,
+    "id": 1465106732,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41926853",
+        "plex": {
+          "guid": "66fa52e27f8be67b5cdcaf9b",
+          "slug": "the-perfect-match-5"
+        },
+        "slug": "fate-chooses-you",
+        "tmdb": 272715,
+        "tvdb": 474159,
+        "trakt": 257670
+      },
+      "year": 2026,
+      "title": "Fate Chooses You",
+      "aired_episodes": 31
+    },
+    "rank": 15,
+    "id": 1465163227,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21764074",
+        "plex": {
+          "guid": "634c1d6eb08633a132172b35",
+          "slug": "cranberry-sorbet"
+        },
+        "slug": "cranberry-sorbet",
+        "tmdb": 213194,
+        "tvdb": 425337,
+        "trakt": 199268
+      },
+      "year": 2022,
+      "title": "Cranberry Sorbet",
+      "aired_episodes": 137
+    },
+    "rank": 16,
+    "id": 1465106733,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0075474",
+        "plex": {
+          "guid": "5d9c08502192ba001f30cac7",
+          "slug": "the-old-fox"
+        },
+        "slug": "the-old-fox",
+        "tmdb": 37971,
+        "tvdb": 91061,
+        "trakt": 65979
+      },
+      "year": 1977,
+      "title": "The Old Fox",
+      "aired_episodes": 481
+    },
+    "rank": 17,
+    "id": 1465106734,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt24635666",
+        "plex": {
+          "guid": "64c8d29ff38380be4fb814d7",
+          "slug": "only-friends-1"
+        },
+        "slug": "only-friends",
+        "tmdb": 217807,
+        "tvdb": 427509,
+        "trakt": 201369
+      },
+      "year": 2023,
+      "title": "Only Friends",
+      "aired_episodes": 23
+    },
+    "rank": 18,
+    "id": 1465106735,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0845088",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "back-streets",
+        "tmdb": 32836,
+        "tvdb": 287190,
+        "trakt": 99003
+      },
+      "year": 2006,
+      "title": "Back Streets",
+      "aired_episodes": 748
+    },
+    "rank": 19,
+    "id": 1465106737,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41986837",
+        "plex": {
+          "guid": "69a98ffd2927dc209a3e5184",
+          "slug": "fake-fact-lips"
+        },
+        "slug": "fake-fact-lips",
+        "tmdb": 315758,
+        "tvdb": 475673,
+        "trakt": 317767
+      },
+      "year": 2026,
+      "title": "Fake Fact Lips",
+      "aired_episodes": 3
+    },
+    "rank": 20,
+    "id": 1465106738,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt27053309",
+        "plex": {
+          "guid": "6477ba0a1ce07b744d81da4b",
+          "slug": "the-unbelievable-with-dan-aykroyd"
+        },
+        "slug": "the-unbelievable-with-dan-aykroyd",
+        "tmdb": 227521,
+        "tvdb": 441983,
+        "trakt": 212939
+      },
+      "year": 2023,
+      "title": "The UnBelievable with Dan Aykroyd",
+      "aired_episodes": 49
+    },
+    "rank": 21,
+    "id": 1465106739,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt1884856",
+        "plex": {
+          "guid": "5d9c082a2192ba001f309297",
+          "slug": "masha-and-the-bear"
+        },
+        "slug": "masha-and-the-bear",
+        "tmdb": 46080,
+        "tvdb": 136401,
+        "trakt": 45824
+      },
+      "year": 2009,
+      "title": "Masha and the Bear",
+      "aired_episodes": 186
+    },
+    "rank": 22,
+    "id": 1465106740,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0124932",
+        "plex": {
+          "guid": "5d9c087202391c001f58a66c",
+          "slug": "20-20"
+        },
+        "slug": "20-20",
+        "tmdb": 2035,
+        "tvdb": 72289,
+        "trakt": 2022
+      },
+      "year": 1978,
+      "title": "20/20",
+      "aired_episodes": 925
+    },
+    "rank": 23,
+    "id": 1465163228,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt19872918",
+        "plex": {
+          "guid": "648e91519d5962a69d433bf1",
+          "slug": "robogobo"
+        },
+        "slug": "robogobo",
+        "tmdb": 228721,
+        "tvdb": 459143,
+        "trakt": 215995
+      },
+      "year": 2025,
+      "title": "RoboGobo",
+      "aired_episodes": 70
+    },
+    "rank": 24,
+    "id": 1465106741,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34934110",
+        "plex": {
+          "guid": "68075bac3363bc55c02b19b3",
+          "slug": "love-upon-a-time-1"
+        },
+        "slug": "love-upon-a-time",
+        "tmdb": 217838,
+        "tvdb": 462352,
+        "trakt": 220284
+      },
+      "year": 2026,
+      "title": "Love Upon a Time",
+      "aired_episodes": 7
+    },
+    "rank": 25,
+    "id": 1465106742,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt27497430",
+        "plex": {
+          "guid": "6493c481851b62d7486168f6",
+          "slug": "the-demon-hunter"
+        },
+        "slug": "the-demon-hunter",
+        "tmdb": 229192,
+        "tvdb": 436384,
+        "trakt": 206987
+      },
+      "year": 2023,
+      "title": "The Demon Hunter",
+      "aired_episodes": 76
+    },
+    "rank": 26,
+    "id": 1465106743,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37077773",
+        "plex": {
+          "guid": "6850ca953a1d362ecda0375b",
+          "slug": "land-of-ambition"
+        },
+        "slug": "terra-forte",
+        "tmdb": 293939,
+        "tvdb": 468993,
+        "trakt": 288552
+      },
+      "year": 2025,
+      "title": "Terra Forte",
+      "aired_episodes": 141
+    },
+    "rank": 27,
+    "id": 1464086014,
+    "listed_at": "2026-05-04T12:14:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0159876",
+        "plex": {
+          "guid": "5d9c08634eefaa001f5dbfe2",
+          "slug": "great-performances"
+        },
+        "slug": "great-performances",
+        "tmdb": 10029,
+        "tvdb": 76548,
+        "trakt": 9980
+      },
+      "year": 1972,
+      "title": "Great Performances",
+      "aired_episodes": 695
+    },
+    "rank": 28,
+    "id": 1465163229,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt40727461",
+        "plex": {
+          "guid": "69b80926830b8f66ea18b3cf",
+          "slug": "the-double-game"
+        },
+        "slug": "the-double-game",
+        "tmdb": 316675,
+        "tvdb": null,
+        "trakt": 318943
+      },
+      "year": 2026,
+      "title": "The Double Game",
+      "aired_episodes": 13
+    },
+    "rank": 29,
+    "id": 1465163230,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38786276",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "p-a-y",
+        "tmdb": 321225,
+        "tvdb": null,
+        "trakt": 318846
+      },
+      "year": 2026,
+      "title": "P.A.Y",
+      "aired_episodes": 2
+    },
+    "rank": 30,
+    "id": 1465106744,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37028551",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "in-utero",
+        "tmdb": 321056,
+        "tvdb": null,
+        "trakt": 318801
+      },
+      "year": 2026,
+      "title": "In Utero",
+      "aired_episodes": 1
+    },
+    "rank": 31,
+    "id": 1465106745,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41878195",
+        "plex": {
+          "guid": "69d25a2986289fd6d6efb9ea",
+          "slug": "journey-with-you"
+        },
+        "slug": "journey-with-you",
+        "tmdb": 318664,
+        "tvdb": 476905,
+        "trakt": 318486
+      },
+      "year": 2026,
+      "title": "Journey With You",
+      "aired_episodes": 2
+    },
+    "rank": 32,
+    "id": 1465163231,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37969294",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-master-cutter",
+        "tmdb": 320973,
+        "tvdb": null,
+        "trakt": 318782
+      },
+      "year": 2026,
+      "title": "The Master Cutter",
+      "aired_episodes": 1
+    },
+    "rank": 33,
+    "id": 1465106746,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt40628212",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "if-i-die-before-i-wake",
+        "tmdb": 320656,
+        "tvdb": null,
+        "trakt": 318697
+      },
+      "year": 2026,
+      "title": "If I Die Before I Wake",
+      "aired_episodes": 3
+    },
+    "rank": 34,
+    "id": 1465106747,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36854075",
+        "plex": {
+          "guid": "6990cb14330164b12de81641",
+          "slug": "golden-boys-2026"
+        },
+        "slug": "golden-boys",
+        "tmdb": 320452,
+        "tvdb": 473948,
+        "trakt": 318646
+      },
+      "year": 2026,
+      "title": "Golden Boys",
+      "aired_episodes": 3
+    },
+    "rank": 35,
+    "id": 1465106748,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41867324",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "fordomsshowen",
+        "tmdb": 319620,
+        "tvdb": 476835,
+        "trakt": 318539
+      },
+      "year": 2026,
+      "title": "Fördomsshowen",
+      "aired_episodes": 4
+    },
+    "rank": 36,
+    "id": 1465106749,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41712259",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "road-to-glory",
+        "tmdb": 319956,
+        "tvdb": 476884,
+        "trakt": 318480
+      },
+      "year": 2026,
+      "title": "Road to Glory",
+      "aired_episodes": 8
+    },
+    "rank": 37,
+    "id": 1465106751,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34200911",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "rosa-elettrica-in-fuga-con-il-nemico",
+        "tmdb": 319820,
+        "tvdb": null,
+        "trakt": 318465
+      },
+      "year": 2026,
+      "title": "Rosa Elettrica - In fuga con il nemico",
+      "aired_episodes": 2
+    },
+    "rank": 38,
+    "id": 1465106752,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39346510",
+        "plex": {
+          "guid": "69db95f0b2e329997327a9a0",
+          "slug": "skilsmassobarn"
+        },
+        "slug": "skilsmassobarn",
+        "tmdb": 319456,
+        "tvdb": 476677,
+        "trakt": 318365
+      },
+      "year": 2026,
+      "title": "Skilsmässobarn",
+      "aired_episodes": 8
+    },
+    "rank": 39,
+    "id": 1465106753,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt40529758",
+        "plex": {
+          "guid": "699ef1e9924daf1ed461f74f",
+          "slug": "our-happy-days-1"
+        },
+        "slug": "our-happy-days",
+        "tmdb": 313735,
+        "tvdb": 474292,
+        "trakt": 317998
+      },
+      "year": 2026,
+      "title": "Our Happy Days",
+      "aired_episodes": 30
+    },
+    "rank": 40,
+    "id": 1464026005,
+    "listed_at": "2026-05-04T07:38:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41154283",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "doctor-bahu",
+        "tmdb": 317817,
+        "tvdb": null,
+        "trakt": 317873
+      },
+      "year": 2026,
+      "title": "Doctor Bahu",
+      "aired_episodes": 13
+    },
+    "rank": 41,
+    "id": 1465106754,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41155777",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "internet-s-guide-to-mental-health",
+        "tmdb": 317033,
+        "tvdb": null,
+        "trakt": 317838
+      },
+      "year": 2026,
+      "title": "Internet's Guide to Mental Health",
+      "aired_episodes": 8
+    },
+    "rank": 42,
+    "id": 1465106755,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38984263",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "good-boys-go-to-heaven",
+        "tmdb": 317379,
+        "tvdb": null,
+        "trakt": 317761
+      },
+      "year": 2026,
+      "title": "Good Boys Go to Heaven",
+      "aired_episodes": 1
+    },
+    "rank": 43,
+    "id": 1465106756,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33022834",
+        "plex": {
+          "guid": "69c28406b4cf3e9d4fdda634",
+          "slug": "radar-2"
+        },
+        "slug": "radar-2026",
+        "tmdb": 317339,
+        "tvdb": null,
+        "trakt": 317739
+      },
+      "year": 2026,
+      "title": "Radar",
+      "aired_episodes": 5
+    },
+    "rank": 44,
+    "id": 1465106757,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt40184918",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "resort",
+        "tmdb": 315038,
+        "tvdb": null,
+        "trakt": 317012
+      },
+      "year": 2026,
+      "title": "Resort",
+      "aired_episodes": 36
+    },
+    "rank": 45,
+    "id": 1465106758,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39216418",
+        "plex": {
+          "guid": "69ac1899fdcb297b7e125f16",
+          "slug": "vikram-on-duty"
+        },
+        "slug": "vikram-on-duty",
+        "tmdb": 315887,
+        "tvdb": null,
+        "trakt": 317271
+      },
+      "year": 2026,
+      "title": "Vikram On Duty",
+      "aired_episodes": 40
+    },
+    "rank": 46,
+    "id": 1465106759,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt40768745",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "feel-what-you-feel",
+        "tmdb": 316795,
+        "tvdb": 475716,
+        "trakt": 317607
+      },
+      "year": 2026,
+      "title": "Feel What You Feel",
+      "aired_episodes": 8
+    },
+    "rank": 47,
+    "id": 1465106760,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39049268",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "2026-316524",
+        "tmdb": 313544,
+        "tvdb": null,
+        "trakt": 316524
+      },
+      "year": 2026,
+      "title": "Οι Αθώοι",
+      "aired_episodes": 13
+    },
+    "rank": 48,
+    "id": 1465106761,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": "699ef1c48afec2eb0e9ad9e8",
+          "slug": "kaze-kaoru"
+        },
+        "slug": "scent-of-the-wind",
+        "tmdb": 312929,
+        "tvdb": 459337,
+        "trakt": 315828
+      },
+      "year": 2026,
+      "title": "Scent of the Wind",
+      "aired_episodes": 30
+    },
+    "rank": 49,
+    "id": 1464782048,
+    "listed_at": "2026-05-07T07:04:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39452164",
+        "plex": {
+          "guid": "69a58d47e03dbc268cda83fc",
+          "slug": "hometown-romance"
+        },
+        "slug": "hometown-romance",
+        "tmdb": 312583,
+        "tvdb": 473455,
+        "trakt": 315372
+      },
+      "year": 2026,
+      "title": "Hometown Romance",
+      "aired_episodes": 6
+    },
+    "rank": 50,
+    "id": 1465106762,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41801303",
+        "plex": {
+          "guid": "69781e7d089a8423c1b4d9c1",
+          "slug": "tagusari-bros"
+        },
+        "slug": "tagusari-bros",
+        "tmdb": 311871,
+        "tvdb": 472981,
+        "trakt": 314613
+      },
+      "year": 2026,
+      "title": "TAGUSARI bros.",
+      "aired_episodes": 4
+    },
+    "rank": 51,
+    "id": 1465106763,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": "699081cdb1bc21e6bd8a82a5",
+          "slug": "the-frenchman-1"
+        },
+        "slug": "el-fransawy",
+        "tmdb": 311859,
+        "tvdb": 475075,
+        "trakt": 314607
+      },
+      "year": 2026,
+      "title": "El Fransawy",
+      "aired_episodes": 6
+    },
+    "rank": 52,
+    "id": 1465106764,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39214602",
+        "plex": {
+          "guid": "699081cc414e4765dcfa903e",
+          "slug": "blood-vs-duty"
+        },
+        "slug": "blood-vs-duty",
+        "tmdb": 311837,
+        "tvdb": null,
+        "trakt": 314584
+      },
+      "year": 2026,
+      "title": "Blood vs Duty",
+      "aired_episodes": 27
+    },
+    "rank": 53,
+    "id": 1465106765,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38868290",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "hermanas-un-amor-compartido",
+        "tmdb": 310198,
+        "tvdb": null,
+        "trakt": 313248
+      },
+      "year": 2026,
+      "title": "Hermanas, un amor compartido",
+      "aired_episodes": 70
+    },
+    "rank": 54,
+    "id": 1464026015,
+    "listed_at": "2026-05-04T07:38:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "2021-312829",
+        "tmdb": 309823,
+        "tvdb": null,
+        "trakt": 312829
+      },
+      "year": 2021,
+      "title": "水木名著之旅",
+      "aired_episodes": 251
+    },
+    "rank": 55,
+    "id": 1465106766,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11274898",
+        "plex": {
+          "guid": "606f1793cc0fca002d45816b",
+          "slug": "re-european-stories"
+        },
+        "slug": "re-european-stories",
+        "tmdb": 98271,
+        "tvdb": 333933,
+        "trakt": 185796
+      },
+      "year": 2017,
+      "title": "RE: European Stories",
+      "aired_episodes": 1672
+    },
+    "rank": 56,
+    "id": 1464941280,
+    "listed_at": "2026-05-07T21:54:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39167244",
+        "plex": {
+          "guid": "694c8355b555d35595636922",
+          "slug": "fulfill-fulfilling-love"
+        },
+        "slug": "fulfill",
+        "tmdb": 308260,
+        "tvdb": 471612,
+        "trakt": 310891
+      },
+      "year": 2026,
+      "title": "Fulfill",
+      "aired_episodes": 3
+    },
+    "rank": 57,
+    "id": 1465163232,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39052618",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "a-secret-in-prague",
+        "tmdb": 306666,
+        "tvdb": null,
+        "trakt": 309192
+      },
+      "year": 2026,
+      "title": "A Secret in Prague",
+      "aired_episodes": 10
+    },
+    "rank": 58,
+    "id": 1464158990,
+    "listed_at": "2026-05-04T17:26:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39048555",
+        "plex": {
+          "guid": "69306dcdc6fec415bc777697",
+          "slug": "the-flowers-of-evil"
+        },
+        "slug": "the-flowers-of-evil-2026",
+        "tmdb": 306640,
+        "tvdb": 470866,
+        "trakt": 309086
+      },
+      "year": 2026,
+      "title": "The Flowers of Evil",
+      "aired_episodes": 5
+    },
+    "rank": 59,
+    "id": 1465106767,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-s-ha-w-u-ea-ns",
+        "tmdb": 306680,
+        "tvdb": null,
+        "trakt": 309208
+      },
+      "year": 2024,
+      "title": "The S[ha(w/u)/ea]ns",
+      "aired_episodes": 11
+    },
+    "rank": 60,
+    "id": 1465106768,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt6050280",
+        "plex": {
+          "guid": "5d9c08ce705e7a001e6e4725",
+          "slug": "practice-with-a-sea-view"
+        },
+        "slug": "praxis-mit-meerblick",
+        "tmdb": 83132,
+        "tvdb": 327644,
+        "trakt": 157084
+      },
+      "year": 2017,
+      "title": "Praxis mit Meerblick",
+      "aired_episodes": 31
+    },
+    "rank": 61,
+    "id": 1465106769,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38941543",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "love-is-never-gone",
+        "tmdb": 305613,
+        "tvdb": 477624,
+        "trakt": 307993
+      },
+      "year": 2026,
+      "title": "Love Is Never Gone",
+      "aired_episodes": 2
+    },
+    "rank": 62,
+    "id": 1465163233,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "nhl-news",
+        "tmdb": 302924,
+        "tvdb": null,
+        "trakt": 303400
+      },
+      "year": 2008,
+      "title": "NHL News",
+      "aired_episodes": 200
+    },
+    "rank": 63,
+    "id": 1464737761,
+    "listed_at": "2026-05-07T01:40:12.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "queen-of-hearts-2025",
+        "tmdb": 302700,
+        "tvdb": null,
+        "trakt": 302219
+      },
+      "year": 2025,
+      "title": "Queen of Hearts",
+      "aired_episodes": 31
+    },
+    "rank": 64,
+    "id": 1465106772,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "delayed-input",
+        "tmdb": 302295,
+        "tvdb": null,
+        "trakt": 301236
+      },
+      "year": 2021,
+      "title": "Delayed Input",
+      "aired_episodes": 184
+    },
+    "rank": 65,
+    "id": 1465106773,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38355100",
+        "plex": {
+          "guid": "68e97dbbb71fbbeb38dec136",
+          "slug": "the-secrets-of-hotel-88"
+        },
+        "slug": "the-secrets-of-hotel-88",
+        "tmdb": 301031,
+        "tvdb": 473065,
+        "trakt": 299326
+      },
+      "year": 2026,
+      "title": "The Secrets of Hotel 88",
+      "aired_episodes": 48
+    },
+    "rank": 66,
+    "id": 1464941282,
+    "listed_at": "2026-05-07T21:54:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "54",
+        "tmdb": 300192,
+        "tvdb": null,
+        "trakt": 298217
+      },
+      "year": 2025,
+      "title": "黄俊英经典粤语小相声小品集54集",
+      "aired_episodes": 41
+    },
+    "rank": 67,
+    "id": 1465106774,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38781670",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "cyril-et-la-famille",
+        "tmdb": 299092,
+        "tvdb": 467280,
+        "trakt": 296169
+      },
+      "year": 2025,
+      "title": "Cyril et la famille",
+      "aired_episodes": 169
+    },
+    "rank": 68,
+    "id": 1464941284,
+    "listed_at": "2026-05-07T21:54:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9755688",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "lessons-of-life",
+        "tmdb": 298485,
+        "tvdb": 345949,
+        "trakt": 295181
+      },
+      "year": 2015,
+      "title": "Lessons of Life",
+      "aired_episodes": 104
+    },
+    "rank": 69,
+    "id": 1464941285,
+    "listed_at": "2026-05-07T21:54:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": "685847f2ccaa7429bac18e1f",
+          "slug": "haute-saison"
+        },
+        "slug": "haute-saison",
+        "tmdb": 294235,
+        "tvdb": null,
+        "trakt": 289003
+      },
+      "year": 2025,
+      "title": "Haute saison",
+      "aired_episodes": 1
+    },
+    "rank": 70,
+    "id": 1465106776,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41568021",
+        "plex": {
+          "guid": "67efd314eec781289303c8c4",
+          "slug": "no-doubt-in-us-2"
+        },
+        "slug": "no-doubt-in-us-2026",
+        "tmdb": 288088,
+        "tvdb": 477344,
+        "trakt": 281387
+      },
+      "year": 2026,
+      "title": "No Doubt in Us",
+      "aired_episodes": 24
+    },
+    "rank": 71,
+    "id": 1465163234,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "2022-278423",
+        "tmdb": 285752,
+        "tvdb": null,
+        "trakt": 278423
+      },
+      "year": 2022,
+      "title": "渤海小吏",
+      "aired_episodes": 161
+    },
+    "rank": 72,
+    "id": 1465106777,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39394335",
+        "plex": {
+          "guid": "67ae3e3c60e8c3515038029c",
+          "slug": "reverse-2026"
+        },
+        "slug": "reverse-2026",
+        "tmdb": 284000,
+        "tvdb": 452305,
+        "trakt": 276191
+      },
+      "year": 2026,
+      "title": "Reverse",
+      "aired_episodes": 8
+    },
+    "rank": 73,
+    "id": 1465106778,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36758636",
+        "plex": {
+          "guid": "67ad41de2a145e214c0dda26",
+          "slug": "a-splendid-match"
+        },
+        "slug": "a-splendid-match",
+        "tmdb": 283952,
+        "tvdb": 477371,
+        "trakt": 276114
+      },
+      "year": 2026,
+      "title": "A Splendid Match",
+      "aired_episodes": 14
+    },
+    "rank": 74,
+    "id": 1463862220,
+    "listed_at": "2026-05-03T16:00:15.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": "679825bee5d9708b678c17a4",
+          "slug": "the-other-side-of-deep-space"
+        },
+        "slug": "the-other-side-of-deep-space",
+        "tmdb": 283119,
+        "tvdb": 473247,
+        "trakt": 274887
+      },
+      "year": 2026,
+      "title": "The Other Side of Deep Space",
+      "aired_episodes": 19
+    },
+    "rank": 75,
+    "id": 1465106779,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt35082595",
+        "plex": {
+          "guid": "67656f2ac185f9874e8900ac",
+          "slug": "slub"
+        },
+        "slug": "promise-2025",
+        "tmdb": 279914,
+        "tvdb": 458664,
+        "trakt": 270542
+      },
+      "year": 2025,
+      "title": "Promise",
+      "aired_episodes": 255
+    },
+    "rank": 76,
+    "id": 1464086024,
+    "listed_at": "2026-05-04T12:14:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "eternal-rain",
+        "tmdb": 279435,
+        "tvdb": 457771,
+        "trakt": 269802
+      },
+      "year": 2026,
+      "title": "Eternal Rain",
+      "aired_episodes": 1
+    },
+    "rank": 77,
+    "id": 1465106780,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38856645",
+        "plex": {
+          "guid": "67532bafcd26edcc810aea48",
+          "slug": "love-of-silom"
+        },
+        "slug": "love-of-silom",
+        "tmdb": 278850,
+        "tvdb": 457516,
+        "trakt": 266115
+      },
+      "year": 2026,
+      "title": "Love of Silom",
+      "aired_episodes": 4
+    },
+    "rank": 78,
+    "id": 1465163235,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt20104608",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "blue-2026",
+        "tmdb": 274133,
+        "tvdb": 433196,
+        "trakt": 259605
+      },
+      "year": 2026,
+      "title": "Blue",
+      "aired_episodes": 3
+    },
+    "rank": 79,
+    "id": 1465106782,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32740239",
+        "plex": {
+          "guid": "66ff496049eee603069fa5b2",
+          "slug": "lady-liberty"
+        },
+        "slug": "lady-liberty",
+        "tmdb": 273129,
+        "tvdb": 465062,
+        "trakt": 258164
+      },
+      "year": 2026,
+      "title": "Lady Liberty",
+      "aired_episodes": 26
+    },
+    "rank": 80,
+    "id": 1462189838,
+    "listed_at": "2026-04-28T12:40:12.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32592348",
+        "plex": {
+          "guid": "66f69d3754dc740c39f385a4",
+          "slug": "born-with-luck-1"
+        },
+        "slug": "born-with-luck",
+        "tmdb": 272432,
+        "tvdb": 463039,
+        "trakt": 257309
+      },
+      "year": 2026,
+      "title": "Born with Luck",
+      "aired_episodes": 15
+    },
+    "rank": 81,
+    "id": 1464158998,
+    "listed_at": "2026-05-04T17:26:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32317664",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "de-eerste-keer",
+        "tmdb": 262858,
+        "tvdb": null,
+        "trakt": 253734
+      },
+      "year": 2024,
+      "title": "De eerste keer",
+      "aired_episodes": 17
+    },
+    "rank": 82,
+    "id": 1465106783,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": "662648369bd7da93008c02b3",
+          "slug": "dream-star-fighting"
+        },
+        "slug": "dream-star-fighting-marigold",
+        "tmdb": 255028,
+        "tvdb": 449206,
+        "trakt": 240724
+      },
+      "year": 2024,
+      "title": "Dream Star★Fighting Marigold",
+      "aired_episodes": 187
+    },
+    "rank": 83,
+    "id": 1465106784,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "101-2022",
+        "tmdb": 251409,
+        "tvdb": null,
+        "trakt": 234628
+      },
+      "year": 2022,
+      "title": "徒步101",
+      "aired_episodes": 91
+    },
+    "rank": 84,
+    "id": 1465106785,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31042239",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-bride-2024",
+        "tmdb": 245841,
+        "tvdb": null,
+        "trakt": 224833
+      },
+      "year": 2024,
+      "title": "The Bride",
+      "aired_episodes": 438
+    },
+    "rank": 85,
+    "id": 1464782055,
+    "listed_at": "2026-05-07T07:04:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7031176",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "bom-dia-brasil",
+        "tmdb": 227430,
+        "tvdb": null,
+        "trakt": 217046
+      },
+      "year": 1983,
+      "title": "Bom Dia Brasil",
+      "aired_episodes": 2019
+    },
+    "rank": 86,
+    "id": 1465163236,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28693459",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-doctor-2023",
+        "tmdb": 236209,
+        "tvdb": null,
+        "trakt": 215467
+      },
+      "year": 2023,
+      "title": "The Doctor",
+      "aired_episodes": 46
+    },
+    "rank": 87,
+    "id": 1465106786,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0466513",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "jornal-nacional",
+        "tmdb": 16807,
+        "tvdb": 339790,
+        "trakt": 213154
+      },
+      "year": 1969,
+      "title": "Jornal Nacional",
+      "aired_episodes": 8098
+    },
+    "rank": 88,
+    "id": 1464782056,
+    "listed_at": "2026-05-07T07:04:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28022382",
+        "plex": {
+          "guid": "64892f445a250e31b32a92b8",
+          "slug": "soul-land-2-the-unrivaled-tang-sect"
+        },
+        "slug": "soul-land-2-the-peerless-tang-clan",
+        "tmdb": 228429,
+        "tvdb": 435940,
+        "trakt": 206605
+      },
+      "year": 2023,
+      "title": "Soul Land 2: The Peerless Tang Clan",
+      "aired_episodes": 152
+    },
+    "rank": 89,
+    "id": 1465106787,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt27497198",
+        "plex": {
+          "guid": "64597d3448d8790c911efc2c",
+          "slug": "the-great-ruler-1"
+        },
+        "slug": "the-great-ruler-2023",
+        "tmdb": 226045,
+        "tvdb": 434678,
+        "trakt": 205133
+      },
+      "year": 2023,
+      "title": "The Great Ruler",
+      "aired_episodes": 72
+    },
+    "rank": 90,
+    "id": 1465106788,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt20872936",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "pushpa-impossible",
+        "tmdb": 203769,
+        "tvdb": null,
+        "trakt": 197656
+      },
+      "year": 2022,
+      "title": "Pushpa Impossible",
+      "aired_episodes": 1031
+    },
+    "rank": 91,
+    "id": 1464608590,
+    "listed_at": "2026-05-06T10:08:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt20835030",
+        "plex": {
+          "guid": "61f6a138da1c0af673e8d00f",
+          "slug": "immortality-3"
+        },
+        "slug": "immortality-2022",
+        "tmdb": 156571,
+        "tvdb": 415506,
+        "trakt": 193471
+      },
+      "year": 2022,
+      "title": "Immortality",
+      "aired_episodes": 79
+    },
+    "rank": 92,
+    "id": 1465106789,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt16243268",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "in-geek-we-trust",
+        "tmdb": 155330,
+        "tvdb": 414170,
+        "trakt": 192453
+      },
+      "year": 2022,
+      "title": "In Geek We Trust",
+      "aired_episodes": 30
+    },
+    "rank": 93,
+    "id": 1464941291,
+    "listed_at": "2026-05-07T21:54:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0290372",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "see-hear",
+        "tmdb": 829,
+        "tvdb": null,
+        "trakt": 187076
+      },
+      "year": 1981,
+      "title": "See Hear",
+      "aired_episodes": 39
+    },
+    "rank": 94,
+    "id": 1464737766,
+    "listed_at": "2026-05-07T01:40:12.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt20603062",
+        "plex": {
+          "guid": "5f2e583b9c79b700409e6d5c",
+          "slug": "supreme-god-emperor"
+        },
+        "slug": "supreme-god-emperor",
+        "tmdb": 107116,
+        "tvdb": 388383,
+        "trakt": 167764
+      },
+      "year": 2020,
+      "title": "Supreme God Emperor",
+      "aired_episodes": 603
+    },
+    "rank": 95,
+    "id": 1465163237,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "",
+        "plex": {
+          "guid": "5d9c08d26c3e37001ecda1b1",
+          "slug": "come-home-love-lo-and-behold"
+        },
+        "slug": "come-home-love-lo-and-behold",
+        "tmdb": 91759,
+        "tvdb": 325410,
+        "trakt": 117517
+      },
+      "year": 2017,
+      "title": "Come Home Love: Lo and Behold",
+      "aired_episodes": 2803
+    },
+    "rank": 96,
+    "id": 1464086033,
+    "listed_at": "2026-05-04T12:14:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "club-friday-the-series",
+        "tmdb": 62245,
+        "tvdb": 293706,
+        "trakt": 100582
+      },
+      "year": 2012,
+      "title": "Club Friday The Series",
+      "aired_episodes": 485
+    },
+    "rank": 97,
+    "id": 1465106792,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt4368588",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "xplosion",
+        "tmdb": 628,
+        "tvdb": 350722,
+        "trakt": 134483
+      },
+      "year": 2002,
+      "title": "Xplosion",
+      "aired_episodes": 395
+    },
+    "rank": 98,
+    "id": 1465106793,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "",
+        "plex": {
+          "guid": "65e4698e7ba55dd065d375f6",
+          "slug": "document-72-hours-1"
+        },
+        "slug": "document-72-hours",
+        "tmdb": 74277,
+        "tvdb": 339051,
+        "trakt": 116114
+      },
+      "year": 2006,
+      "title": "Document 72 Hours",
+      "aired_episodes": 643
+    },
+    "rank": 99,
+    "id": 1465106795,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0416380",
+        "plex": {
+          "guid": "5d9c08352192ba001f30a43b",
+          "slug": "keuringsdienst-van-waarde"
+        },
+        "slug": "keuringsdienst-van-waarde",
+        "tmdb": 24293,
+        "tvdb": 82280,
+        "trakt": 24186
+      },
+      "year": 2003,
+      "title": "Keuringsdienst van Waarde",
+      "aired_episodes": 527
+    },
+    "rank": 100,
+    "id": 1465163238,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt4432684",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "to-soi-sou",
+        "tmdb": 81887,
+        "tvdb": 336092,
+        "trakt": 124283
+      },
+      "year": 2014,
+      "title": "To soi sou",
+      "aired_episodes": 351
+    },
+    "rank": 101,
+    "id": 1465163239,
+    "listed_at": "2026-05-08T17:28:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9499182",
+        "plex": {
+          "guid": "5d9c09160aaccd001f8f406d",
+          "slug": "dips"
+        },
+        "slug": "dips",
+        "tmdb": 85197,
+        "tvdb": 357125,
+        "trakt": 142351
+      },
+      "year": 2018,
+      "title": "Dips",
+      "aired_episodes": 16
+    },
+    "rank": 102,
+    "id": 1465106797,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt2146543",
+        "plex": {
+          "guid": "5d9c0831e98e47001eb09e3a",
+          "slug": "solitary-gourmet"
+        },
+        "slug": "solitary-gourmet",
+        "tmdb": 55582,
+        "tvdb": 260548,
+        "trakt": 70150
+      },
+      "year": 2012,
+      "title": "Solitary Gourmet",
+      "aired_episodes": 133
+    },
+    "rank": 103,
+    "id": 1465106798,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0260618",
+        "plex": {
+          "guid": "5d9c085cba2e21001f18fc87",
+          "slug": "gardeners-world"
+        },
+        "slug": "gardeners-world",
+        "tmdb": 15188,
+        "tvdb": 82623,
+        "trakt": 15123
+      },
+      "year": 1968,
+      "title": "Gardeners' World",
+      "aired_episodes": 817
+    },
+    "rank": 104,
+    "id": 1465106799,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0244912",
+        "plex": {
+          "guid": "5d9c0884e98e47001eb1202a",
+          "slug": "motorweek"
+        },
+        "slug": "motorweek",
+        "tmdb": 5467,
+        "tvdb": 239601,
+        "trakt": 5440
+      },
+      "year": 1981,
+      "title": "MotorWeek",
+      "aired_episodes": 872
+    },
+    "rank": 105,
+    "id": 1465106800,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0949790",
+        "plex": {
+          "guid": "631598a1482774a94f473492",
+          "slug": "gardening-australia"
+        },
+        "slug": "gardening-australia",
+        "tmdb": 2835,
+        "tvdb": 85074,
+        "trakt": 2816
+      },
+      "year": 2009,
+      "title": "Gardening Australia",
+      "aired_episodes": 643
+    },
+    "rank": 106,
+    "id": 1465106801,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0395050",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "mapping-the-world-1990",
+        "tmdb": 16425,
+        "tvdb": 109331,
+        "trakt": 16355
+      },
+      "year": 1990,
+      "title": "Mapping the World",
+      "aired_episodes": 1187
+    },
+    "rank": 107,
+    "id": 1465106802,
+    "listed_at": "2026-05-08T12:28:14.000Z",
+    "notes": null
+  }
+]

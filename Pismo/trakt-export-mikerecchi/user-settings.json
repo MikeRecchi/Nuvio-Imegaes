@@ -1,0 +1,346 @@
+{
+  "user": {
+    "username": "MikeRecchi",
+    "private": false,
+    "deleted": false,
+    "name": "Mike Recchi",
+    "vip": true,
+    "vip_ep": false,
+    "director": false,
+    "ids": {
+      "slug": "mikerecchi",
+      "trakt": 3221907,
+      "uuid": "e29bba36909b882fc15308868af7b97cd311eac0"
+    },
+    "joined_at": "2017-08-19T13:38:22.000Z",
+    "location": "Bardejov, Presov",
+    "about": "",
+    "gender": "male",
+    "age": 41,
+    "images": {
+      "avatar": {
+        "full": "https://walter-r2.trakt.tv/images/users/003/221/907/avatars/large/42ed985201.jpg"
+      }
+    },
+    "vip_og": false,
+    "vip_years": 0,
+    "vip_cover_image": null,
+    "dob": "1984-12-09",
+    "email": "mrichvalsky@gmail.com"
+  },
+  "account": {
+    "timezone": "Europe/Bratislava",
+    "date_format": "mdy",
+    "time_24hr": false,
+    "cover_image": null,
+    "token": "47000f6d10147efcec78390fd6bf2595",
+    "display_ads": false
+  },
+  "browsing": {
+    "watch_popup_action": "now",
+    "hide_watching_now": false,
+    "list_popup_action": "ask",
+    "week_start_day": "1",
+    "watch_after_rating": "",
+    "watch_only_once": false,
+    "other_site_ratings": false,
+    "release_date_ignore_runtime": false,
+    "display_early_ratings": false,
+    "hide_episode_type_tags": false,
+    "hide_unsaved_filters_prompt": false,
+    "spoilers": {
+      "episodes": "show",
+      "shows": "show",
+      "movies": "show",
+      "comments": "show",
+      "ratings": "show",
+      "actors": "show"
+    },
+    "calendar": {
+      "period": "week",
+      "start_day": "today",
+      "layout": "list",
+      "image_type": "logo",
+      "hide_specials": false,
+      "autoscroll": true
+    },
+    "progress": {
+      "on_deck": {
+        "sort": "added",
+        "sort_how": "asc",
+        "refresh": false,
+        "simple_progress": false,
+        "only_favorites": false
+      },
+      "watched": {
+        "refresh": false,
+        "simple_progress": false,
+        "include_specials": false,
+        "include_watchlisted": true,
+        "include_collected": true,
+        "sort": "added",
+        "sort_how": "asc",
+        "use_last_activity": false,
+        "grid_view": false
+      },
+      "collected": {
+        "refresh": false,
+        "simple_progress": false,
+        "include_specials": false,
+        "include_watchlisted": true,
+        "include_watched": true,
+        "sort": "added",
+        "sort_how": "asc",
+        "use_last_activity": false,
+        "grid_view": false
+      }
+    },
+    "watchnow": {
+      "country": "sk",
+      "favorites": [
+        "sk-amazon_prime_video",
+        "sk-apple_tv",
+        "sk-apple_tv_plus",
+        "sk-canal_plus",
+        "sk-disney_plus",
+        "sk-edisonline",
+        "sk-filmbox_plus",
+        "sk-google_play_movies",
+        "sk-hbo_max",
+        "sk-justwatchtv",
+        "sk-netflix",
+        "sk-rakuten_tv",
+        "sk-rakuten_viki",
+        "sk-skyshowtime",
+        "sk-voyo"
+      ],
+      "only_favorites": false
+    },
+    "dark_knight": "false",
+    "app_theme": "purple",
+    "welcome": {
+      "completed_at": "2017-08-19T13:40:06.000Z",
+      "exit_step": null
+    },
+    "genres": {
+      "favorites": [
+        "action",
+        "adventure",
+        "animation",
+        "children",
+        "comedy",
+        "crime",
+        "disaster",
+        "documentary",
+        "drama",
+        "family",
+        "fantasy",
+        "history",
+        "holiday",
+        "horror",
+        "music",
+        "musical",
+        "mystery",
+        "news",
+        "reality",
+        "road",
+        "romance",
+        "science-fiction",
+        "short",
+        "special-interest",
+        "sporting-event",
+        "sports",
+        "superhero",
+        "suspense",
+        "tv-movie",
+        "thriller",
+        "war",
+        "western",
+        "mini-series"
+      ],
+      "disliked": []
+    },
+    "comments": {
+      "blocked_uids": []
+    },
+    "recommendations": {
+      "ignore_collected": false,
+      "ignore_watchlisted": false
+    },
+    "rewatching": {
+      "adjust_percentage": false
+    },
+    "profile": {
+      "favorites": {
+        "sort_by": "random",
+        "sort_how": "asc"
+      },
+      "most_watched_shows": {
+        "sort_by": "plays",
+        "tab": "last_30_days"
+      },
+      "most_watched_movies": {
+        "sort_by": "time",
+        "tab": "last_30_days"
+      }
+    },
+    "search": {
+      "image_type": "poster",
+      "recent_queries": [
+        {
+          "query": "prada",
+          "type": "lists",
+          "created_at": 1778242489
+        },
+        {
+          "query": "mortal kombat",
+          "type": "lists",
+          "created_at": 1778240915
+        },
+        {
+          "query": "mindfuck",
+          "type": "lists",
+          "created_at": 1777567769
+        },
+        {
+          "query": "best movie's of the 1990s",
+          "type": "lists",
+          "created_at": 1777452305
+        },
+        {
+          "query": "1980s",
+          "type": "lists",
+          "created_at": 1777450526
+        }
+      ]
+    },
+    "yir": {
+      "shows_most_played": "played",
+      "movies_most_played": "watched"
+    }
+  },
+  "connections": {
+    "facebook": false,
+    "twitter": false,
+    "mastodon": false,
+    "google": true,
+    "tumblr": false,
+    "medium": false,
+    "slack": false,
+    "apple": false,
+    "dropbox": false,
+    "microsoft": false
+  },
+  "sharing_text": {
+    "watching": "I'm watching [item]",
+    "watched": "I just watched [item]",
+    "rated": null
+  },
+  "sharing": {
+    "email": {
+      "new_follower": true,
+      "comment_mention": true,
+      "comment_reply": true,
+      "comment_like": true,
+      "list_comment": true,
+      "list_like": true
+    },
+    "chrome": {
+      "new_follower": true,
+      "comment_mention": true,
+      "comment_reply": true,
+      "comment_like": true,
+      "list_comment": true,
+      "list_like": true
+    },
+    "facebook": {
+      "movie_explicit": true,
+      "movie_watching": false,
+      "movie_watched": false,
+      "movie_checkin": false,
+      "movie_rated": false,
+      "movie_watchlisted": false,
+      "movie_comment": false,
+      "show_explicit": true,
+      "show_rated": true,
+      "show_watchlisted": false,
+      "show_comment": false,
+      "season_explicit": false,
+      "season_comment": false,
+      "episode_explicit": false,
+      "episode_watching": false,
+      "episode_watched": false,
+      "episode_checkin": false,
+      "episode_rated": false,
+      "episode_comment": false,
+      "list_comment": false,
+      "profile_icon": true
+    },
+    "google": {
+      "profile_icon": false
+    },
+    "plex": {
+      "movie_watching": true,
+      "movie_watched": true,
+      "movie_rated": true,
+      "movie_collected": true,
+      "show_rated": true,
+      "season_rated": true,
+      "episode_watching": true,
+      "episode_watched": true,
+      "episode_rated": true,
+      "episode_collected": true,
+      "sync_movie_watched": true,
+      "sync_movie_collected": true,
+      "sync_movie_rated": true,
+      "sync_show_rated": true,
+      "sync_season_rated": true,
+      "sync_episode_watched": true,
+      "sync_episode_collected": true,
+      "sync_episode_rated": true
+    },
+    "app": {
+      "new_follower": true,
+      "comment_mention": true,
+      "comment_reply": true,
+      "comment_like": true,
+      "list_comment": true,
+      "list_like": true,
+      "pending_collaboration": true,
+      "weekly_digest": true,
+      "mir": true
+    }
+  },
+  "limits": {
+    "list": {
+      "count": 500,
+      "item_count": 5000
+    },
+    "watchlist": {
+      "item_count": 5000
+    },
+    "favorites": {
+      "item_count": 100
+    },
+    "search": {
+      "recent_count": 5
+    },
+    "collection": {
+      "item_count": 100000
+    },
+    "notes": {
+      "item_count": 2000
+    },
+    "saved_filters": {
+      "count": 100
+    },
+    "recommendations": {
+      "item_count": 100
+    }
+  },
+  "permissions": {
+    "commenting": true,
+    "liking": true,
+    "following": true
+  }
+}

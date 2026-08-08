@@ -1,0 +1,20 @@
+[
+  {
+    "rated_at": "2019-06-01T08:09:24.000Z",
+    "rating": 8,
+    "type": "show",
+    "show": {
+      "title": "The Handmaid's Tale",
+      "year": 2017,
+      "ids": {
+        "trakt": 113938,
+        "slug": "the-handmaid-s-tale",
+        "tvdb": 321239,
+        "imdb": "tt5834204",
+        "tmdb": 69478,
+        "tvrage": null
+      },
+      "aired_episodes": 66
+    }
+  }
+]

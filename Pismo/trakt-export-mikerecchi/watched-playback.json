@@ -1,0 +1,237 @@
+[
+  {
+    "progress": 63.6,
+    "paused_at": "2026-05-08T22:22:43.000Z",
+    "id": 1749517497,
+    "type": "movie",
+    "movie": {
+      "title": "Murder in Monaco",
+      "year": 2025,
+      "ids": {
+        "trakt": 1317050,
+        "slug": "murder-in-monaco-2025",
+        "imdb": "tt38984577",
+        "tmdb": 1584619
+      }
+    }
+  },
+  {
+    "progress": 57.7898,
+    "paused_at": "2026-04-24T16:32:38.000Z",
+    "id": 1739097972,
+    "type": "movie",
+    "movie": {
+      "title": "Freaky Tales",
+      "year": 2025,
+      "ids": {
+        "trakt": 787126,
+        "slug": "freaky-tales-2025",
+        "imdb": "tt21942598",
+        "tmdb": 979660
+      }
+    }
+  },
+  {
+    "progress": 15.5,
+    "paused_at": "2026-03-11T07:16:31.000Z",
+    "id": 1709676177,
+    "type": "episode",
+    "episode": {
+      "season": 2,
+      "number": 3,
+      "title": "Call of the Woe",
+      "ids": {
+        "trakt": 13033545,
+        "tvdb": 11267772,
+        "imdb": "tt33100412",
+        "tmdb": 6165594,
+        "tvrage": null
+      }
+    },
+    "show": {
+      "title": "Wednesday",
+      "year": 2022,
+      "ids": {
+        "trakt": 173996,
+        "slug": "wednesday",
+        "tvdb": 397060,
+        "imdb": "tt13443470",
+        "tmdb": 119051,
+        "tvrage": null
+      },
+      "aired_episodes": 16
+    }
+  },
+  {
+    "progress": 52.8734,
+    "paused_at": "2026-02-14T22:44:55.000Z",
+    "id": 1691746676,
+    "type": "episode",
+    "episode": {
+      "season": 1,
+      "number": 2,
+      "title": "Profiling",
+      "ids": {
+        "trakt": 13894952,
+        "tvdb": null,
+        "imdb": null,
+        "tmdb": 6829075,
+        "tvrage": null
+      }
+    },
+    "show": {
+      "title": "Metoda Markovič: Straka",
+      "year": 2026,
+      "ids": {
+        "trakt": 313534,
+        "slug": "metoda-markovic-straka",
+        "tvdb": 472543,
+        "imdb": "tt39366674",
+        "tmdb": 310418,
+        "tvrage": null
+      },
+      "aired_episodes": 6
+    }
+  },
+  {
+    "progress": 3.77255,
+    "paused_at": "2026-02-10T09:19:46.000Z",
+    "id": 1688301269,
+    "type": "movie",
+    "movie": {
+      "title": "Keeper",
+      "year": 2025,
+      "ids": {
+        "trakt": 1048117,
+        "slug": "keeper-2025",
+        "imdb": "tt32332404",
+        "tmdb": 1288072
+      }
+    }
+  },
+  {
+    "progress": 1.70183,
+    "paused_at": "2026-01-11T19:21:52.000Z",
+    "id": 1663517122,
+    "type": "episode",
+    "episode": {
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "ids": {
+        "trakt": 12366839,
+        "tvdb": null,
+        "imdb": null,
+        "tmdb": 5667560,
+        "tvrage": null
+      }
+    },
+    "show": {
+      "title": "Bora",
+      "year": 2025,
+      "ids": {
+        "trakt": 259450,
+        "slug": "bora",
+        "tvdb": null,
+        "imdb": "tt32215887",
+        "tmdb": 274003,
+        "tvrage": null
+      },
+      "aired_episodes": 6
+    }
+  },
+  {
+    "progress": 24.2138,
+    "paused_at": "2025-12-23T09:23:09.000Z",
+    "id": 1644737690,
+    "type": "episode",
+    "episode": {
+      "season": 1,
+      "number": 2,
+      "title": "Pirate Lady",
+      "ids": {
+        "trakt": 12800266,
+        "tvdb": 11260075,
+        "imdb": "tt32767308",
+        "tmdb": 5964848,
+        "tvrage": null
+      }
+    },
+    "show": {
+      "title": "Pluribus",
+      "year": 2025,
+      "ids": {
+        "trakt": 206790,
+        "slug": "pluribus",
+        "tvdb": 436457,
+        "imdb": "tt22202452",
+        "tmdb": 225171,
+        "tvrage": null
+      },
+      "aired_episodes": 9
+    }
+  },
+  {
+    "progress": 1.39775,
+    "paused_at": "2025-12-12T21:16:12.000Z",
+    "id": 1636899869,
+    "type": "movie",
+    "movie": {
+      "title": "Father",
+      "year": 2025,
+      "ids": {
+        "trakt": 1244254,
+        "slug": "father-2025",
+        "imdb": "tt28876088",
+        "tmdb": 1516518
+      }
+    }
+  },
+  {
+    "progress": 74.7989,
+    "paused_at": "2025-12-04T23:17:16.000Z",
+    "id": 1632262400,
+    "type": "movie",
+    "movie": {
+      "title": "By the Yellow Frog to the Land of Blue Sky",
+      "year": 2025,
+      "ids": {
+        "trakt": 1202808,
+        "slug": "by-the-yellow-frog-to-the-land-of-blue-sky-2025",
+        "imdb": null,
+        "tmdb": 1468130
+      }
+    }
+  },
+  {
+    "progress": 33.7842,
+    "paused_at": "2025-12-03T17:34:52.000Z",
+    "id": 1631496712,
+    "type": "episode",
+    "episode": {
+      "season": 3,
+      "number": 10,
+      "title": "Jesus Lizard",
+      "ids": {
+        "trakt": 13379387,
+        "tvdb": 11267855,
+        "imdb": "tt38623884",
+        "tmdb": 6432123,
+        "tvrage": null
+      }
+    },
+    "show": {
+      "title": "Tulsa King",
+      "year": 2022,
+      "ids": {
+        "trakt": 191758,
+        "slug": "tulsa-king",
+        "tvdb": 413215,
+        "imdb": "tt16358384",
+        "tmdb": 153312,
+        "tvrage": null
+      },
+      "aired_episodes": 29
+    }
+  }
+]

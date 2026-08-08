@@ -1,0 +1,58 @@
+[
+  {
+    "followed_at": "2018-07-14T15:56:14.000Z",
+    "user": {
+      "ids": {
+        "slug": "erik-richy",
+        "trakt": 3677155
+      },
+      "images": {
+        "avatar": {
+          "full": "https://secure.gravatar.com/avatar/42dc9cfd12747dc85cb28fad7827e88c?s=256&r=pg&d=https://i2.wp.com/media.trakt.tv/hotlink-ok/placeholders/medium/fry.png"
+        }
+      },
+      "username": "@erik.richy",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2018-03-14T13:43:27.000Z",
+      "location": "Bardejov",
+      "about": "",
+      "name": "Erik Richvalský",
+      "gender": "male",
+      "age": null,
+      "vip": false,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 2
+  },
+  {
+    "followed_at": "2022-08-29T19:21:42.000Z",
+    "user": {
+      "ids": {
+        "slug": "dff2rsf3",
+        "trakt": 12180259
+      },
+      "images": {
+        "avatar": {
+          "full": "https://secure.gravatar.com/avatar/1118702c4a605871b307d6b18fe3e50a?s=256&r=pg&d=https://i2.wp.com/media.trakt.tv/hotlink-ok/placeholders/medium/zoidberg.png"
+        }
+      },
+      "username": "dff2rsf3",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2022-08-29T18:33:07.000Z",
+      "location": "sdfs",
+      "about": null,
+      "name": "dffsfsdfsf",
+      "gender": "",
+      "age": null,
+      "vip": false,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 2
+  }
+]

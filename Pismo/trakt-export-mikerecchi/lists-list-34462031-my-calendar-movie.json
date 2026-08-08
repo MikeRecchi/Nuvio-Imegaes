@@ -1,0 +1,1577 @@
+[
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32332915",
+        "plex": {
+          "guid": "663e0ca8fc0ef23672ea898a",
+          "slug": "i-want-your-sex-2026"
+        },
+        "slug": "i-want-your-sex-2026",
+        "tmdb": 1288059,
+        "trakt": 1048093
+      },
+      "year": 2026,
+      "title": "I Want Your Sex"
+    },
+    "rank": 1,
+    "id": 1462833622,
+    "listed_at": "2026-04-30T00:06:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14173636",
+        "plex": {
+          "guid": "60448df6bd881e002cb9471e",
+          "slug": "the-invite-2026"
+        },
+        "slug": "the-invite-2026",
+        "tmdb": 950028,
+        "trakt": 763652
+      },
+      "year": 2026,
+      "title": "The Invite"
+    },
+    "rank": 2,
+    "id": 1461429484,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39143902",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "leviticus-2026",
+        "tmdb": 1564614,
+        "trakt": 1290816
+      },
+      "year": 2026,
+      "title": "Leviticus"
+    },
+    "rank": 3,
+    "id": 1462066638,
+    "listed_at": "2026-04-28T00:00:25.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33311069",
+        "plex": {
+          "guid": "66d901a36abce217352f0f44",
+          "slug": "the-furious-2025"
+        },
+        "slug": "the-furious-2026",
+        "tmdb": 1280738,
+        "trakt": 1040684
+      },
+      "year": 2026,
+      "title": "The Furious"
+    },
+    "rank": 4,
+    "id": 1461429485,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30827810",
+        "plex": {
+          "guid": "65a0ae00c73247070667a539",
+          "slug": "i-love-boosters"
+        },
+        "slug": "i-love-boosters-2026",
+        "tmdb": 1227877,
+        "trakt": 992486
+      },
+      "year": 2026,
+      "title": "I Love Boosters"
+    },
+    "rank": 5,
+    "id": 1461429486,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30825738",
+        "plex": {
+          "guid": "659eea0148cee3ee85e48609",
+          "slug": "the-mandalorian-and-grogu-2026"
+        },
+        "slug": "star-wars-the-mandalorian-and-grogu-2026",
+        "tmdb": 1228710,
+        "trakt": 993003
+      },
+      "year": 2026,
+      "title": "Star Wars: The Mandalorian and Grogu"
+    },
+    "rank": 6,
+    "id": 1464722656,
+    "listed_at": "2026-05-07T00:06:16.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt17490712",
+        "plex": {
+          "guid": "61f330850ecd2260deb80a5e",
+          "slug": "mortal-kombat-ii"
+        },
+        "slug": "mortal-kombat-ii-2026",
+        "tmdb": 931285,
+        "trakt": 746852
+      },
+      "year": 2026,
+      "title": "Mortal Kombat II"
+    },
+    "rank": 7,
+    "id": 1463701779,
+    "listed_at": "2026-05-03T00:04:17.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39276947",
+        "plex": {
+          "guid": "69662b25985585513adc9842",
+          "slug": "kentucky-roses-2026"
+        },
+        "slug": "kentucky-roses-2026",
+        "tmdb": 1575806,
+        "trakt": 1307398
+      },
+      "year": 2026,
+      "title": "Kentucky Roses"
+    },
+    "rank": 8,
+    "id": 1464236392,
+    "listed_at": "2026-05-05T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34984613",
+        "plex": {
+          "guid": "675ae775faafd0b9a26833f0",
+          "slug": "you-always"
+        },
+        "slug": "you-always-2026",
+        "tmdb": 1400923,
+        "trakt": 1146025
+      },
+      "year": 2026,
+      "title": "You, Always"
+    },
+    "rank": 9,
+    "id": 1464236393,
+    "listed_at": "2026-05-05T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33412884",
+        "plex": {
+          "guid": "66efb552bd23364d879b51eb",
+          "slug": "patriot-2026"
+        },
+        "slug": "patriot-2026",
+        "tmdb": 1300501,
+        "trakt": 1060232
+      },
+      "year": 2026,
+      "title": "Patriot"
+    },
+    "rank": 10,
+    "id": 1464510662,
+    "listed_at": "2026-05-06T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32192973",
+        "plex": {
+          "guid": "662bcc6cce202430d6ad529d",
+          "slug": "one-spoon-of-chocolate"
+        },
+        "slug": "one-spoon-of-chocolate-2026",
+        "tmdb": 1290792,
+        "trakt": 1050400
+      },
+      "year": 2026,
+      "title": "One Spoon of Chocolate"
+    },
+    "rank": 11,
+    "id": 1461429487,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31390893",
+        "plex": {
+          "guid": "65d4f47255cda5c2d9803298",
+          "slug": "raja-shivaji"
+        },
+        "slug": "raja-shivaji-2026",
+        "tmdb": 1247165,
+        "trakt": 1010203
+      },
+      "year": 2026,
+      "title": "Raja Shivaji"
+    },
+    "rank": 12,
+    "id": 1464236394,
+    "listed_at": "2026-05-05T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29552248",
+        "plex": {
+          "guid": "6535c7bc554f8f85c88366ad",
+          "slug": "swapped-2026"
+        },
+        "slug": "swapped-2026",
+        "tmdb": 1007757,
+        "trakt": 809985
+      },
+      "year": 2026,
+      "title": "Swapped"
+    },
+    "rank": 13,
+    "id": 1464236395,
+    "listed_at": "2026-05-05T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt37458112",
+        "plex": {
+          "guid": "6869c88c58e9ff5ec8b01d08",
+          "slug": "kara-2026"
+        },
+        "slug": "kara-2026",
+        "tmdb": 1433117,
+        "trakt": 1172364
+      },
+      "year": 2026,
+      "title": "Kara"
+    },
+    "rank": 14,
+    "id": 1464722657,
+    "listed_at": "2026-05-07T00:06:16.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32565993",
+        "plex": {
+          "guid": "6667c13ae5537afffd69767f",
+          "slug": "the-sheep-detectives"
+        },
+        "slug": "the-sheep-detectives-2026",
+        "tmdb": 1301421,
+        "trakt": 1060883
+      },
+      "year": 2026,
+      "title": "The Sheep Detectives"
+    },
+    "rank": 15,
+    "id": 1463458814,
+    "listed_at": "2026-05-02T00:04:11.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29516222",
+        "plex": {
+          "guid": "65319e02f47a41f49bc8a0e0",
+          "slug": "deep-water-2026"
+        },
+        "slug": "deep-water-2026",
+        "tmdb": 1127384,
+        "trakt": 907305
+      },
+      "year": 2026,
+      "title": "Deep Water"
+    },
+    "rank": 16,
+    "id": 1462066639,
+    "listed_at": "2026-04-28T00:00:25.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt2467700",
+        "plex": {
+          "guid": "5d777070cfbb56001fb88b9d",
+          "slug": "animal-farm-2025"
+        },
+        "slug": "animal-farm-2026",
+        "tmdb": 539745,
+        "trakt": 391173
+      },
+      "year": 2026,
+      "title": "Animal Farm"
+    },
+    "rank": 17,
+    "id": 1461807488,
+    "listed_at": "2026-04-27T00:02:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt35672862",
+        "plex": {
+          "guid": "67a8bfbbc14f87b54f306104",
+          "slug": "hokum-2026"
+        },
+        "slug": "hokum-2026",
+        "tmdb": 1430077,
+        "trakt": 1169847
+      },
+      "year": 2026,
+      "title": "Hokum"
+    },
+    "rank": 18,
+    "id": 1461429488,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33612209",
+        "plex": {
+          "guid": "668da3cd701c9385b944d19e",
+          "slug": "the-devil-wears-prada-2"
+        },
+        "slug": "the-devil-wears-prada-2-2026",
+        "tmdb": 1314481,
+        "trakt": 1074519
+      },
+      "year": 2026,
+      "title": "The Devil Wears Prada 2"
+    },
+    "rank": 19,
+    "id": 1461429489,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt38058112",
+        "plex": {
+          "guid": "68c6044bbb8b7d207aec29e7",
+          "slug": "ill-be-seeing-you-2026"
+        },
+        "slug": "i-ll-be-seeing-you-2026",
+        "tmdb": 1645579,
+        "trakt": 1357952
+      },
+      "year": 2026,
+      "title": "I'll Be Seeing You"
+    },
+    "rank": 20,
+    "id": 1463701780,
+    "listed_at": "2026-05-03T00:04:17.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39315819",
+        "plex": {
+          "guid": "697019a8511a7194a2caa32b",
+          "slug": "immortal-combat-2026"
+        },
+        "slug": "immortal-combat-2026",
+        "tmdb": 1656061,
+        "trakt": 1360419
+      },
+      "year": 2026,
+      "title": "Immortal Combat"
+    },
+    "rank": 21,
+    "id": 1462833623,
+    "listed_at": "2026-04-30T00:06:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt35674521",
+        "plex": {
+          "guid": "6756dcc995c95e59d7295a58",
+          "slug": "rose-of-nevada"
+        },
+        "slug": "rose-of-nevada-2026",
+        "tmdb": 1399525,
+        "trakt": 1144738
+      },
+      "year": 2026,
+      "title": "Rose of Nevada"
+    },
+    "rank": 22,
+    "id": 1462472844,
+    "listed_at": "2026-04-29T00:04:12.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34685692",
+        "plex": {
+          "guid": "673df95d0a12ec6df44cd658",
+          "slug": "over-your-dead-body-2026"
+        },
+        "slug": "over-your-dead-body-2026",
+        "tmdb": 1390300,
+        "trakt": 1136565
+      },
+      "year": 2026,
+      "title": "Over Your Dead Body"
+    },
+    "rank": 23,
+    "id": 1462066640,
+    "listed_at": "2026-04-28T00:00:25.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33760026",
+        "plex": {
+          "guid": "670d1563d474ccc730194b3e",
+          "slug": "the-wolf-and-the-lamb-2026"
+        },
+        "slug": "the-wolf-and-the-lamb-2026",
+        "tmdb": 1368492,
+        "trakt": 1117480
+      },
+      "year": 2026,
+      "title": "The Wolf and the Lamb"
+    },
+    "rank": 24,
+    "id": 1462066641,
+    "listed_at": "2026-04-28T00:00:25.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt16431404",
+        "plex": {
+          "guid": "61bd9c2d6fe1ffe4778a6fe0",
+          "slug": "apex-2026"
+        },
+        "slug": "apex-2026",
+        "tmdb": 1318447,
+        "trakt": 1077748
+      },
+      "year": 2026,
+      "title": "Apex"
+    },
+    "rank": 25,
+    "id": 1461429490,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13570066",
+        "plex": {
+          "guid": "5fcb4079784ad9002dcbda48",
+          "slug": "desert-warrior-2026"
+        },
+        "slug": "desert-warrior-2026",
+        "tmdb": 898704,
+        "trakt": 721012
+      },
+      "year": 2026,
+      "title": "Desert Warrior"
+    },
+    "rank": 26,
+    "id": 1461429491,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt11378946",
+        "plex": {
+          "guid": "5e165a6310faa5004010238c",
+          "slug": "michael-2025"
+        },
+        "slug": "michael-2026",
+        "tmdb": 936075,
+        "trakt": 751145
+      },
+      "year": 2026,
+      "title": "Michael"
+    },
+    "rank": 27,
+    "id": 1461429492,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt40660080",
+        "plex": {
+          "guid": "69a8dc103b69bd6f8f52c628",
+          "slug": "son-in-law-2026"
+        },
+        "slug": "son-in-law-2026",
+        "tmdb": 1651233,
+        "trakt": 1366181
+      },
+      "year": 2026,
+      "title": "Son-in-Law"
+    },
+    "rank": 28,
+    "id": 1464510663,
+    "listed_at": "2026-05-06T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt27486290",
+        "plex": {
+          "guid": "69d3cf39946744ec5f532455",
+          "slug": "stranger-things-tales-from-85-theatrical-preview"
+        },
+        "slug": "stranger-things-tales-from-85-theatrical-preview-2026",
+        "tmdb": 1664583,
+        "trakt": 1366588
+      },
+      "year": 2026,
+      "title": "Stranger Things: Tales from '85 Theatrical Preview"
+    },
+    "rank": 29,
+    "id": 1463458815,
+    "listed_at": "2026-05-02T00:04:11.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34705112",
+        "plex": {
+          "guid": "6742bccdb68d6e40e7e1d4b7",
+          "slug": "busboys-2026"
+        },
+        "slug": "busboys-2026",
+        "tmdb": 1391074,
+        "trakt": 1137221
+      },
+      "year": 2026,
+      "title": "Busboys"
+    },
+    "rank": 30,
+    "id": 1461429496,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt40891145",
+        "plex": {
+          "guid": "69bfe9a0ee6edf3b06a3ee8f",
+          "slug": "180-2026"
+        },
+        "slug": "180-2026",
+        "tmdb": 1659087,
+        "trakt": 1364949
+      },
+      "year": 2026,
+      "title": "180"
+    },
+    "rank": 31,
+    "id": 1461429500,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt9000310",
+        "plex": {
+          "guid": "5f40dabe2e2b260040b8ec6d",
+          "slug": "ghost-in-the-cell-2026"
+        },
+        "slug": "ghost-in-the-cell-2026",
+        "tmdb": 1393326,
+        "trakt": 1139209
+      },
+      "year": 2026,
+      "title": "Ghost in the Cell"
+    },
+    "rank": 32,
+    "id": 1464722658,
+    "listed_at": "2026-05-07T00:06:16.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt37287335",
+        "plex": {
+          "guid": "6856893830a4aaafd5c4291d",
+          "slug": "obsession-2026"
+        },
+        "slug": "obsession-2026",
+        "tmdb": 1339713,
+        "trakt": 1095879
+      },
+      "year": 2026,
+      "title": "Obsession"
+    },
+    "rank": 33,
+    "id": 1461429502,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31195136",
+        "plex": {
+          "guid": "65cc295e16bb4db33e2d07f5",
+          "slug": "normal-2026"
+        },
+        "slug": "normal-2026",
+        "tmdb": 1242332,
+        "trakt": 1005706
+      },
+      "year": 2026,
+      "title": "Normal"
+    },
+    "rank": 34,
+    "id": 1461429503,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29540862",
+        "plex": {
+          "guid": "6532c4beaaaccb993bbae7c2",
+          "slug": "bhooth-bangla"
+        },
+        "slug": "bhooth-bangla-2026",
+        "tmdb": 1239134,
+        "trakt": 1002327
+      },
+      "year": 2026,
+      "title": "Bhooth Bangla"
+    },
+    "rank": 35,
+    "id": 1461429504,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt27200708",
+        "plex": {
+          "guid": "641df822a689eccf34c23a61",
+          "slug": "mother-mary-2026"
+        },
+        "slug": "mother-mary-2026",
+        "tmdb": 1102883,
+        "trakt": 887210
+      },
+      "year": 2026,
+      "title": "Mother Mary"
+    },
+    "rank": 36,
+    "id": 1461429505,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt18212138",
+        "plex": {
+          "guid": "620edd75fd571b132a23bc0a",
+          "slug": "kill-code-2026"
+        },
+        "slug": "kill-code-2026",
+        "tmdb": 949536,
+        "trakt": 762913
+      },
+      "year": 2026,
+      "title": "Kill Code"
+    },
+    "rank": 37,
+    "id": 1464236397,
+    "listed_at": "2026-05-05T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34498610",
+        "plex": {
+          "guid": "67342a659700c970223fff2f",
+          "slug": "toaster-2026"
+        },
+        "slug": "toaster-2026",
+        "tmdb": 1416391,
+        "trakt": 1158772
+      },
+      "year": 2026,
+      "title": "Toaster"
+    },
+    "rank": 38,
+    "id": 1461429506,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32394984",
+        "plex": {
+          "guid": "664a6793df4db8e8b63573fb",
+          "slug": "sierra-madre-2026"
+        },
+        "slug": "brothers-under-fire-2026",
+        "tmdb": 1414413,
+        "trakt": 1157128
+      },
+      "year": 2026,
+      "title": "Brothers Under Fire"
+    },
+    "rank": 39,
+    "id": 1461429507,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32612507",
+        "plex": {
+          "guid": "666e8f86b54e01613b35bccf",
+          "slug": "lee-cronins-the-mummy"
+        },
+        "slug": "lee-cronin-s-the-mummy-2026",
+        "tmdb": 1304313,
+        "trakt": 1063866
+      },
+      "year": 2026,
+      "title": "Lee Cronin's The Mummy"
+    },
+    "rank": 40,
+    "id": 1461429508,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt26735622",
+        "plex": {
+          "guid": "63efd06ae7f94e2f4090be7f",
+          "slug": "balls-up-2026"
+        },
+        "slug": "balls-up-2026",
+        "tmdb": 1084577,
+        "trakt": 871860
+      },
+      "year": 2026,
+      "title": "Balls Up"
+    },
+    "rank": 41,
+    "id": 1461429509,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt37540875",
+        "plex": {
+          "guid": "6880e87c6442b88c03c31ee8",
+          "slug": "roommates-2026"
+        },
+        "slug": "roommates-2026",
+        "tmdb": 1511057,
+        "trakt": 1239227
+      },
+      "year": 2026,
+      "title": "Roommates"
+    },
+    "rank": 42,
+    "id": 1461429511,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt7708226",
+        "plex": {
+          "guid": "5f40d3ea02101b004010fe05",
+          "slug": "beast-in-me-2026"
+        },
+        "slug": "beast-2026",
+        "tmdb": 1292415,
+        "trakt": 1051859
+      },
+      "year": 2026,
+      "title": "Beast"
+    },
+    "rank": 43,
+    "id": 1461429513,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32362890",
+        "plex": {
+          "guid": "6646bd77603bbcde0dc847cc",
+          "slug": "shiver-2026"
+        },
+        "slug": "thrash-2026",
+        "tmdb": 1290417,
+        "trakt": 1050053
+      },
+      "year": 2026,
+      "title": "Thrash"
+    },
+    "rank": 44,
+    "id": 1461429514,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30460421",
+        "plex": {
+          "guid": "657fdaf3140775317541b567",
+          "slug": "lik-love-insurance-kompany"
+        },
+        "slug": "love-insurance-kompany-2026",
+        "tmdb": 1209511,
+        "trakt": 974677
+      },
+      "year": 2026,
+      "title": "Love Insurance Kompany"
+    },
+    "rank": 45,
+    "id": 1464236398,
+    "listed_at": "2026-05-05T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14619456",
+        "plex": {
+          "guid": "609ce73e447cea002c130237",
+          "slug": "faces-of-death-2026"
+        },
+        "slug": "faces-of-death-2026",
+        "tmdb": 855435,
+        "trakt": 683873
+      },
+      "year": 2026,
+      "title": "Faces of Death"
+    },
+    "rank": 46,
+    "id": 1461429518,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt36352591",
+        "plex": {
+          "guid": "67e5856c9b8f3779f381af9e",
+          "slug": "you-me-and-tuscany"
+        },
+        "slug": "you-me-tuscany-2026",
+        "tmdb": 1455079,
+        "trakt": 1191569
+      },
+      "year": 2026,
+      "title": "You, Me & Tuscany"
+    },
+    "rank": 47,
+    "id": 1461429519,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt25868520",
+        "plex": {
+          "guid": "63bef28e4f4cdd8909a69f76",
+          "slug": "tamerlane-rise-of-the-last-conqueror"
+        },
+        "slug": "rise-of-the-conqueror-2026",
+        "tmdb": 1207162,
+        "trakt": 972040
+      },
+      "year": 2026,
+      "title": "Rise of the Conqueror"
+    },
+    "rank": 48,
+    "id": 1464510664,
+    "listed_at": "2026-05-06T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39833109",
+        "plex": {
+          "guid": "67f511d0829d3943dabc1fcd",
+          "slug": "salmokji-whispering-water"
+        },
+        "slug": "salmokji-whispering-water-2026",
+        "tmdb": 1461254,
+        "trakt": 1196722
+      },
+      "year": 2026,
+      "title": "Salmokji: Whispering Water"
+    },
+    "rank": 49,
+    "id": 1464510665,
+    "listed_at": "2026-05-06T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt23724682",
+        "plex": {
+          "guid": "63768fe04ef1250d39a920b3",
+          "slug": "outcome-2026"
+        },
+        "slug": "outcome-2026",
+        "tmdb": 1049471,
+        "trakt": 844391
+      },
+      "year": 2026,
+      "title": "Outcome"
+    },
+    "rank": 50,
+    "id": 1461429521,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt36451817",
+        "plex": {
+          "guid": "6813a413f06e10c63c68a4be",
+          "slug": "raakaasa"
+        },
+        "slug": "raakaasa-2026",
+        "tmdb": 1451078,
+        "trakt": 1188141
+      },
+      "year": 2026,
+      "title": "Raakaasa"
+    },
+    "rank": 51,
+    "id": 1464236399,
+    "listed_at": "2026-05-05T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt28650488",
+        "plex": {
+          "guid": "64dd290c84713e6f8ba2874b",
+          "slug": "the-super-mario-galaxy-movie"
+        },
+        "slug": "the-super-mario-galaxy-movie-2026",
+        "tmdb": 1226863,
+        "trakt": 991429
+      },
+      "year": 2026,
+      "title": "The Super Mario Galaxy Movie"
+    },
+    "rank": 52,
+    "id": 1464722659,
+    "listed_at": "2026-05-07T00:06:16.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt9661164",
+        "plex": {
+          "guid": "5f40ddcb768fc700406195a5",
+          "slug": "no-ordinary-heist"
+        },
+        "slug": "no-ordinary-heist-2026",
+        "tmdb": 1624961,
+        "trakt": 1348482
+      },
+      "year": 2026,
+      "title": "No Ordinary Heist"
+    },
+    "rank": 53,
+    "id": 1464510666,
+    "listed_at": "2026-05-06T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39122419",
+        "plex": {
+          "guid": "6940fd558787b8324d17c5f7",
+          "slug": "happy-raj"
+        },
+        "slug": "happy-raj-2026",
+        "tmdb": 1518247,
+        "trakt": 1245736
+      },
+      "year": 2026,
+      "title": "Happy Raj"
+    },
+    "rank": 54,
+    "id": 1464236400,
+    "listed_at": "2026-05-05T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30691214",
+        "plex": {
+          "guid": "659191d68bdde13813e932cd",
+          "slug": "forbidden-fruits-2026"
+        },
+        "slug": "forbidden-fruits-2026",
+        "tmdb": 1450527,
+        "trakt": 1187625
+      },
+      "year": 2026,
+      "title": "Forbidden Fruits"
+    },
+    "rank": 55,
+    "id": 1461429531,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33071426",
+        "plex": {
+          "guid": "66b2b37ea96123f25e363a1f",
+          "slug": "the-drama-2026"
+        },
+        "slug": "the-drama-2026",
+        "tmdb": 1325734,
+        "trakt": 1083999
+      },
+      "year": 2026,
+      "title": "The Drama"
+    },
+    "rank": 56,
+    "id": 1463951744,
+    "listed_at": "2026-05-04T00:04:31.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31728330",
+        "plex": {
+          "guid": "65f5fd83e5a4d2133c1f760f",
+          "slug": "they-will-kill-you"
+        },
+        "slug": "they-will-kill-you-2026",
+        "tmdb": 1292695,
+        "trakt": 1052083
+      },
+      "year": 2026,
+      "title": "They Will Kill You"
+    },
+    "rank": 57,
+    "id": 1461429533,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt38693888",
+        "plex": {
+          "guid": "690563857601915ff0ad38e5",
+          "slug": "kenandgang"
+        },
+        "slug": "youth-2026",
+        "tmdb": 1542352,
+        "trakt": 1265824
+      },
+      "year": 2026,
+      "title": "Youth"
+    },
+    "rank": 58,
+    "id": 1461429534,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33978029",
+        "plex": {
+          "guid": "67154cdbfb5cda66a93ce8c1",
+          "slug": "ready-or-not-here-i-come-2026"
+        },
+        "slug": "ready-or-not-2-here-i-come-2026",
+        "tmdb": 1266127,
+        "trakt": 1027747
+      },
+      "year": 2026,
+      "title": "Ready or Not 2: Here I Come"
+    },
+    "rank": 59,
+    "id": 1464236401,
+    "listed_at": "2026-05-05T00:02:18.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39139925",
+        "plex": {
+          "guid": "6928855248e6afb60bfa5c27",
+          "slug": "dhurandhar-2-2026"
+        },
+        "slug": "dhurandhar-the-revenge-2026",
+        "tmdb": 1582770,
+        "trakt": 1313407
+      },
+      "year": 2026,
+      "title": "Dhurandhar: The Revenge"
+    },
+    "rank": 60,
+    "id": 1463951745,
+    "listed_at": "2026-05-04T00:04:31.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33303521",
+        "plex": {
+          "guid": "66d511b5cc94bc06ca2e1070",
+          "slug": "the-gates-2026"
+        },
+        "slug": "the-gates-2026",
+        "tmdb": 1366906,
+        "trakt": 1116077
+      },
+      "year": 2026,
+      "title": "The Gates"
+    },
+    "rank": 61,
+    "id": 1461429537,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32490110",
+        "plex": {
+          "guid": "66589c15943a018cc1d54462",
+          "slug": "slanted-2025"
+        },
+        "slug": "slanted-2026",
+        "tmdb": 1297446,
+        "trakt": 1057461
+      },
+      "year": 2026,
+      "title": "Slanted"
+    },
+    "rank": 62,
+    "id": 1461429538,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt35892608",
+        "plex": {
+          "guid": "67dd4b1d5e267cdf808eada4",
+          "slug": "undertone-2025-1"
+        },
+        "slug": "undertone-2026",
+        "tmdb": 1480387,
+        "trakt": 1213506
+      },
+      "year": 2026,
+      "title": "undertone"
+    },
+    "rank": 63,
+    "id": 1461429541,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33714084",
+        "plex": {
+          "guid": "670b7ea0fb5cda66a9af7c04",
+          "slug": "reminders-of-him-2026"
+        },
+        "slug": "reminders-of-him-2026",
+        "tmdb": 1367642,
+        "trakt": 1116720
+      },
+      "year": 2026,
+      "title": "Reminders of Him"
+    },
+    "rank": 64,
+    "id": 1461429542,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt36628923",
+        "plex": {
+          "guid": "6813a53bc65de3428b9ff9ae",
+          "slug": "sambhavam-adhyayam-onnu-2026"
+        },
+        "slug": "sambhavam-adhyayam-onnu-2026",
+        "tmdb": 1469458,
+        "trakt": 1203980
+      },
+      "year": 2026,
+      "title": "Sambhavam Adhyayam Onnu"
+    },
+    "rank": 65,
+    "id": 1463701781,
+    "listed_at": "2026-05-03T00:04:17.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt26443616",
+        "plex": {
+          "guid": "63d15b0b3ad5857a621ccaf5",
+          "slug": "hoppers-2026-1"
+        },
+        "slug": "hoppers-2026",
+        "tmdb": 1327819,
+        "trakt": 1085761
+      },
+      "year": 2026,
+      "title": "Hoppers"
+    },
+    "rank": 66,
+    "id": 1461429544,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt37989803",
+        "plex": {
+          "guid": "68c603e2216f855367e2484a",
+          "slug": "revenge-2026"
+        },
+        "slug": "vengeance-2026",
+        "tmdb": 1613798,
+        "trakt": 1340305
+      },
+      "year": 2026,
+      "title": "Vengeance"
+    },
+    "rank": 67,
+    "id": 1461429546,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39392533",
+        "plex": {
+          "guid": "67b33b3067554491fff3d18c",
+          "slug": "assi-2026"
+        },
+        "slug": "assi-2026",
+        "tmdb": 1435606,
+        "trakt": 1174499
+      },
+      "year": 2026,
+      "title": "Assi"
+    },
+    "rank": 68,
+    "id": 1461429548,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31226272",
+        "plex": {
+          "guid": "65ca7465f068975c24cbda89",
+          "slug": "do-deewane-seher-mein"
+        },
+        "slug": "do-deewane-seher-mein-2026",
+        "tmdb": 1241693,
+        "trakt": 1005132
+      },
+      "year": 2026,
+      "title": "Do Deewane Seher Mein"
+    },
+    "rank": 69,
+    "id": 1463458816,
+    "listed_at": "2026-05-02T00:04:11.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34688195",
+        "plex": {
+          "guid": "6746c757b3c8811d565754d5",
+          "slug": "couture-2026"
+        },
+        "slug": "couture-2026",
+        "tmdb": 1390382,
+        "trakt": 1136623
+      },
+      "year": 2026,
+      "title": "Couture"
+    },
+    "rank": 70,
+    "id": 1464722660,
+    "listed_at": "2026-05-07T00:06:16.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31969779",
+        "plex": {
+          "guid": "660cb59e5392c179bd35264e",
+          "slug": "o-romeo"
+        },
+        "slug": "o-romeo-2026",
+        "tmdb": 1275574,
+        "trakt": 1036235
+      },
+      "year": 2026,
+      "title": "O'Romeo"
+    },
+    "rank": 71,
+    "id": 1461429552,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt36118360",
+        "plex": {
+          "guid": "67f8e7ff2988466aa1a04ac2",
+          "slug": "tu-yaa-main-2026"
+        },
+        "slug": "tu-yaa-main-2026",
+        "tmdb": 1446616,
+        "trakt": 1184196
+      },
+      "year": 2026,
+      "title": "Tu Yaa Main"
+    },
+    "rank": 72,
+    "id": 1461429553,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39101156",
+        "plex": {
+          "guid": "693cdee3417cb452f0876ba5",
+          "slug": "love-on-the-amazon"
+        },
+        "slug": "love-on-the-amazon-2026",
+        "tmdb": 1592734,
+        "trakt": 1323580
+      },
+      "year": 2026,
+      "title": "Love on the Amazon"
+    },
+    "rank": 73,
+    "id": 1463701782,
+    "listed_at": "2026-05-03T00:04:17.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt8667404",
+        "plex": {
+          "guid": "5d77704e9ab5440021534436",
+          "slug": "the-chronology-of-water"
+        },
+        "slug": "the-chronology-of-water-2025",
+        "tmdb": 524635,
+        "trakt": 372992
+      },
+      "year": 2025,
+      "title": "The Chronology of Water"
+    },
+    "rank": 74,
+    "id": 1464963643,
+    "listed_at": "2026-05-08T00:12:25.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33852162",
+        "plex": {
+          "guid": "6644a41a7c67c20bcbfb6ea5",
+          "slug": "a-private-life-2025"
+        },
+        "slug": "a-private-life-2025",
+        "tmdb": 1290432,
+        "trakt": 1050067
+      },
+      "year": 2025,
+      "title": "A Private Life"
+    },
+    "rank": 75,
+    "id": 1461429564,
+    "listed_at": "2026-04-25T21:14:09.000Z",
+    "notes": null
+  }
+]

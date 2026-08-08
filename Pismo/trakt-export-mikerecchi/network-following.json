@@ -1,0 +1,366 @@
+[
+  {
+    "followed_at": "2018-07-14T16:26:52.000Z",
+    "user": {
+      "ids": {
+        "slug": "erik-richy",
+        "trakt": 3677155
+      },
+      "images": {
+        "avatar": {
+          "full": "https://secure.gravatar.com/avatar/42dc9cfd12747dc85cb28fad7827e88c?s=256&r=pg&d=https://i2.wp.com/media.trakt.tv/hotlink-ok/placeholders/medium/fry.png"
+        }
+      },
+      "username": "@erik.richy",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2018-03-14T13:43:27.000Z",
+      "location": "Bardejov",
+      "about": "",
+      "name": "Erik Richvalský",
+      "gender": "male",
+      "age": null,
+      "vip": false,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 13
+  },
+  {
+    "followed_at": "2018-07-14T16:56:45.000Z",
+    "user": {
+      "ids": {
+        "slug": "giladg",
+        "trakt": 325584
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/000/325/584/avatars/medium/e5131bdbee.jpeg"
+        }
+      },
+      "username": "giladg",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2013-10-11T22:03:34.000Z",
+      "location": "Toronto, ON",
+      "about": "",
+      "name": "G&A",
+      "gender": "male",
+      "age": null,
+      "vip": false,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 13
+  },
+  {
+    "followed_at": "2018-07-14T16:58:53.000Z",
+    "user": {
+      "ids": {
+        "slug": "lish408",
+        "trakt": 609065
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/000/609/065/avatars/medium/710c9ad583.jpg"
+        }
+      },
+      "username": "lish408",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2014-08-25T22:24:56.000Z",
+      "location": "San Jose, CA",
+      "about": "",
+      "name": "LISH",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 13
+  },
+  {
+    "followed_at": "2018-08-24T12:51:46.000Z",
+    "user": {
+      "ids": {
+        "slug": "bbaronsvk",
+        "trakt": 2639886
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/002/639/886/avatars/medium/73d8d18cb9.jpg"
+        }
+      },
+      "username": "bbaronSVK",
+      "private": true,
+      "deleted": false,
+      "joined_at": "2017-01-23T11:23:58.000Z",
+      "location": "Slovakia",
+      "about": "Rad si pozriem dobru komediu, rozpravku ale aj thriler",
+      "name": "BBaron",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 13
+  },
+  {
+    "followed_at": "2025-11-09T18:33:17.000Z",
+    "user": {
+      "ids": {
+        "slug": "crossoverenserie",
+        "trakt": 69182
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/000/069/182/avatars/medium/fdf1b55d71.png"
+        }
+      },
+      "username": "crossoverenserie",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2012-10-06T09:57:45.000Z",
+      "location": "Barcelona, Catalonia",
+      "about": "I love TV shows, I am a fannibal, but I don't eat people, I hate George R.R. Martin for killing Starks, but I love him for create Song of Ice and Fire. Alicia Florrick is just amazing and I want to kill Frank Underwood!\r\n\r\nI watched too many times The Lord of the Rings, and Nolan (Inception) and Fincher (Gone Girl) are two of my best directors.",
+      "name": "Crossover",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 13
+  },
+  {
+    "followed_at": "2026-04-24T10:45:05.000Z",
+    "user": {
+      "ids": {
+        "slug": "acoucalancha",
+        "trakt": 3349704
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/349/704/avatars/medium/5cdb7fb2d3.jpg"
+        }
+      },
+      "username": "Acoucalancha",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-10-16T16:47:44.000Z",
+      "location": "Québec, Canada",
+      "about": "Bring back the old Trakt, or it's the end of my conTrakt!",
+      "name": "Acoucalancha",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 13
+  },
+  {
+    "followed_at": "2026-04-24T10:51:04.000Z",
+    "user": {
+      "ids": {
+        "slug": "garycrawfordgc",
+        "trakt": 1518426
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/001/518/426/avatars/medium/20a5080f31.jpg"
+        }
+      },
+      "username": "garycrawfordgc",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2016-01-07T13:06:49.000Z",
+      "location": "",
+      "about": "Meh!",
+      "name": "Gary",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 13
+  },
+  {
+    "followed_at": "2026-04-24T10:55:17.000Z",
+    "user": {
+      "ids": {
+        "slug": "justin",
+        "trakt": 1
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/admins/000/000/001/avatars/medium/2e6df69058.jpg"
+        }
+      },
+      "username": "justin",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2010-09-25T17:49:25.000Z",
+      "location": "United States",
+      "about": "Do the truffle shuffle!!",
+      "name": "Justin",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": true
+    },
+    "total_count": 13
+  },
+  {
+    "followed_at": "2026-04-24T11:01:46.000Z",
+    "user": {
+      "ids": {
+        "slug": "linaspurinis",
+        "trakt": 264489
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/000/264/489/avatars/medium/0a79971efc.png"
+        }
+      },
+      "username": "linaspurinis",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2013-07-19T06:08:33.000Z",
+      "location": "Vilnius, Lithuania",
+      "about": "Creator of https://mdblist.com - create your own dynamic Trakt.tv lists",
+      "name": "Linas Purinis",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 13
+  },
+  {
+    "followed_at": "2026-04-24T11:18:18.000Z",
+    "user": {
+      "ids": {
+        "slug": "snoak",
+        "trakt": 12951664
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/012/951/664/avatars/medium/0654df10e3.jpg"
+        }
+      },
+      "username": "snoak",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2023-08-14T19:26:04.000Z",
+      "location": "",
+      "about": "",
+      "name": "snoak",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 13
+  },
+  {
+    "followed_at": "2026-04-24T11:22:47.000Z",
+    "user": {
+      "ids": {
+        "slug": "hdlists",
+        "trakt": 2183289
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/002/183/289/avatars/medium/52fd1eebe2.png"
+        }
+      },
+      "username": "hdlists",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2016-08-23T22:45:11.000Z",
+      "location": "Earth",
+      "about": "",
+      "name": "HD Movie Lists",
+      "gender": "",
+      "age": 48,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 13
+  },
+  {
+    "followed_at": "2026-04-24T11:28:30.000Z",
+    "user": {
+      "ids": {
+        "slug": "notamongo5",
+        "trakt": 13621841
+      },
+      "images": {
+        "avatar": {
+          "full": "https://secure.gravatar.com/avatar/45b145bbdd7d35a6fecc7366cbbef130?s=256&r=pg&d=https://i2.wp.com/media.trakt.tv/hotlink-ok/placeholders/medium/zoidberg.png"
+        }
+      },
+      "username": "notamongo5",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2024-03-06T05:18:04.000Z",
+      "location": "Ronkonkoma, New York",
+      "about": null,
+      "name": "Frunkis5",
+      "gender": "",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 13
+  },
+  {
+    "followed_at": "2026-04-25T16:25:04.000Z",
+    "user": {
+      "ids": {
+        "slug": "dracid7",
+        "trakt": 602963
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/000/602/963/avatars/medium/2d7deea3ba.jpg"
+        }
+      },
+      "username": "Dracid7",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2014-08-20T07:41:13.000Z",
+      "location": "Estonia",
+      "about": null,
+      "name": "Dracid",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 13
+  }
+]

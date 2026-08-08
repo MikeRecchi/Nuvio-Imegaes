@@ -1,0 +1,597 @@
+[
+  {
+    "hidden_at": "2026-04-16T08:52:08.000Z",
+    "type": "show",
+    "show": {
+      "title": "Marvel Studios: Legends",
+      "year": 2021,
+      "ids": {
+        "trakt": 170822,
+        "slug": "marvel-studios-legends",
+        "tvdb": 393438,
+        "imdb": "tt13650480",
+        "tmdb": 114695,
+        "tvrage": null
+      },
+      "aired_episodes": 46
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:51:11.000Z",
+    "type": "show",
+    "show": {
+      "title": "The Loud House",
+      "year": 2016,
+      "ids": {
+        "trakt": 106798,
+        "slug": "the-loud-house",
+        "tvdb": 309726,
+        "imdb": "tt4859164",
+        "tmdb": 68073,
+        "tvrage": null
+      },
+      "aired_episodes": 395
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:50:53.000Z",
+    "type": "show",
+    "show": {
+      "title": "Oteckovia",
+      "year": 2017,
+      "ids": {
+        "trakt": 136314,
+        "slug": "oteckovia",
+        "tvdb": 340318,
+        "imdb": "tt8509876",
+        "tmdb": 81772,
+        "tvrage": null
+      },
+      "aired_episodes": 774
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:50:47.000Z",
+    "type": "show",
+    "show": {
+      "title": "The Last Kids on Earth",
+      "year": 2019,
+      "ids": {
+        "trakt": 148014,
+        "slug": "the-last-kids-on-earth",
+        "tvdb": 364196,
+        "imdb": "tt8914012",
+        "tmdb": 92684,
+        "tvrage": null
+      },
+      "aired_episodes": 21
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:50:41.000Z",
+    "type": "show",
+    "show": {
+      "title": "Bob's Burgers",
+      "year": 2011,
+      "ids": {
+        "trakt": 32585,
+        "slug": "bob-s-burgers",
+        "tvdb": 194031,
+        "imdb": "tt1561755",
+        "tmdb": 32726,
+        "tvrage": null
+      },
+      "aired_episodes": 310
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:50:25.000Z",
+    "type": "show",
+    "show": {
+      "title": "Patria",
+      "year": 2020,
+      "ids": {
+        "trakt": 152912,
+        "slug": "patria",
+        "tvdb": 354486,
+        "imdb": "tt6625730",
+        "tmdb": 85964,
+        "tvrage": null
+      },
+      "aired_episodes": 8
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:50:00.000Z",
+    "type": "show",
+    "show": {
+      "title": "American Dad!",
+      "year": 2005,
+      "ids": {
+        "trakt": 1424,
+        "slug": "american-dad",
+        "tvdb": 73141,
+        "imdb": "tt0397306",
+        "tmdb": 1433,
+        "tvrage": null
+      },
+      "aired_episodes": 395
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:49:53.000Z",
+    "type": "show",
+    "show": {
+      "title": "Prank Encounters",
+      "year": 2019,
+      "ids": {
+        "trakt": 152904,
+        "slug": "prank-encounters",
+        "tvdb": 369729,
+        "imdb": "tt10487072",
+        "tmdb": 94515,
+        "tvrage": null
+      },
+      "aired_episodes": 15
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:49:45.000Z",
+    "type": "show",
+    "show": {
+      "title": "Batwoman",
+      "year": 2019,
+      "ids": {
+        "trakt": 145567,
+        "slug": "batwoman",
+        "tvdb": 361315,
+        "imdb": "tt8712204",
+        "tmdb": 89247,
+        "tvrage": null
+      },
+      "aired_episodes": 51
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:49:28.000Z",
+    "type": "show",
+    "show": {
+      "title": "Tuff Money",
+      "year": 2020,
+      "ids": {
+        "trakt": 168561,
+        "slug": "tuff-money",
+        "tvdb": 390586,
+        "imdb": "tt10701038",
+        "tmdb": 109922,
+        "tvrage": null
+      },
+      "aired_episodes": 6
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:49:25.000Z",
+    "type": "show",
+    "show": {
+      "title": "Superstore",
+      "year": 2015,
+      "ids": {
+        "trakt": 98985,
+        "slug": "superstore",
+        "tvdb": 295648,
+        "imdb": "tt4477976",
+        "tmdb": 62649,
+        "tvrage": null
+      },
+      "aired_episodes": 113
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:49:13.000Z",
+    "type": "show",
+    "show": {
+      "title": "Survivor Česko a Slovensko",
+      "year": 2022,
+      "ids": {
+        "trakt": 192651,
+        "slug": "survivor-cesko-a-slovensko",
+        "tvdb": 415177,
+        "imdb": "tt17509286",
+        "tmdb": 155847,
+        "tvrage": null
+      },
+      "aired_episodes": 162
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:49:09.000Z",
+    "type": "show",
+    "show": {
+      "title": "Big Shot",
+      "year": 2021,
+      "ids": {
+        "trakt": 162014,
+        "slug": "big-shot-2021",
+        "tvdb": 382154,
+        "imdb": "tt11238096",
+        "tmdb": 96716,
+        "tvrage": null
+      },
+      "aired_episodes": 20
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:49:03.000Z",
+    "type": "show",
+    "show": {
+      "title": "Truth Be Told",
+      "year": 2019,
+      "ids": {
+        "trakt": 152693,
+        "slug": "truth-be-told-2019",
+        "tvdb": 351527,
+        "imdb": "tt7821582",
+        "tmdb": 80054,
+        "tvrage": null
+      },
+      "aired_episodes": 28
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:49:00.000Z",
+    "type": "show",
+    "show": {
+      "title": "Money Heist: Korea - Joint Economic Area",
+      "year": 2022,
+      "ids": {
+        "trakt": 185230,
+        "slug": "money-heist-korea-joint-economic-area",
+        "tvdb": 401314,
+        "imdb": "tt13696452",
+        "tmdb": 112836,
+        "tvrage": null
+      },
+      "aired_episodes": 12
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:48:55.000Z",
+    "type": "show",
+    "show": {
+      "title": "The Sandman",
+      "year": 2022,
+      "ids": {
+        "trakt": 149786,
+        "slug": "the-sandman",
+        "tvdb": 366211,
+        "imdb": "tt1751634",
+        "tmdb": 90802,
+        "tvrage": null
+      },
+      "aired_episodes": 23
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:48:18.000Z",
+    "type": "show",
+    "show": {
+      "title": "Death Note",
+      "year": 2006,
+      "ids": {
+        "trakt": 13855,
+        "slug": "death-note",
+        "tvdb": 79481,
+        "imdb": "tt0877057",
+        "tmdb": 13916,
+        "tvrage": null
+      },
+      "aired_episodes": 37
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:48:14.000Z",
+    "type": "show",
+    "show": {
+      "title": "The Grand Tour",
+      "year": 2016,
+      "ids": {
+        "trakt": 108999,
+        "slug": "the-grand-tour",
+        "tvdb": 314087,
+        "imdb": "tt5712554",
+        "tmdb": 67557,
+        "tvrage": null
+      },
+      "aired_episodes": 46
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:48:08.000Z",
+    "type": "show",
+    "show": {
+      "title": "Tour de France: Unchained",
+      "year": 2023,
+      "ids": {
+        "trakt": 204753,
+        "slug": "tour-de-france-unchained",
+        "tvdb": 431800,
+        "imdb": "tt19296314",
+        "tmdb": 225335,
+        "tvrage": null
+      },
+      "aired_episodes": 24
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:48:04.000Z",
+    "type": "show",
+    "show": {
+      "title": "Inside the World's Toughest Prisons",
+      "year": 2016,
+      "ids": {
+        "trakt": 105596,
+        "slug": "inside-the-world-s-toughest-prisons",
+        "tvdb": 307516,
+        "imdb": "tt6322264",
+        "tmdb": 72541,
+        "tvrage": null
+      },
+      "aired_episodes": 27
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:47:19.000Z",
+    "type": "show",
+    "show": {
+      "title": "Squid Game: The Challenge",
+      "year": 2023,
+      "ids": {
+        "trakt": 196265,
+        "slug": "squid-game-the-challenge",
+        "tvdb": 421260,
+        "imdb": "tt28104766",
+        "tmdb": 204082,
+        "tvrage": null
+      },
+      "aired_episodes": 19
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:47:15.000Z",
+    "type": "show",
+    "show": {
+      "title": "The Shrink Next Door",
+      "year": 2021,
+      "ids": {
+        "trakt": 161299,
+        "slug": "the-shrink-next-door",
+        "tvdb": 381206,
+        "imdb": "tt11947248",
+        "tmdb": 102540,
+        "tvrage": null
+      },
+      "aired_episodes": 8
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:47:12.000Z",
+    "type": "show",
+    "show": {
+      "title": "Alexander: The Making of a God",
+      "year": 2024,
+      "ids": {
+        "trakt": 220011,
+        "slug": "alexander-the-making-of-a-god",
+        "tvdb": 444188,
+        "imdb": "tt27494999",
+        "tmdb": 242392,
+        "tvrage": null
+      },
+      "aired_episodes": 6
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:47:08.000Z",
+    "type": "show",
+    "show": {
+      "title": "Life on Our Planet",
+      "year": 2023,
+      "ids": {
+        "trakt": 199490,
+        "slug": "life-on-our-planet",
+        "tvdb": 426715,
+        "imdb": "tt23181388",
+        "tmdb": 213609,
+        "tvrage": null
+      },
+      "aired_episodes": 8
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:47:04.000Z",
+    "type": "show",
+    "show": {
+      "title": "Iveta: Kráska z Trebišova",
+      "year": 2023,
+      "ids": {
+        "trakt": 201170,
+        "slug": "iveta-kraska-z-trebisova",
+        "tvdb": 429527,
+        "imdb": "tt15445074",
+        "tmdb": 217335,
+        "tvrage": null
+      },
+      "aired_episodes": 18
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:46:52.000Z",
+    "type": "show",
+    "show": {
+      "title": "Class Act",
+      "year": 2023,
+      "ids": {
+        "trakt": 204264,
+        "slug": "class-act-2023",
+        "tvdb": 405231,
+        "imdb": "tt27921612",
+        "tmdb": 198090,
+        "tvrage": null
+      },
+      "aired_episodes": 7
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:46:10.000Z",
+    "type": "show",
+    "show": {
+      "title": "Together: Treble Winners",
+      "year": 2024,
+      "ids": {
+        "trakt": 229546,
+        "slug": "together-treble-winners",
+        "tvdb": 447086,
+        "imdb": "tt31579076",
+        "tmdb": 248294,
+        "tvrage": null
+      },
+      "aired_episodes": 6
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:46:05.000Z",
+    "type": "show",
+    "show": {
+      "title": "Crime Scene Berlin: Nightlife Killer",
+      "year": 2024,
+      "ids": {
+        "trakt": 229849,
+        "slug": "crime-scene-berlin-nightlife-killer",
+        "tvdb": 447313,
+        "imdb": "tt31592633",
+        "tmdb": 248470,
+        "tvrage": null
+      },
+      "aired_episodes": 3
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:46:01.000Z",
+    "type": "show",
+    "show": {
+      "title": "The Flight Attendant",
+      "year": 2020,
+      "ids": {
+        "trakt": 153823,
+        "slug": "the-flight-attendant",
+        "tvdb": 366625,
+        "imdb": "tt7569576",
+        "tmdb": 93287,
+        "tvrage": null
+      },
+      "aired_episodes": 16
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:45:57.000Z",
+    "type": "show",
+    "show": {
+      "title": "Supersex",
+      "year": 2024,
+      "ids": {
+        "trakt": 202107,
+        "slug": "supersex",
+        "tvdb": 432040,
+        "imdb": "tt22325774",
+        "tmdb": 211079,
+        "tvrage": null
+      },
+      "aired_episodes": 7
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:45:15.000Z",
+    "type": "show",
+    "show": {
+      "title": "The Kings of Tupelo: A Southern Crime Saga",
+      "year": 2024,
+      "ids": {
+        "trakt": 264812,
+        "slug": "the-kings-of-tupelo-a-southern-crime-saga",
+        "tvdb": 456948,
+        "imdb": "tt34682275",
+        "tmdb": 277789,
+        "tvrage": null
+      },
+      "aired_episodes": 3
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:45:01.000Z",
+    "type": "show",
+    "show": {
+      "title": "Mythic Quest",
+      "year": 2020,
+      "ids": {
+        "trakt": 146792,
+        "slug": "mythic-quest",
+        "tvdb": 362829,
+        "imdb": "tt8879940",
+        "tmdb": 94951,
+        "tvrage": null
+      },
+      "aired_episodes": 40
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:44:58.000Z",
+    "type": "show",
+    "show": {
+      "title": "The Narrow Road to the Deep North",
+      "year": 2025,
+      "ids": {
+        "trakt": 212532,
+        "slug": "the-narrow-road-to-the-deep-north",
+        "tvdb": 448043,
+        "imdb": "tt11389652",
+        "tmdb": 238339,
+        "tvrage": null
+      },
+      "aired_episodes": 5
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:44:54.000Z",
+    "type": "show",
+    "show": {
+      "title": "Black Rabbit",
+      "year": 2025,
+      "ids": {
+        "trakt": 230778,
+        "slug": "black-rabbit",
+        "tvdb": 447579,
+        "imdb": "tt23055142",
+        "tmdb": 249039,
+        "tvrage": null
+      },
+      "aired_episodes": 8
+    }
+  },
+  {
+    "hidden_at": "2026-04-16T08:44:50.000Z",
+    "type": "show",
+    "show": {
+      "title": "Monique Olivier: Accessory to Evil",
+      "year": 2023,
+      "ids": {
+        "trakt": 202918,
+        "slug": "monique-olivier-accessory-to-evil",
+        "tvdb": 431184,
+        "imdb": "tt26595396",
+        "tmdb": 221048,
+        "tvrage": null
+      },
+      "aired_episodes": 5
+    }
+  }
+]

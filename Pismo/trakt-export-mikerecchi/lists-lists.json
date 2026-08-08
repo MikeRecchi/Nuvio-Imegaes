@@ -1,0 +1,722 @@
+[
+  {
+    "name": "Anticipated Movie",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/anticipated-movie\r\nUpdated at 2026-05-08 03:12:34",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/anticipated-movie",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-24T13:25:04.000Z",
+    "updated_at": "2026-05-08T00:12:34.000Z",
+    "item_count": 191,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "anticipated-movie",
+      "trakt": 34446654
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "IMDB: Moviemeter TOP 100",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/imdb-moviemeter-top-100\r\nUpdated at 2026-05-08 03:12:32",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/imdb-moviemeter-top-100",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-24T13:33:02.000Z",
+    "updated_at": "2026-05-08T00:12:32.000Z",
+    "item_count": 87,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "imdb-moviemeter-top-100",
+      "trakt": 34446708
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "Weekend Box Office",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/weekend-box-office\r\nUpdated at 2026-05-08 03:12:27",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/weekend-box-office",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-24T13:36:35.000Z",
+    "updated_at": "2026-05-08T00:12:28.000Z",
+    "item_count": 57,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "weekend-box-office",
+      "trakt": 34446720
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "Anticipated TV Show",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/anticipated-tv-show\r\nUpdated at 2026-05-08 03:12:28",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/anticipated-tv-show",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-24T13:40:19.000Z",
+    "updated_at": "2026-05-08T00:12:28.000Z",
+    "item_count": 63,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "anticipated-tv-show",
+      "trakt": 34446745
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "Top 10 Most Pirated Movies of The Week",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/top-10-most-pirated-movies-of-the-week\r\nUpdated at 2026-05-08 05:50:10",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/top-10-most-pirated-movies-of-the-week",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-25T18:56:06.000Z",
+    "updated_at": "2026-05-08T02:50:10.000Z",
+    "item_count": 10,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "top-10-most-pirated-movies-of-the-week",
+      "trakt": 34460773
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "My Calendar Movie",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/my-calendar-movie\r\nUpdated at 2026-05-08 03:12:27",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/my-calendar-movie",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-25T21:04:44.000Z",
+    "updated_at": "2026-05-08T00:12:27.000Z",
+    "item_count": 75,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "my-calendar-movie",
+      "trakt": 34462031
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "My Calendar TV Show",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/my-calendar-tv-show\r\nUpdated at 2026-05-08 03:12:25",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/my-calendar-tv-show",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-25T21:08:19.000Z",
+    "updated_at": "2026-05-08T00:12:25.000Z",
+    "item_count": 79,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "my-calendar-tv-show",
+      "trakt": 34462063
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "Airing TV Show Today",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/airing-tv-show-today\r\nUpdated at 2026-05-08 20:28:13",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/airing-tv-show-today",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-25T21:23:26.000Z",
+    "updated_at": "2026-05-08T17:28:13.000Z",
+    "item_count": 107,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "airing-tv-show-today",
+      "trakt": 34462183
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "Based on True Story - Movie",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/based-on-true-story\r\nUpdated at 2026-05-08 03:12:21",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/based-on-true-story-movie",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-30T13:55:59.000Z",
+    "updated_at": "2026-05-08T00:12:22.000Z",
+    "item_count": 300,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "based-on-true-story-movie",
+      "trakt": 34506084
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "Based on True Story - TV Show",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/based-on-true-story-tv-show\r\nUpdated at 2026-05-08 03:12:19",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/based-on-true-story-tv-show",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-30T15:59:01.000Z",
+    "updated_at": "2026-05-08T00:12:20.000Z",
+    "item_count": 158,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "based-on-true-story-tv-show",
+      "trakt": 34506760
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "Mindfuck",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/mindfuck\r\nUpdated at 2026-05-08 03:12:23",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/mindfuck",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-30T17:19:52.000Z",
+    "updated_at": "2026-05-08T00:12:23.000Z",
+    "item_count": 273,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "mindfuck",
+      "trakt": 34507260
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "Daily Pick",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/daily-pick\r\nUpdated at 2026-05-08 03:12:28",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/daily-pick",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-30T17:49:49.000Z",
+    "updated_at": "2026-05-08T00:12:28.000Z",
+    "item_count": 500,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "daily-pick",
+      "trakt": 34507484
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "True Crime - TV Show",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/true-crime-tv-show\r\nUpdated at 2026-05-08 03:12:15",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/true-crime-tv-show",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-30T17:59:52.000Z",
+    "updated_at": "2026-05-08T00:12:16.000Z",
+    "item_count": 309,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "true-crime-tv-show",
+      "trakt": 34507564
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "In Theaters SK & CZ",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/in-theaters-sk-cz\r\nUpdated at 2026-05-08 03:12:15",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/in-theaters-sk-cz",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-05-05T20:53:00.000Z",
+    "updated_at": "2026-05-08T00:12:15.000Z",
+    "item_count": 22,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "in-theaters-sk-cz",
+      "trakt": 34554821
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  },
+  {
+    "name": "True Crime - Movie",
+    "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/mikerecchi/crime-true-movie\r\nUpdated at 2026-05-08 03:12:20",
+    "privacy": "public",
+    "share_link": "https://app.trakt.tv/users/mikerecchi/lists/true-crime-movie",
+    "type": "personal",
+    "display_numbers": false,
+    "allow_comments": true,
+    "sort_by": "rank",
+    "sort_how": "asc",
+    "created_at": "2026-04-30T18:08:15.000Z",
+    "updated_at": "2026-05-08T00:12:20.000Z",
+    "item_count": 245,
+    "comment_count": 0,
+    "likes": 0,
+    "ids": {
+      "slug": "true-crime-movie",
+      "trakt": 34507631
+    },
+    "images": {
+      "posters": []
+    },
+    "user": {
+      "ids": {
+        "slug": "mikerecchi",
+        "trakt": 3221907
+      },
+      "images": {
+        "avatar": {
+          "full": "https://media.trakt.tv/images/users/003/221/907/avatars/medium/42ed985201.jpg"
+        }
+      },
+      "username": "MikeRecchi",
+      "private": false,
+      "deleted": false,
+      "joined_at": "2017-08-19T13:38:22.000Z",
+      "location": "Bardejov, Presov",
+      "about": "",
+      "name": "Mike Recchi",
+      "gender": "male",
+      "age": null,
+      "vip": true,
+      "vip_ep": false,
+      "vip_cover_image": null,
+      "director": false
+    },
+    "total_count": 15
+  }
+]

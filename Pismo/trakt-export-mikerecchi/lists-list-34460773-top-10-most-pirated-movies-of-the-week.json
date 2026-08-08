@@ -1,0 +1,212 @@
+[
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt12042730",
+        "plex": {
+          "guid": "5e91843e9bec79003fe50ffb",
+          "slug": "project-hail-mary"
+        },
+        "slug": "project-hail-mary-2026",
+        "tmdb": 687163,
+        "trakt": 531178
+      },
+      "year": 2026,
+      "title": "Project Hail Mary"
+    },
+    "rank": 1,
+    "id": 1461400995,
+    "listed_at": "2026-04-25T19:06:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt16431404",
+        "plex": {
+          "guid": "61bd9c2d6fe1ffe4778a6fe0",
+          "slug": "apex-2026"
+        },
+        "slug": "apex-2026",
+        "tmdb": 1318447,
+        "trakt": 1077748
+      },
+      "year": 2026,
+      "title": "Apex"
+    },
+    "rank": 2,
+    "id": 1462035131,
+    "listed_at": "2026-04-27T20:38:06.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt18259538",
+        "plex": {
+          "guid": "621895759fb119c33badc62d",
+          "slug": "the-legend-of-aang-the-last-airbender"
+        },
+        "slug": "avatar-aang-the-last-airbender-2026",
+        "tmdb": 980431,
+        "trakt": 787853
+      },
+      "year": 2026,
+      "title": "Avatar Aang: The Last Airbender"
+    },
+    "rank": 3,
+    "id": 1461400996,
+    "listed_at": "2026-04-25T19:06:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt28650488",
+        "plex": {
+          "guid": "64dd290c84713e6f8ba2874b",
+          "slug": "the-super-mario-galaxy-movie"
+        },
+        "slug": "the-super-mario-galaxy-movie-2026",
+        "tmdb": 1226863,
+        "trakt": 991429
+      },
+      "year": 2026,
+      "title": "The Super Mario Galaxy Movie"
+    },
+    "rank": 4,
+    "id": 1461400998,
+    "listed_at": "2026-04-25T19:06:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1757678",
+        "plex": {
+          "guid": "5d7768cc9ab54400214eba10",
+          "slug": "avatar-fire-and-ash"
+        },
+        "slug": "avatar-fire-and-ash-2025",
+        "tmdb": 83533,
+        "trakt": 62544
+      },
+      "year": 2025,
+      "title": "Avatar: Fire and Ash"
+    },
+    "rank": 5,
+    "id": 1461400997,
+    "listed_at": "2026-04-25T19:06:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33978029",
+        "plex": {
+          "guid": "67154cdbfb5cda66a93ce8c1",
+          "slug": "ready-or-not-here-i-come-2026"
+        },
+        "slug": "ready-or-not-2-here-i-come-2026",
+        "tmdb": 1266127,
+        "trakt": 1027747
+      },
+      "year": 2026,
+      "title": "Ready or Not 2: Here I Come"
+    },
+    "rank": 6,
+    "id": 1462035132,
+    "listed_at": "2026-04-27T20:38:06.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31728330",
+        "plex": {
+          "guid": "65f5fd83e5a4d2133c1f760f",
+          "slug": "they-will-kill-you"
+        },
+        "slug": "they-will-kill-you-2026",
+        "tmdb": 1292695,
+        "trakt": 1052083
+      },
+      "year": 2026,
+      "title": "They Will Kill You"
+    },
+    "rank": 7,
+    "id": 1464154036,
+    "listed_at": "2026-05-04T17:08:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt26443616",
+        "plex": {
+          "guid": "63d15b0b3ad5857a621ccaf5",
+          "slug": "hoppers-2026-1"
+        },
+        "slug": "hoppers-2026",
+        "tmdb": 1327819,
+        "trakt": 1085761
+      },
+      "year": 2026,
+      "title": "Hoppers"
+    },
+    "rank": 8,
+    "id": 1461401000,
+    "listed_at": "2026-04-25T19:06:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32430579",
+        "plex": {
+          "guid": "64f07ca3dfea43c83f75e6cf",
+          "slug": "crime-101-2026"
+        },
+        "slug": "crime-101-2026",
+        "tmdb": 1171145,
+        "trakt": 944042
+      },
+      "year": 2026,
+      "title": "Crime 101"
+    },
+    "rank": 9,
+    "id": 1461401002,
+    "listed_at": "2026-04-25T19:06:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt11378946",
+        "plex": {
+          "guid": "5e165a6310faa5004010238c",
+          "slug": "michael-2025"
+        },
+        "slug": "michael-2026",
+        "tmdb": 936075,
+        "trakt": 751145
+      },
+      "year": 2026,
+      "title": "Michael"
+    },
+    "rank": 10,
+    "id": 1464154037,
+    "listed_at": "2026-05-04T17:08:09.000Z",
+    "notes": null
+  }
+]

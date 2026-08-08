@@ -1,0 +1,5147 @@
+[
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32572716",
+        "plex": {
+          "guid": "6668af071f6c9a954cd1b9ba",
+          "slug": "the-truth-and-tragedy-of-moriah-wilson-2026"
+        },
+        "slug": "the-truth-and-tragedy-of-moriah-wilson-2026",
+        "tmdb": 1629369,
+        "trakt": 1352091
+      },
+      "year": 2026,
+      "title": "The Truth and Tragedy of Moriah Wilson"
+    },
+    "rank": 1,
+    "id": 1463058534,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt40837826",
+        "plex": {
+          "guid": "69a187fe4b5f50f123f41a10",
+          "slug": "diabolical-the-epstein-files"
+        },
+        "slug": "diabolical-the-epstein-files-2026",
+        "tmdb": 1640697,
+        "trakt": 1360234
+      },
+      "year": 2026,
+      "title": "Diabolical - The Epstein Files"
+    },
+    "rank": 2,
+    "id": 1463058535,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29482602",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "herbstfeuer-2026",
+        "tmdb": 1571030,
+        "trakt": 1303179
+      },
+      "year": 2026,
+      "title": "Herbstfeuer"
+    },
+    "rank": 3,
+    "id": 1463058536,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39389929",
+        "plex": {
+          "guid": "6973471fef031a6f888d88d6",
+          "slug": "the-investigation-of-lucy-letby"
+        },
+        "slug": "the-investigation-of-lucy-letby-2026",
+        "tmdb": 1620991,
+        "trakt": 1345224
+      },
+      "year": 2026,
+      "title": "The Investigation of Lucy Letby"
+    },
+    "rank": 4,
+    "id": 1463058537,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39140662",
+        "plex": {
+          "guid": "6940fd85fc2370bc6ba10442",
+          "slug": "kidnapped-elizabeth-smart"
+        },
+        "slug": "kidnapped-elizabeth-smart-2026",
+        "tmdb": 1595481,
+        "trakt": 1325708
+      },
+      "year": 2026,
+      "title": "Kidnapped: Elizabeth Smart"
+    },
+    "rank": 5,
+    "id": 1463058538,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39049795",
+        "plex": {
+          "guid": "69466b6f6682e7ef52926574",
+          "slug": "evil-influencer-the-jodi-hildebrandt-story-2025"
+        },
+        "slug": "evil-influencer-the-jodi-hildebrandt-story-2025",
+        "tmdb": 1591516,
+        "trakt": 1322626
+      },
+      "year": 2025,
+      "title": "Evil Influencer: The Jodi Hildebrandt Story"
+    },
+    "rank": 6,
+    "id": 1463058539,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39222512",
+        "plex": {
+          "guid": "694c682d54539b0e526847ef",
+          "slug": "critical-incident-death-at-the-border"
+        },
+        "slug": "critical-incident-death-at-the-border-2025",
+        "tmdb": 1601000,
+        "trakt": 1329820
+      },
+      "year": 2025,
+      "title": "Critical Incident: Death at the Border"
+    },
+    "rank": 7,
+    "id": 1463058540,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt38984577",
+        "plex": {
+          "guid": "69295e3b1983f5da624b795c",
+          "slug": "murder-in-monaco"
+        },
+        "slug": "murder-in-monaco-2025",
+        "tmdb": 1584619,
+        "trakt": 1317050
+      },
+      "year": 2025,
+      "title": "Murder in Monaco"
+    },
+    "rank": 8,
+    "id": 1463058541,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34965959",
+        "plex": {
+          "guid": "675ae76b6596cae30b637b46",
+          "slug": "zodiac-killer-project"
+        },
+        "slug": "zodiac-killer-project-2025",
+        "tmdb": 1400744,
+        "trakt": 1145853
+      },
+      "year": 2025,
+      "title": "Zodiac Killer Project"
+    },
+    "rank": 9,
+    "id": 1463058542,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31137117",
+        "plex": {
+          "guid": "65c0047f77feee2631c74e77",
+          "slug": "the-carman-family-deaths"
+        },
+        "slug": "the-carman-family-deaths-2025",
+        "tmdb": 1363282,
+        "trakt": 1113031
+      },
+      "year": 2025,
+      "title": "The Carman Family Deaths"
+    },
+    "rank": 10,
+    "id": 1463058543,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt38457052",
+        "plex": {
+          "guid": "68dcc67f4a8b0a19d6c08b1e",
+          "slug": "aileen-queen-of-the-serial-killers"
+        },
+        "slug": "aileen-queen-of-the-serial-killers-2025",
+        "tmdb": 1550569,
+        "trakt": 1272947
+      },
+      "year": 2025,
+      "title": "Aileen: Queen of the Serial Killers"
+    },
+    "rank": 11,
+    "id": 1463058544,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt38926861",
+        "plex": {
+          "guid": "6910b23120fcf5c2e850c410",
+          "slug": "hunted-by-my-husband-the-untold-story-of-the-dc-sniper"
+        },
+        "slug": "hunted-by-my-husband-the-untold-story-of-the-dc-sniper-2025",
+        "tmdb": 1570924,
+        "trakt": 1296158
+      },
+      "year": 2025,
+      "title": "Hunted by My Husband: The Untold Story of the DC Sniper"
+    },
+    "rank": 12,
+    "id": 1463058545,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt39252065",
+        "plex": {
+          "guid": "69134312de7f556e5174c007",
+          "slug": "the-boston-strangler-unheard-confession"
+        },
+        "slug": "the-boston-strangler-unheard-confession-2025",
+        "tmdb": 1572903,
+        "trakt": 1304820
+      },
+      "year": 2025,
+      "title": "The Boston Strangler: Unheard Confession"
+    },
+    "rank": 13,
+    "id": 1463058546,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33499051",
+        "plex": {
+          "guid": "66f9df1f365479eb27249755",
+          "slug": "the-last-sacrifice-2024-1"
+        },
+        "slug": "the-last-sacrifice-2025",
+        "tmdb": 1355281,
+        "trakt": 1106085
+      },
+      "year": 2025,
+      "title": "The Last Sacrifice"
+    },
+    "rank": 14,
+    "id": 1463058547,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34962891",
+        "plex": {
+          "guid": "675ae76def2cf881ad6a4ea1",
+          "slug": "the-perfect-neighbor-2025"
+        },
+        "slug": "the-perfect-neighbor-2025",
+        "tmdb": 1400782,
+        "trakt": 1145888
+      },
+      "year": 2025,
+      "title": "The Perfect Neighbor"
+    },
+    "rank": 15,
+    "id": 1463058548,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt38466379",
+        "plex": {
+          "guid": "68dcc6844a8b0a19d6c08b59",
+          "slug": "my-father-the-btk-killer"
+        },
+        "slug": "my-father-the-btk-killer-2025",
+        "tmdb": 1550785,
+        "trakt": 1273136
+      },
+      "year": 2025,
+      "title": "My Father, the BTK Killer"
+    },
+    "rank": 16,
+    "id": 1463058549,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt27765947",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "re-creation-2025",
+        "tmdb": 1246215,
+        "trakt": 1009340
+      },
+      "year": 2025,
+      "title": "Re-Creation"
+    },
+    "rank": 17,
+    "id": 1463058550,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt35994106",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "wasp-woman-murder-of-a-b-movie-queen-2025",
+        "tmdb": 1566013,
+        "trakt": 1365065
+      },
+      "year": 2025,
+      "title": "Wasp Woman: Murder of a B-movie Queen"
+    },
+    "rank": 18,
+    "id": 1464720874,
+    "listed_at": "2026-05-07T00:00:26.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt37357795",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "bullets-and-blueberries-2025",
+        "tmdb": 1551649,
+        "trakt": 1273891
+      },
+      "year": 2025,
+      "title": "Bullets And Blueberries"
+    },
+    "rank": 19,
+    "id": 1463058551,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt38264376",
+        "plex": {
+          "guid": "68c832b17f22f5fad8f0e349",
+          "slug": "video-killed-the-radio-star-2025"
+        },
+        "slug": "video-killed-the-radio-star-2025",
+        "tmdb": 1552766,
+        "trakt": 1274875
+      },
+      "year": 2025,
+      "title": "Video Killed the Radio Star"
+    },
+    "rank": 20,
+    "id": 1463058552,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt37730087",
+        "plex": {
+          "guid": "689004f9d127e2b6dd51002a",
+          "slug": "blood-and-myth-2025"
+        },
+        "slug": "blood-myth-2025",
+        "tmdb": 1522103,
+        "trakt": 1248102
+      },
+      "year": 2025,
+      "title": "Blood & Myth"
+    },
+    "rank": 21,
+    "id": 1463058553,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt37674426",
+        "plex": {
+          "guid": "68879404b0f01657de640a3e",
+          "slug": "unknown-number-the-high-school-catfish-2025"
+        },
+        "slug": "unknown-number-the-high-school-catfish-2025",
+        "tmdb": 1517772,
+        "trakt": 1245332
+      },
+      "year": 2025,
+      "title": "Unknown Number: The High School Catfish"
+    },
+    "rank": 22,
+    "id": 1463058554,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt20415150",
+        "plex": {
+          "guid": "629734e26ccaf41a5c2444bd",
+          "slug": "mr-football"
+        },
+        "slug": "mr-football-2025",
+        "tmdb": 1269742,
+        "trakt": 1030956
+      },
+      "year": 2025,
+      "title": "Mr. Football"
+    },
+    "rank": 23,
+    "id": 1463058555,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt37796856",
+        "plex": {
+          "guid": "6897a930efb9bc7f6f2cc4bf",
+          "slug": "lucy-letby-beyond-reasonable-doubt"
+        },
+        "slug": "lucy-letby-beyond-reasonable-doubt-2025",
+        "tmdb": 1525150,
+        "trakt": 1250889
+      },
+      "year": 2025,
+      "title": "Lucy Letby: Beyond Reasonable Doubt?"
+    },
+    "rank": 25,
+    "id": 1463058557,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt36581589",
+        "plex": {
+          "guid": "6879625628e9709ce23e0714",
+          "slug": "the-crossbow-cannibal-2025"
+        },
+        "slug": "the-crossbow-cannibal-2025",
+        "tmdb": 1513182,
+        "trakt": 1241403
+      },
+      "year": 2025,
+      "title": "The Crossbow Cannibal"
+    },
+    "rank": 26,
+    "id": 1463058558,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt37578568",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "stolen-lives-2025",
+        "tmdb": 1509550,
+        "trakt": 1238289
+      },
+      "year": 2025,
+      "title": "Stolen Lives"
+    },
+    "rank": 27,
+    "id": 1463058559,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt36884302",
+        "plex": {
+          "guid": "686848b16f1a05952015f2b3",
+          "slug": "the-idaho-student-murders-2025"
+        },
+        "slug": "the-idaho-student-murders-2025",
+        "tmdb": 1507986,
+        "trakt": 1236622
+      },
+      "year": 2025,
+      "title": "The Idaho Student Murders"
+    },
+    "rank": 28,
+    "id": 1463058560,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt37274874",
+        "plex": {
+          "guid": "684cc89d8e9619dacf1ce99c",
+          "slug": "the-real-fatal-attraction-2025"
+        },
+        "slug": "the-real-fatal-attraction-2025",
+        "tmdb": 1495279,
+        "trakt": 1226248
+      },
+      "year": 2025,
+      "title": "The Real Fatal Attraction"
+    },
+    "rank": 29,
+    "id": 1463058561,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt35671385",
+        "plex": {
+          "guid": "67b551ec9df310a587591d24",
+          "slug": "lockerbie-our-story"
+        },
+        "slug": "lockerbie-our-story-2025",
+        "tmdb": 1491867,
+        "trakt": 1222874
+      },
+      "year": 2025,
+      "title": "Lockerbie: Our Story"
+    },
+    "rank": 30,
+    "id": 1463058562,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt36592065",
+        "plex": {
+          "guid": "68039174fa04641a93320548",
+          "slug": "a-deadly-american-marriage-2025"
+        },
+        "slug": "a-deadly-american-marriage-2025",
+        "tmdb": 1466938,
+        "trakt": 1201969
+      },
+      "year": 2025,
+      "title": "A Deadly American Marriage"
+    },
+    "rank": 31,
+    "id": 1463058563,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt36349773",
+        "plex": {
+          "guid": "67fa5806fd29047730f5378a",
+          "slug": "backlash-the-murder-of-george-floyd"
+        },
+        "slug": "backlash-the-murder-of-george-floyd-2025",
+        "tmdb": 1463024,
+        "trakt": 1198569
+      },
+      "year": 2025,
+      "title": "Backlash: The Murder of George Floyd"
+    },
+    "rank": 32,
+    "id": 1463058564,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt36581460",
+        "plex": {
+          "guid": "6808d6de62dd7dab9b108ebb",
+          "slug": "the-murder-of-joanna-yeates"
+        },
+        "slug": "the-murder-of-joanna-yeates-2025",
+        "tmdb": 1468994,
+        "trakt": 1203135
+      },
+      "year": 2025,
+      "title": "The Murder of Joanna Yeates"
+    },
+    "rank": 33,
+    "id": 1463058565,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt36351149",
+        "plex": {
+          "guid": "67e6d83e0b698e198297567f",
+          "slug": "oklahoma-city-bombing-american-terror-2025"
+        },
+        "slug": "oklahoma-city-bombing-american-terror-2025",
+        "tmdb": 1455132,
+        "trakt": 1191614
+      },
+      "year": 2025,
+      "title": "Oklahoma City Bombing: American Terror"
+    },
+    "rank": 34,
+    "id": 1463058566,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt35628886",
+        "plex": {
+          "guid": "679da5da4c5b180b662f6b57",
+          "slug": "chaos-the-manson-murders"
+        },
+        "slug": "chaos-the-manson-murders-2025",
+        "tmdb": 1426486,
+        "trakt": 1166820
+      },
+      "year": 2025,
+      "title": "Chaos: The Manson Murders"
+    },
+    "rank": 35,
+    "id": 1463058567,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": "67c83d6ceface5f971a1d962",
+          "slug": "inheritance-murder-in-the-family-the-thomas-kwan-affair"
+        },
+        "slug": "inheritance-murder-in-the-family-the-thomas-kwan-affair-2025",
+        "tmdb": 1443067,
+        "trakt": 1181083
+      },
+      "year": 2025,
+      "title": "Inheritance: Murder In The Family - The Thomas Kwan Affair"
+    },
+    "rank": 36,
+    "id": 1463058568,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt35816740",
+        "plex": {
+          "guid": "67af910ddd23f5cb7947e0c6",
+          "slug": "who-is-luigi-mangione-2025"
+        },
+        "slug": "who-is-luigi-mangione-2025",
+        "tmdb": 1433947,
+        "trakt": 1172653
+      },
+      "year": 2025,
+      "title": "Who Is Luigi Mangione?"
+    },
+    "rank": 37,
+    "id": 1463058569,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34371001",
+        "plex": {
+          "guid": "672c9c4f948a8d93f81089aa",
+          "slug": "idris-elba-our-knife-crime-crisis"
+        },
+        "slug": "idris-elba-our-knife-crime-crisis-2025",
+        "tmdb": 1426140,
+        "trakt": 1165916
+      },
+      "year": 2025,
+      "title": "Idris Elba: Our Knife Crime Crisis"
+    },
+    "rank": 38,
+    "id": 1463058570,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34887637",
+        "plex": {
+          "guid": "676e1d44f4391984f2dd148d",
+          "slug": "diddy-monsters-fall"
+        },
+        "slug": "diddy-monster-s-fall-2025",
+        "tmdb": 1414275,
+        "trakt": 1156770
+      },
+      "year": 2025,
+      "title": "Diddy: Monster's Fall"
+    },
+    "rank": 39,
+    "id": 1463058571,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32367912",
+        "plex": {
+          "guid": "6646bd7b7b62e7a0ac1792ee",
+          "slug": "chiefsaholic-a-wolf-in-chiefs-clothing-2024"
+        },
+        "slug": "chiefsaholic-a-wolf-in-chiefs-clothing-2024",
+        "tmdb": 1393806,
+        "trakt": 1139622
+      },
+      "year": 2024,
+      "title": "Chiefsaholic: A Wolf in Chiefs Clothing"
+    },
+    "rank": 40,
+    "id": 1463058572,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34719774",
+        "plex": {
+          "guid": "6743e66f10a962c79a56b07d",
+          "slug": "the-texas-cheerleader-murder-plot-2024"
+        },
+        "slug": "the-texas-cheerleader-murder-plot-2024",
+        "tmdb": 1391349,
+        "trakt": 1137466
+      },
+      "year": 2024,
+      "title": "The Texas Cheerleader Murder Plot"
+    },
+    "rank": 41,
+    "id": 1463058573,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt27202828",
+        "plex": {
+          "guid": "641df826a689eccf34c23b1e",
+          "slug": "the-lady-of-the-lake-2024-1"
+        },
+        "slug": "the-lady-of-the-lake-2024-12-17",
+        "tmdb": 1403530,
+        "trakt": 1148239
+      },
+      "year": 2024,
+      "title": "The Lady of the Lake"
+    },
+    "rank": 42,
+    "id": 1463058574,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt35081559",
+        "plex": {
+          "guid": "677720b2a784d32704a407c0",
+          "slug": "the-great-horsemeat-scandal"
+        },
+        "slug": "the-great-horsemeat-scandal-2024",
+        "tmdb": 1433459,
+        "trakt": 1172644
+      },
+      "year": 2024,
+      "title": "The Great Horsemeat Scandal"
+    },
+    "rank": 43,
+    "id": 1463058575,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt18224682",
+        "plex": {
+          "guid": "6742bcd61c267e39ce6059ca",
+          "slug": "biggest-heist-ever"
+        },
+        "slug": "biggest-heist-ever-2024",
+        "tmdb": 1391409,
+        "trakt": 1137518
+      },
+      "year": 2024,
+      "title": "Biggest Heist Ever"
+    },
+    "rank": 44,
+    "id": 1463058576,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34883015",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "6-morts-dans-la-nuit-de-sang-froid-truman-capote-2024",
+        "tmdb": 1432784,
+        "trakt": 1172067
+      },
+      "year": 2024,
+      "title": "6 morts dans la nuit : « De sang-froid » – Truman Capote"
+    },
+    "rank": 45,
+    "id": 1463058577,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34571265",
+        "plex": {
+          "guid": "673b5ad5cf3e9fb0545b9bfb",
+          "slug": "killed-by-our-daughter-the-mccullough-murders-2024"
+        },
+        "slug": "killed-by-our-daughter-the-mccullough-murders-2024",
+        "tmdb": 1387202,
+        "trakt": 1133599
+      },
+      "year": 2024,
+      "title": "Killed by Our Daughter: The McCullough Murders"
+    },
+    "rank": 46,
+    "id": 1463058578,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34448749",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-station-strangler-2024",
+        "tmdb": 1412883,
+        "trakt": 1155830
+      },
+      "year": 2024,
+      "title": "The Station Strangler"
+    },
+    "rank": 47,
+    "id": 1463058579,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34361382",
+        "plex": {
+          "guid": "672c9c3f713b9951e9117a43",
+          "slug": "thank-you-dr-fauci-2024"
+        },
+        "slug": "thank-you-dr-fauci-2024",
+        "tmdb": 1379112,
+        "trakt": 1126806
+      },
+      "year": 2024,
+      "title": "Thank You Dr. Fauci"
+    },
+    "rank": 48,
+    "id": 1463058580,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33362833",
+        "plex": {
+          "guid": "66e44ddb4d32e498efa1f143",
+          "slug": "monkey-on-a-stick-2024"
+        },
+        "slug": "monkey-on-a-stick-2024",
+        "tmdb": 1228070,
+        "trakt": 992697
+      },
+      "year": 2024,
+      "title": "Monkey on a Stick"
+    },
+    "rank": 49,
+    "id": 1463058581,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33402423",
+        "plex": {
+          "guid": "66efb54bfb83bab9345b748b",
+          "slug": "family-secrets-the-disappearance-of-alissa-turney-2024"
+        },
+        "slug": "family-secrets-the-disappearance-of-alissa-turney-2024",
+        "tmdb": 1358427,
+        "trakt": 1108835
+      },
+      "year": 2024,
+      "title": "Family Secrets: The Disappearance of Alissa Turney"
+    },
+    "rank": 50,
+    "id": 1463058582,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33778598",
+        "plex": {
+          "guid": "670ecd1d793d5e2996b31820",
+          "slug": "the-philpott-fire-a-very-british-horror-story-2024"
+        },
+        "slug": "the-philpott-fire-a-very-british-horror-story-2024",
+        "tmdb": 1369259,
+        "trakt": 1118142
+      },
+      "year": 2024,
+      "title": "The Philpott Fire: A Very British Horror Story"
+    },
+    "rank": 51,
+    "id": 1463058583,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33481094",
+        "plex": {
+          "guid": "66f9df0e6c17445575bef65e",
+          "slug": "the-menendez-brothers-2024-1"
+        },
+        "slug": "the-menendez-brothers-2024",
+        "tmdb": 1360610,
+        "trakt": 1110519
+      },
+      "year": 2024,
+      "title": "The Menendez Brothers"
+    },
+    "rank": 52,
+    "id": 1463058584,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33038543",
+        "plex": {
+          "guid": "66a548563959810a00b7afdb",
+          "slug": "evil-among-us-the-grim-sleeper"
+        },
+        "slug": "evil-among-us-the-grim-sleeper-2024",
+        "tmdb": 1375953,
+        "trakt": 1124028
+      },
+      "year": 2024,
+      "title": "Evil Among Us: The Grim Sleeper"
+    },
+    "rank": 53,
+    "id": 1463058585,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33360799",
+        "plex": {
+          "guid": "66e44dd71646a7d6f545307f",
+          "slug": "children-of-the-cult"
+        },
+        "slug": "children-of-the-cult-2024",
+        "tmdb": 1363101,
+        "trakt": 1112886
+      },
+      "year": 2024,
+      "title": "Children of the Cult"
+    },
+    "rank": 54,
+    "id": 1463058586,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33454687",
+        "plex": {
+          "guid": "66edfd258693dbe3e30e7556",
+          "slug": "sam-and-colby-the-legends-of-the-paranormal"
+        },
+        "slug": "sam-and-colby-the-legends-of-the-paranormal-2024",
+        "tmdb": 1358407,
+        "trakt": 1108823
+      },
+      "year": 2024,
+      "title": "Sam and Colby: The Legends of the Paranormal"
+    },
+    "rank": 55,
+    "id": 1463058587,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33355991",
+        "plex": {
+          "guid": "66e44dd5f4fb3a1214342bac",
+          "slug": "an-invisible-victim-the-eliza-samudio-case-2024"
+        },
+        "slug": "an-invisible-victim-the-eliza-samudio-case-2024",
+        "tmdb": 1354503,
+        "trakt": 1105370
+      },
+      "year": 2024,
+      "title": "An Invisible Victim: The Eliza Samudio Case"
+    },
+    "rank": 56,
+    "id": 1463058588,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33246326",
+        "plex": {
+          "guid": "66cc2a9ff14dbba1e26ef8bf",
+          "slug": "killjoy-2024-1"
+        },
+        "slug": "killjoy-2024-09-08",
+        "tmdb": 1339453,
+        "trakt": 1095646
+      },
+      "year": 2024,
+      "title": "KillJoy"
+    },
+    "rank": 57,
+    "id": 1463058589,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33295882",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "welcome-to-jay-2024",
+        "tmdb": 1449013,
+        "trakt": 1186272
+      },
+      "year": 2024,
+      "title": "Welcome to Jay"
+    },
+    "rank": 58,
+    "id": 1463058590,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33204314",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "wrongly-convicted-innocent-of-murder-2024",
+        "tmdb": 1352605,
+        "trakt": 1103657
+      },
+      "year": 2024,
+      "title": "Wrongly Convicted: Innocent of Murder"
+    },
+    "rank": 59,
+    "id": 1463058591,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33038082",
+        "plex": {
+          "guid": "66a54854461ae24e458499d7",
+          "slug": "untold-the-murder-of-air-mcnair"
+        },
+        "slug": "untold-the-murder-of-air-mcnair-2024",
+        "tmdb": 1324987,
+        "trakt": 1083691
+      },
+      "year": 2024,
+      "title": "Untold: The Murder of Air McNair"
+    },
+    "rank": 60,
+    "id": 1463058592,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt8584728",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "rhino-man-2024",
+        "tmdb": 1292109,
+        "trakt": 1051584
+      },
+      "year": 2024,
+      "title": "Rhino Man"
+    },
+    "rank": 61,
+    "id": 1463058593,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32317348",
+        "plex": {
+          "guid": "663f0d8c7b197bcda6ee114c",
+          "slug": "the-london-underground-killer"
+        },
+        "slug": "the-london-underground-killer-2024",
+        "tmdb": 1300165,
+        "trakt": 1059941
+      },
+      "year": 2024,
+      "title": "The London Underground Killer"
+    },
+    "rank": 62,
+    "id": 1463058594,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32308418",
+        "plex": {
+          "guid": "663f0d7e08eee4e5469ef2bc",
+          "slug": "how-to-rob-a-bank-2024"
+        },
+        "slug": "how-to-rob-a-bank-2024",
+        "tmdb": 1291143,
+        "trakt": 1050660
+      },
+      "year": 2024,
+      "title": "How to Rob a Bank"
+    },
+    "rank": 63,
+    "id": 1463058595,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32398426",
+        "plex": {
+          "guid": "664be9deadea30b9f8b1ce1d",
+          "slug": "most-famous-murder-the-o-j-simpson-trial-2024"
+        },
+        "slug": "most-famous-murder-the-o-j-simpson-trial-2024",
+        "tmdb": 1298812,
+        "trakt": 1058703
+      },
+      "year": 2024,
+      "title": "Most Famous Murder: The O.J. Simpson Trial"
+    },
+    "rank": 64,
+    "id": 1463058596,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30327702",
+        "plex": {
+          "guid": "657525690133edb5625bfd33",
+          "slug": "ransom-79"
+        },
+        "slug": "ransom-79-2024",
+        "tmdb": 1276156,
+        "trakt": 1036783
+      },
+      "year": 2024,
+      "title": "Ransom '79"
+    },
+    "rank": 65,
+    "id": 1463058597,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32887193",
+        "plex": {
+          "guid": "664b9ad0b3c5398ac2d18b88",
+          "slug": "burning-sun-exposing-the-secret-k-pop-chat-groups"
+        },
+        "slug": "burning-sun-exposing-the-secret-k-pop-chat-groups-2024",
+        "tmdb": 1292531,
+        "trakt": 1051948
+      },
+      "year": 2024,
+      "title": "Burning Sun: Exposing the Secret K-pop Chat Groups"
+    },
+    "rank": 66,
+    "id": 1463058598,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13440320",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "spy-capital-2024",
+        "tmdb": 1336979,
+        "trakt": 1093503
+      },
+      "year": 2024,
+      "title": "Spy Capital"
+    },
+    "rank": 67,
+    "id": 1463058599,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32055642",
+        "plex": {
+          "guid": "661849772a36c4f5030168e6",
+          "slug": "antares-de-la-luz-la-secta-del-fin-del-mundo"
+        },
+        "slug": "the-doomsday-cult-of-antares-de-la-luz-2024",
+        "tmdb": 1279863,
+        "trakt": 1040132
+      },
+      "year": 2024,
+      "title": "The Doomsday Cult of Antares de la Luz"
+    },
+    "rank": 68,
+    "id": 1463058600,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32149545",
+        "plex": {
+          "guid": "66248d469debcc9d0f985f66",
+          "slug": "sins-of-the-parents-the-crumbley-trials"
+        },
+        "slug": "sins-of-the-parents-the-crumbley-trials-2024",
+        "tmdb": 1302487,
+        "trakt": 1062173
+      },
+      "year": 2024,
+      "title": "Sins of the Parents: The Crumbley Trials"
+    },
+    "rank": 69,
+    "id": 1463058601,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31868785",
+        "plex": {
+          "guid": "66014b3e52608cd3c33be350",
+          "slug": "an-american-bombing-the-road-to-april-19th-2024"
+        },
+        "slug": "an-american-bombing-the-road-to-april-19th-2024",
+        "tmdb": 1263371,
+        "trakt": 1025210
+      },
+      "year": 2024,
+      "title": "An American Bombing: The Road to April 19th"
+    },
+    "rank": 70,
+    "id": 1463058602,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31747163",
+        "plex": {
+          "guid": "65f3f3e2e1e337bd8d9da697",
+          "slug": "what-jennifer-did"
+        },
+        "slug": "what-jennifer-did-2024",
+        "tmdb": 1261924,
+        "trakt": 1023910
+      },
+      "year": 2024,
+      "title": "What Jennifer Did"
+    },
+    "rank": 71,
+    "id": 1463058603,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt16732726",
+        "plex": {
+          "guid": "61d02f8a47a637ac59f91819",
+          "slug": "the-lie-the-murder-of-grace-millane"
+        },
+        "slug": "the-lie-the-murder-of-grace-millane-2024",
+        "tmdb": 1239127,
+        "trakt": 1002320
+      },
+      "year": 2024,
+      "title": "The Lie: The Murder of Grace Millane"
+    },
+    "rank": 72,
+    "id": 1463058604,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31194933",
+        "plex": {
+          "guid": "65ca745a67cc662e47a7d6cd",
+          "slug": "der-parkhausmord-wer-totete-charlotte-bohringer"
+        },
+        "slug": "der-parkhausmord-wer-totete-charlotte-bohringer-2024",
+        "tmdb": 1232758,
+        "trakt": 997026
+      },
+      "year": 2024,
+      "title": "Der Parkhausmord - Wer tötete Charlotte Böhringer?"
+    },
+    "rank": 73,
+    "id": 1463058605,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt27495036",
+        "plex": {
+          "guid": "643cb3051eb589079df0d4a1",
+          "slug": "fred-and-rose-west-love-and-murder"
+        },
+        "slug": "fred-rose-west-love-murder-2024",
+        "tmdb": 1157053,
+        "trakt": 995187
+      },
+      "year": 2024,
+      "title": "Fred & Rose West: Love & Murder"
+    },
+    "rank": 74,
+    "id": 1463058606,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt28718007",
+        "plex": {
+          "guid": "64e8b41093b5d7c2a050ca30",
+          "slug": "original-sin-my-son-the-killer-2024"
+        },
+        "slug": "original-sin-my-son-the-killer-2024",
+        "tmdb": 1268112,
+        "trakt": 1029450
+      },
+      "year": 2024,
+      "title": "Original Sin: My Son the Killer"
+    },
+    "rank": 75,
+    "id": 1463058607,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31702109",
+        "plex": {
+          "guid": "65f495322a047b428a9165b9",
+          "slug": "accused-the-hampstead-paedophile-hoax-2024-1"
+        },
+        "slug": "accused-the-hampstead-paedophile-hoax-2024",
+        "tmdb": 1255689,
+        "trakt": 1017788
+      },
+      "year": 2024,
+      "title": "Accused: The Hampstead Paedophile Hoax"
+    },
+    "rank": 76,
+    "id": 1463058608,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31592510",
+        "plex": {
+          "guid": "65ec44a55a3eecba588c87d4",
+          "slug": "sarah-everard-the-search-for-justice-2024"
+        },
+        "slug": "sarah-everard-the-search-for-justice-2024",
+        "tmdb": 1248616,
+        "trakt": 1011316
+      },
+      "year": 2024,
+      "title": "Sarah Everard: The Search for Justice"
+    },
+    "rank": 77,
+    "id": 1463058609,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt38057593",
+        "plex": {
+          "guid": "68c6044bed8185a50a68503f",
+          "slug": "the-rise-and-fall-of-pablo-escobar-2024"
+        },
+        "slug": "the-rise-and-fall-of-pablo-escobar-2024",
+        "tmdb": 1615644,
+        "trakt": 1341448
+      },
+      "year": 2024,
+      "title": "The Rise and Fall of Pablo Escobar"
+    },
+    "rank": 78,
+    "id": 1463058610,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31416709",
+        "plex": {
+          "guid": "65d889143572c276f422ef08",
+          "slug": "pathological-the-lies-of-joran-van-der-sloot"
+        },
+        "slug": "pathological-the-lies-of-joran-van-der-sloot-2024",
+        "tmdb": 1248739,
+        "trakt": 1011656
+      },
+      "year": 2024,
+      "title": "Pathological: The Lies of Joran van der Sloot"
+    },
+    "rank": 79,
+    "id": 1463058611,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31259787",
+        "plex": {
+          "guid": "65d1a88f2293eb4475a4a504",
+          "slug": "love-you-to-death-mommys-missing"
+        },
+        "slug": "love-you-to-death-mommy-s-missing-2024",
+        "tmdb": 1255409,
+        "trakt": 1017778
+      },
+      "year": 2024,
+      "title": "Love You to Death: Mommy's Missing"
+    },
+    "rank": 80,
+    "id": 1463058612,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31392084",
+        "plex": {
+          "guid": "65d66e8b073469f5cb82a713",
+          "slug": "murder-in-a-teacup"
+        },
+        "slug": "murder-in-a-teacup-2024",
+        "tmdb": 1251213,
+        "trakt": 1013935
+      },
+      "year": 2024,
+      "title": "Murder in a Teacup"
+    },
+    "rank": 81,
+    "id": 1463058613,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31260979",
+        "plex": {
+          "guid": "65cd02eaf24d9270b5b759b0",
+          "slug": "murder-at-first-swipe"
+        },
+        "slug": "murder-at-first-swipe-2024",
+        "tmdb": 1246092,
+        "trakt": 1009225
+      },
+      "year": 2024,
+      "title": "Murder at First Swipe"
+    },
+    "rank": 82,
+    "id": 1463058614,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31029309",
+        "plex": {
+          "guid": "65b31a0075691deb3ddf8341",
+          "slug": "pignorant"
+        },
+        "slug": "pignorant-2024",
+        "tmdb": 1244121,
+        "trakt": 1007361
+      },
+      "year": 2024,
+      "title": "Pignorant"
+    },
+    "rank": 83,
+    "id": 1463058615,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30852970",
+        "plex": {
+          "guid": "65a476c9a9b4edcfdd031241",
+          "slug": "lover-stalker-killer-2024"
+        },
+        "slug": "lover-stalker-killer-2024",
+        "tmdb": 1229958,
+        "trakt": 994492
+      },
+      "year": 2024,
+      "title": "Lover, Stalker, Killer"
+    },
+    "rank": 84,
+    "id": 1463058616,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31049718",
+        "plex": {
+          "guid": "6424eec936df3cd4be333dab",
+          "slug": "they-called-him-mostly-harmless"
+        },
+        "slug": "they-called-him-mostly-harmless-2024",
+        "tmdb": 1105868,
+        "trakt": 889608
+      },
+      "year": 2024,
+      "title": "They Called Him Mostly Harmless"
+    },
+    "rank": 85,
+    "id": 1463058617,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31308620",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "operation-silence-the-flukiger-affaire-2024",
+        "tmdb": 1216592,
+        "trakt": 981586
+      },
+      "year": 2024,
+      "title": "Operation Silence – The Flükiger Affaire"
+    },
+    "rank": 86,
+    "id": 1463058618,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30818511",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "cosmetic-criminals-2024",
+        "tmdb": 1231326,
+        "trakt": 995731
+      },
+      "year": 2024,
+      "title": "Cosmetic Criminals"
+    },
+    "rank": 87,
+    "id": 1463058619,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30317302",
+        "plex": {
+          "guid": "6572dc6dc839090837f9bebd",
+          "slug": "bitconned-2024-1"
+        },
+        "slug": "bitconned-2024",
+        "tmdb": 1213997,
+        "trakt": 979103
+      },
+      "year": 2024,
+      "title": "Bitconned"
+    },
+    "rank": 88,
+    "id": 1463058620,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30225680",
+        "plex": {
+          "guid": "656adcd2cccc278e72dc461e",
+          "slug": "hell-camp-teen-nightmare"
+        },
+        "slug": "hell-camp-teen-nightmare-2023",
+        "tmdb": 1215278,
+        "trakt": 980235
+      },
+      "year": 2023,
+      "title": "Hell Camp: Teen Nightmare"
+    },
+    "rank": 89,
+    "id": 1463058621,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30177031",
+        "plex": {
+          "guid": "6564101cd2f830af90d59ede",
+          "slug": "curry-and-cyanide-the-jolly-joseph-case"
+        },
+        "slug": "curry-cyanide-the-jolly-joseph-case-2023",
+        "tmdb": 1217392,
+        "trakt": 982046
+      },
+      "year": 2023,
+      "title": "Curry & Cyanide: The Jolly Joseph Case"
+    },
+    "rank": 90,
+    "id": 1463058622,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30425955",
+        "plex": {
+          "guid": "657b27fe1c3c4262343f2895",
+          "slug": "dr-death-cutthroat-conman"
+        },
+        "slug": "dr-death-cutthroat-conman-2023",
+        "tmdb": 1217348,
+        "trakt": 982245
+      },
+      "year": 2023,
+      "title": "Dr. Death: Cutthroat Conman"
+    },
+    "rank": 91,
+    "id": 1463058623,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30495033",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "530-days-the-unsolved-case-of-jessica-easterly-2023",
+        "tmdb": 1217110,
+        "trakt": 982030
+      },
+      "year": 2023,
+      "title": "530 Days: The Unsolved Case of Jessica Easterly"
+    },
+    "rank": 92,
+    "id": 1463058624,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29612874",
+        "plex": {
+          "guid": "653a8745f60130982479682a",
+          "slug": "23-der-mysteriose-tod-eines-hackers-2023"
+        },
+        "slug": "23-der-mysteriose-tod-eines-hackers-2023",
+        "tmdb": 1195608,
+        "trakt": 964762
+      },
+      "year": 2023,
+      "title": "23 - Der mysteriöse Tod eines Hackers"
+    },
+    "rank": 93,
+    "id": 1463058625,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30022239",
+        "plex": {
+          "guid": "655755fea0afffdf2570ba4d",
+          "slug": "the-fall-of-minneapolis"
+        },
+        "slug": "the-fall-of-minneapolis-2023",
+        "tmdb": 1206307,
+        "trakt": 970596
+      },
+      "year": 2023,
+      "title": "The Fall of Minneapolis"
+    },
+    "rank": 94,
+    "id": 1463058626,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29472617",
+        "plex": {
+          "guid": "6529816ac7cc7d4b287745c7",
+          "slug": "cyberbunker-the-criminal-underworld"
+        },
+        "slug": "cyberbunker-the-criminal-underworld-2023",
+        "tmdb": 1191658,
+        "trakt": 961219
+      },
+      "year": 2023,
+      "title": "Cyberbunker: The Criminal Underworld"
+    },
+    "rank": 95,
+    "id": 1463058627,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt22008008",
+        "plex": {
+          "guid": "631cd3029b217e6093b6570d",
+          "slug": "murder-of-the-essex-boys-blood-and-betrayal"
+        },
+        "slug": "murder-of-the-essex-boys-blood-and-betrayal-2023",
+        "tmdb": 1189622,
+        "trakt": 960065
+      },
+      "year": 2023,
+      "title": "Murder of the Essex Boys: Blood and Betrayal"
+    },
+    "rank": 96,
+    "id": 1463058628,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt27543992",
+        "plex": {
+          "guid": "64446984a0b8f9a47326b854",
+          "slug": "the-gullspang-miracle-2"
+        },
+        "slug": "the-gullspang-miracle-2023",
+        "tmdb": 1115105,
+        "trakt": 897178
+      },
+      "year": 2023,
+      "title": "The Gullspång Miracle"
+    },
+    "rank": 97,
+    "id": 1463058629,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt28810493",
+        "plex": {
+          "guid": "64f393a6fb379270f7ecf0db",
+          "slug": "the-devil-on-trial-2023"
+        },
+        "slug": "the-devil-on-trial-2023",
+        "tmdb": 1171989,
+        "trakt": 944790
+      },
+      "year": 2023,
+      "title": "The Devil on Trial"
+    },
+    "rank": 98,
+    "id": 1463058630,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29580199",
+        "plex": {
+          "guid": "65370b3d76fddfb0686e189c",
+          "slug": "unsolved-mysteries-behind-the-legacy"
+        },
+        "slug": "unsolved-mysteries-behind-the-legacy-2023",
+        "tmdb": 1188242,
+        "trakt": 982358
+      },
+      "year": 2023,
+      "title": "Unsolved Mysteries: Behind the Legacy"
+    },
+    "rank": 99,
+    "id": 1463058631,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29202771",
+        "plex": {
+          "guid": "650b49ffd0dbec98d2569769",
+          "slug": "the-rev-2023"
+        },
+        "slug": "the-rev-2023",
+        "tmdb": 1136332,
+        "trakt": 914772
+      },
+      "year": 2023,
+      "title": "The Rev"
+    },
+    "rank": 100,
+    "id": 1463058632,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29603715",
+        "plex": {
+          "guid": "65393e7b45630e3d4328ff8e",
+          "slug": "the-invisible-ones-2023"
+        },
+        "slug": "die-unsichtbaren-2023",
+        "tmdb": 1179030,
+        "trakt": 950709
+      },
+      "year": 2023,
+      "title": "Die Unsichtbaren"
+    },
+    "rank": 101,
+    "id": 1463058633,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt28840429",
+        "plex": {
+          "guid": "64f5c298df045ce23049d9e9",
+          "slug": "ice-cold-murder-coffee-and-jessica-wongso-2023-1"
+        },
+        "slug": "ice-cold-murder-coffee-and-jessica-wongso-2023",
+        "tmdb": 1172499,
+        "trakt": 945195
+      },
+      "year": 2023,
+      "title": "Ice Cold: Murder, Coffee and Jessica Wongso"
+    },
+    "rank": 102,
+    "id": 1463058634,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt28657881",
+        "plex": {
+          "guid": "64dd291aeed697d4f6cc84fb",
+          "slug": "the-darkness-within-la-luz-del-mundo"
+        },
+        "slug": "the-darkness-within-la-luz-del-mundo-2023",
+        "tmdb": 1168814,
+        "trakt": 941963
+      },
+      "year": 2023,
+      "title": "The Darkness within La Luz del Mundo"
+    },
+    "rank": 103,
+    "id": 1463058635,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29295010",
+        "plex": {
+          "guid": "650ca430d83ab5cf49f58f4a",
+          "slug": "face-to-face-with-eta-conversations-with-a-terrorist"
+        },
+        "slug": "face-to-face-with-eta-conversations-with-a-terrorist-2023",
+        "tmdb": 1181136,
+        "trakt": 952411
+      },
+      "year": 2023,
+      "title": "Face to Face with ETA: Conversations with a Terrorist"
+    },
+    "rank": 104,
+    "id": 1463058636,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt22080556",
+        "plex": {
+          "guid": "6328b12be0054d7a58163bf4",
+          "slug": "missing-411-the-u-f-o-connection"
+        },
+        "slug": "missing-411-the-u-f-o-connection-2023",
+        "tmdb": 1060000,
+        "trakt": 854554
+      },
+      "year": 2023,
+      "title": "Missing 411: The U.F.O. Connection"
+    },
+    "rank": 105,
+    "id": 1463058637,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt28687398",
+        "plex": {
+          "guid": "64e241da52522fe562df19d7",
+          "slug": "rosa-perals-tapes"
+        },
+        "slug": "rosa-peral-s-tapes-2023",
+        "tmdb": 1167520,
+        "trakt": 940887
+      },
+      "year": 2023,
+      "title": "Rosa Peral's Tapes"
+    },
+    "rank": 106,
+    "id": 1463058638,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt28710171",
+        "plex": {
+          "guid": "64e60835d8fcfdf10dec2d3e",
+          "slug": "tmz-investigates-gilgo-beach-serial-murders-missed-warning-signs"
+        },
+        "slug": "tmz-investigates-gilgo-beach-serial-murders-missed-warning-signs-2023",
+        "tmdb": 1169152,
+        "trakt": 941985
+      },
+      "year": 2023,
+      "title": "TMZ Investigates: Gilgo Beach Serial Murders: Missed Warning Signs"
+    },
+    "rank": 107,
+    "id": 1463058639,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt28552695",
+        "plex": {
+          "guid": "64ca38ed87fb1b4237e12f67",
+          "slug": "a-life-too-short-the-isabella-nardoni-case"
+        },
+        "slug": "a-life-too-short-the-isabella-nardoni-case-2023",
+        "tmdb": 1158959,
+        "trakt": 933850
+      },
+      "year": 2023,
+      "title": "A Life Too Short: The Isabella Nardoni Case"
+    },
+    "rank": 108,
+    "id": 1463058640,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt28634039",
+        "plex": {
+          "guid": "64d811b11615d9e94eb83869",
+          "slug": "id-special-report-the-long-island-serial-killer"
+        },
+        "slug": "id-special-report-the-long-island-serial-killer-2023",
+        "tmdb": 1201586,
+        "trakt": 969678
+      },
+      "year": 2023,
+      "title": "ID Special Report: The Long Island Serial Killer"
+    },
+    "rank": 109,
+    "id": 1463058641,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt28545909",
+        "plex": {
+          "guid": "64ce352d9f07f769d38d94aa",
+          "slug": "beyond-the-headlines-the-elizabeth-thomas-story-with-elizabeth-smart"
+        },
+        "slug": "beyond-the-headlines-the-elizabeth-thomas-story-with-elizabeth-smart-2023",
+        "tmdb": 1160855,
+        "trakt": 937447
+      },
+      "year": 2023,
+      "title": "Beyond the Headlines: The Elizabeth Thomas Story with Elizabeth Smart"
+    },
+    "rank": 110,
+    "id": 1463058642,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt27640680",
+        "plex": {
+          "guid": "64517fa894aaf9e32160eaa5",
+          "slug": "the-lady-of-silence-the-mataviejitas-murders"
+        },
+        "slug": "the-lady-of-silence-the-mataviejitas-murders-2023",
+        "tmdb": 1142216,
+        "trakt": 919753
+      },
+      "year": 2023,
+      "title": "The Lady of Silence: The Mataviejitas Murders"
+    },
+    "rank": 111,
+    "id": 1463058643,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt19113292",
+        "plex": {
+          "guid": "6242c13267cd7410fc0a600f",
+          "slug": "missing-the-lucie-blackman-case"
+        },
+        "slug": "missing-the-lucie-blackman-case-2023",
+        "tmdb": 1082168,
+        "trakt": 869970
+      },
+      "year": 2023,
+      "title": "Missing: The Lucie Blackman Case"
+    },
+    "rank": 112,
+    "id": 1463058644,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30396480",
+        "plex": {
+          "guid": "65790e0f169ea8bb71400a78",
+          "slug": "manhunt-search-for-the-cop-killer"
+        },
+        "slug": "manhunt-search-for-the-cop-killer-2023",
+        "tmdb": 1282480,
+        "trakt": 1042699
+      },
+      "year": 2023,
+      "title": "Manhunt: Search for the Cop Killer"
+    },
+    "rank": 113,
+    "id": 1463058645,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt26923561",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "operacion-brooklyn-2023",
+        "tmdb": 1156381,
+        "trakt": 931657
+      },
+      "year": 2023,
+      "title": "Operación Brooklyn"
+    },
+    "rank": 114,
+    "id": 1463058646,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30007982",
+        "plex": {
+          "guid": "65581f2145d6d624186f2f70",
+          "slug": "fresh-meat-killing-dahmer"
+        },
+        "slug": "fresh-meat-killing-dahmer-2023",
+        "tmdb": 1225424,
+        "trakt": 989971
+      },
+      "year": 2023,
+      "title": "Fresh Meat: Killing Dahmer"
+    },
+    "rank": 115,
+    "id": 1463058647,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt35889155",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "leif-gw-fallet-tove-2023",
+        "tmdb": 1437023,
+        "trakt": 1175738
+      },
+      "year": 2023,
+      "title": "Leif GW: Fallet Tove"
+    },
+    "rank": 116,
+    "id": 1463058648,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt16375956",
+        "plex": {
+          "guid": "61b5e9167eca5f90ad609837",
+          "slug": "against-all-enemies-2023-1"
+        },
+        "slug": "against-all-enemies-2023",
+        "tmdb": 1124842,
+        "trakt": 905158
+      },
+      "year": 2023,
+      "title": "Against All Enemies"
+    },
+    "rank": 117,
+    "id": 1463058649,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt27990073",
+        "plex": {
+          "guid": "6484e8328c574183f21d5f54",
+          "slug": "uneven-ground-the-melissa-witt-story"
+        },
+        "slug": "uneven-ground-the-melissa-witt-story-2023",
+        "tmdb": 1258393,
+        "trakt": 1020605
+      },
+      "year": 2023,
+      "title": "Uneven Ground: The Melissa Witt Story"
+    },
+    "rank": 118,
+    "id": 1463058650,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt24079788",
+        "plex": {
+          "guid": "639367b3d3fa50725b6e49c2",
+          "slug": "victim-suspect-2023"
+        },
+        "slug": "victim-suspect-2023",
+        "tmdb": 1058671,
+        "trakt": 852027
+      },
+      "year": 2023,
+      "title": "Victim/Suspect"
+    },
+    "rank": 119,
+    "id": 1463058651,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt33000060",
+        "plex": {
+          "guid": "64750a696c674770b58b17b0",
+          "slug": "devil-in-the-ozarks"
+        },
+        "slug": "devil-in-the-ozarks-2023",
+        "tmdb": 1132687,
+        "trakt": 911685
+      },
+      "year": 2023,
+      "title": "Devil in the Ozarks"
+    },
+    "rank": 120,
+    "id": 1463058652,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt27605201",
+        "plex": {
+          "guid": "644de0d787bd2ee25af2ba35",
+          "slug": "evil-among-us-the-golden-state-killer"
+        },
+        "slug": "evil-among-us-the-golden-state-killer-2023",
+        "tmdb": 1127370,
+        "trakt": 907293
+      },
+      "year": 2023,
+      "title": "Evil Among Us: The Golden State Killer"
+    },
+    "rank": 121,
+    "id": 1463058653,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt27436755",
+        "plex": {
+          "guid": "6424eeccfb3d251752b9e21b",
+          "slug": "the-man-who-stole-einsteins-brain"
+        },
+        "slug": "the-man-who-stole-einstein-s-brain-2023",
+        "tmdb": 1105900,
+        "trakt": 889649
+      },
+      "year": 2023,
+      "title": "The Man Who Stole Einstein's Brain"
+    },
+    "rank": 122,
+    "id": 1463058654,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt23985396",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-dolly-madison-murders-2023",
+        "tmdb": 1169461,
+        "trakt": 942375
+      },
+      "year": 2023,
+      "title": "The Dolly Madison Murders"
+    },
+    "rank": 123,
+    "id": 1463058655,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt26757106",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "black-serial-killers-truth-or-fiction-2023",
+        "tmdb": 1199797,
+        "trakt": 968483
+      },
+      "year": 2023,
+      "title": "Black Serial Killers:Truth or Fiction"
+    },
+    "rank": 124,
+    "id": 1463058656,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt26685887",
+        "plex": {
+          "guid": "63e7f14a0b92845064ff4b73",
+          "slug": "inventing-truth-the-relotius-affair"
+        },
+        "slug": "inventing-truth-the-relotius-affair-2023",
+        "tmdb": 1029146,
+        "trakt": 827749
+      },
+      "year": 2023,
+      "title": "Inventing Truth - The Relotius Affair"
+    },
+    "rank": 125,
+    "id": 1463058657,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt26767939",
+        "plex": {
+          "guid": "63f8c3b7e42d9b753efc54c9",
+          "slug": "stella-murders"
+        },
+        "slug": "stella-murders-2023",
+        "tmdb": 1106683,
+        "trakt": 890289
+      },
+      "year": 2023,
+      "title": "Stella Murders"
+    },
+    "rank": 126,
+    "id": 1463058658,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt26765798",
+        "plex": {
+          "guid": "63f79c014cc26a0bbd79368d",
+          "slug": "who-killed-lin-and-megan"
+        },
+        "slug": "who-killed-lin-megan-2023",
+        "tmdb": 1301003,
+        "trakt": 1060719
+      },
+      "year": 2023,
+      "title": "Who Killed Lin & Megan?"
+    },
+    "rank": 127,
+    "id": 1463058659,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt26351209",
+        "plex": {
+          "guid": "63cc2e7e3f98eb39e6f7543c",
+          "slug": "confessions-of-a-psycho-killer"
+        },
+        "slug": "confessions-of-a-psycho-killer-2023",
+        "tmdb": 1083029,
+        "trakt": 870457
+      },
+      "year": 2023,
+      "title": "Confessions of a Psycho Killer"
+    },
+    "rank": 128,
+    "id": 1463058660,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29939618",
+        "plex": {
+          "guid": "6553a4419885db04fcbece19",
+          "slug": "malcolm-is-missing"
+        },
+        "slug": "malcom-is-missing-2023",
+        "tmdb": 1074730,
+        "trakt": 864227
+      },
+      "year": 2023,
+      "title": "Malcom is Missing"
+    },
+    "rank": 129,
+    "id": 1463058661,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt24509990",
+        "plex": {
+          "guid": "639b81ad921a8950cf754db2",
+          "slug": "the-hatchet-wielding-hitchhiker"
+        },
+        "slug": "the-hatchet-wielding-hitchhiker-2023",
+        "tmdb": 1061117,
+        "trakt": 853078
+      },
+      "year": 2023,
+      "title": "The Hatchet Wielding Hitchhiker"
+    },
+    "rank": 130,
+    "id": 1463058662,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30784591",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "murderous-minds-harold-shipman-2023",
+        "tmdb": 1324681,
+        "trakt": 1083411
+      },
+      "year": 2023,
+      "title": "Murderous Minds: Harold Shipman"
+    },
+    "rank": 131,
+    "id": 1463058663,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt23950956",
+        "plex": {
+          "guid": "63236659c0260e8d208262ec",
+          "slug": "this-place-rules-2022-1"
+        },
+        "slug": "this-place-rules-2022",
+        "tmdb": 1024433,
+        "trakt": 823901
+      },
+      "year": 2022,
+      "title": "This Place Rules"
+    },
+    "rank": 132,
+    "id": 1463058664,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt12239562",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "she-2022",
+        "tmdb": 1202113,
+        "trakt": 970123
+      },
+      "year": 2022,
+      "title": "She"
+    },
+    "rank": 133,
+    "id": 1463058665,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt23871516",
+        "plex": {
+          "guid": "638b915b392640893d1be7cf",
+          "slug": "suburban-nightmare-jonbenet-ramsey"
+        },
+        "slug": "suburban-nightmare-jonbenet-ramsey-2022",
+        "tmdb": 1057287,
+        "trakt": 850681
+      },
+      "year": 2022,
+      "title": "Suburban Nightmare: JonBenét Ramsey"
+    },
+    "rank": 134,
+    "id": 1463058666,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt22014762",
+        "plex": {
+          "guid": "631cd30b643a0666e76757f3",
+          "slug": "boy-scouts-honor"
+        },
+        "slug": "boy-scout-s-honor-2022",
+        "tmdb": 1030370,
+        "trakt": 828540
+      },
+      "year": 2022,
+      "title": "Boy Scout's Honor"
+    },
+    "rank": 135,
+    "id": 1463058667,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt19357208",
+        "plex": {
+          "guid": "624ff644cde4989da1b9167a",
+          "slug": "i-am-db-cooper-2022"
+        },
+        "slug": "i-am-db-cooper-2022",
+        "tmdb": 956458,
+        "trakt": 768802
+      },
+      "year": 2022,
+      "title": "I Am DB Cooper"
+    },
+    "rank": 136,
+    "id": 1463058668,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt23246772",
+        "plex": {
+          "guid": "63668ad63634dc8cb85bf002",
+          "slug": "the-masked-scammer"
+        },
+        "slug": "the-masked-scammer-2022",
+        "tmdb": 1046529,
+        "trakt": 841973
+      },
+      "year": 2022,
+      "title": "The Masked Scammer"
+    },
+    "rank": 137,
+    "id": 1463058669,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt26213312",
+        "plex": {
+          "guid": "63c2e9a34e81f3ae3f2bcf30",
+          "slug": "homicide-hunter-devil-in-the-mountains-2022-1"
+        },
+        "slug": "homicide-hunter-devil-in-the-mountains-2022",
+        "tmdb": 1060469,
+        "trakt": 872244
+      },
+      "year": 2022,
+      "title": "Homicide Hunter: Devil in the Mountains"
+    },
+    "rank": 138,
+    "id": 1463058670,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt25275776",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "akte-munsterlandmorder-2022",
+        "tmdb": 1052012,
+        "trakt": 846466
+      },
+      "year": 2022,
+      "title": "Akte Münsterlandmörder"
+    },
+    "rank": 139,
+    "id": 1463058671,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt27854145",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "to-catch-a-killer-geauga-s-child-2022",
+        "tmdb": 1182794,
+        "trakt": 953772
+      },
+      "year": 2022,
+      "title": "To Catch A Killer: Geauga's Child"
+    },
+    "rank": 140,
+    "id": 1463058672,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt22693730",
+        "plex": {
+          "guid": "63481273639e30a0a6cdfd8f",
+          "slug": "the-murder-of-meredith"
+        },
+        "slug": "the-murder-of-meredith-2022",
+        "tmdb": 1045133,
+        "trakt": 840788
+      },
+      "year": 2022,
+      "title": "The Murder Of Meredith"
+    },
+    "rank": 141,
+    "id": 1463058673,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt23147136",
+        "plex": {
+          "guid": "6362a488ebf1904e604130ac",
+          "slug": "evil-among-us-ted-bundy-2022"
+        },
+        "slug": "evil-among-us-ted-bundy-2022",
+        "tmdb": 1042030,
+        "trakt": 838271
+      },
+      "year": 2022,
+      "title": "Evil Among Us: Ted Bundy"
+    },
+    "rank": 142,
+    "id": 1463058674,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt23714240",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-murder-that-changed-britain-2022",
+        "tmdb": 1238509,
+        "trakt": 1001753
+      },
+      "year": 2022,
+      "title": "The Murder That Changed Britain"
+    },
+    "rank": 143,
+    "id": 1463058675,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt23320116",
+        "plex": {
+          "guid": "63668b04a80c555f134f860e",
+          "slug": "a-friend-of-the-family-true-evil"
+        },
+        "slug": "a-friend-of-the-family-true-evil-2022",
+        "tmdb": 1044864,
+        "trakt": 840629
+      },
+      "year": 2022,
+      "title": "A Friend of the Family: True Evil"
+    },
+    "rank": 144,
+    "id": 1463058676,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt22010586",
+        "plex": {
+          "guid": "631cd3055183515528385a1d",
+          "slug": "capturing-the-killer-nurse-2022"
+        },
+        "slug": "capturing-the-killer-nurse-2022",
+        "tmdb": 1018647,
+        "trakt": 819250
+      },
+      "year": 2022,
+      "title": "Capturing the Killer Nurse"
+    },
+    "rank": 145,
+    "id": 1463058677,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt22900124",
+        "plex": {
+          "guid": "6356cc800191446d7060f984",
+          "slug": "orgasm-inc-the-story-of-onetaste"
+        },
+        "slug": "orgasm-inc-the-story-of-onetaste-2022",
+        "tmdb": 1040603,
+        "trakt": 837062
+      },
+      "year": 2022,
+      "title": "Orgasm Inc: The Story of OneTaste"
+    },
+    "rank": 146,
+    "id": 1463058678,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt16444452",
+        "plex": {
+          "guid": "61bf2de3e63f7466e0cc7048",
+          "slug": "kings-of-coke"
+        },
+        "slug": "kings-of-coke-2022",
+        "tmdb": 1039951,
+        "trakt": 836529
+      },
+      "year": 2022,
+      "title": "Kings of Coke"
+    },
+    "rank": 147,
+    "id": 1463058679,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt22335688",
+        "plex": {
+          "guid": "6336ba545c8953a99240ba25",
+          "slug": "the-freeway-killer-lost-murder-tapes"
+        },
+        "slug": "the-freeway-killer-lost-murder-tapes-2022",
+        "tmdb": 1039599,
+        "trakt": 836178
+      },
+      "year": 2022,
+      "title": "The Freeway Killer: Lost Murder Tapes"
+    },
+    "rank": 148,
+    "id": 1463058680,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21995004",
+        "plex": {
+          "guid": "631a14bd17f92f5ac0e5a8ad",
+          "slug": "the-fire-that-took-her"
+        },
+        "slug": "the-fire-that-took-her-2022",
+        "tmdb": 1025896,
+        "trakt": 825037
+      },
+      "year": 2022,
+      "title": "The Fire That Took Her"
+    },
+    "rank": 149,
+    "id": 1463058681,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt22502868",
+        "plex": {
+          "guid": "63420c9e569aac9831cd3323",
+          "slug": "january-6th-2022"
+        },
+        "slug": "january-6th-2022",
+        "tmdb": 1049686,
+        "trakt": 844543
+      },
+      "year": 2022,
+      "title": "January 6th"
+    },
+    "rank": 150,
+    "id": 1463058682,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21662982",
+        "plex": {
+          "guid": "62fab52808fc98d63350ffdb",
+          "slug": null
+        },
+        "slug": "our-precious-hope-revisited-st-louis-little-jane-doe-2022",
+        "tmdb": 1309805,
+        "trakt": 1070265
+      },
+      "year": 2022,
+      "title": "Our Precious Hope Revisited: St. Louis' Little Jane Doe"
+    },
+    "rank": 151,
+    "id": 1463058683,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21836620",
+        "plex": {
+          "guid": "6305f175dfddb189f6c5120e",
+          "slug": "skandal-bringing-down-wirecard-2022"
+        },
+        "slug": "skandal-bringing-down-wirecard-2022",
+        "tmdb": 1014550,
+        "trakt": 824216
+      },
+      "year": 2022,
+      "title": "Skandal! Bringing Down Wirecard"
+    },
+    "rank": 152,
+    "id": 1463058684,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21746178",
+        "plex": {
+          "guid": "62fec455bbd241a8f1989655",
+          "slug": "the-anthrax-attacks"
+        },
+        "slug": "the-anthrax-attacks-in-the-shadow-of-9-11-2022",
+        "tmdb": 1013609,
+        "trakt": 814655
+      },
+      "year": 2022,
+      "title": "The Anthrax Attacks: In the Shadow of 9/11"
+    },
+    "rank": 153,
+    "id": 1463058685,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt26747370",
+        "plex": {
+          "guid": "63f1b5f3e5e4d59c97908ba8",
+          "slug": "the-bay-the-murder-of-lynette-white"
+        },
+        "slug": "the-bay-the-murder-of-lynette-white-2022",
+        "tmdb": 1020083,
+        "trakt": 820312
+      },
+      "year": 2022,
+      "title": "The Bay: The Murder of Lynette White"
+    },
+    "rank": 154,
+    "id": 1463058686,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21910536",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-most-canceled-man-in-america-2022-08-26",
+        "tmdb": 1339379,
+        "trakt": 1095574
+      },
+      "year": 2022,
+      "title": "The Most Canceled Man in America"
+    },
+    "rank": 155,
+    "id": 1463058687,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21976010",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "cold-case-collins-2022",
+        "tmdb": 1019168,
+        "trakt": 819423
+      },
+      "year": 2022,
+      "title": "Cold Case Collins"
+    },
+    "rank": 156,
+    "id": 1463058688,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21379574",
+        "plex": {
+          "guid": "62f691d527f8dbc660013e8f",
+          "slug": "running-with-the-devil-the-wild-world-of-john-mcafee-2022-1"
+        },
+        "slug": "running-with-the-devil-the-wild-world-of-john-mcafee-2022",
+        "tmdb": 1005342,
+        "trakt": 807956
+      },
+      "year": 2022,
+      "title": "Running with the Devil: The Wild World of John McAfee"
+    },
+    "rank": 157,
+    "id": 1463058689,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21281774",
+        "plex": {
+          "guid": "62d7d0bf4846dbd2751c7d11",
+          "slug": "bank-robbers-the-last-great-heist-2022"
+        },
+        "slug": "bank-robbers-the-last-great-heist-2022",
+        "tmdb": 1000194,
+        "trakt": 804036
+      },
+      "year": 2022,
+      "title": "Bank Robbers: The Last Great Heist"
+    },
+    "rank": 158,
+    "id": 1463058690,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt28559416",
+        "plex": {
+          "guid": "64cf62d8bcee9eefc5b650fc",
+          "slug": "the-murder-network"
+        },
+        "slug": "the-murder-network-a-serial-killer-in-nazi-paris-2022",
+        "tmdb": 1039451,
+        "trakt": 836346
+      },
+      "year": 2022,
+      "title": "The Murder Network: A Serial Killer in Nazi Paris"
+    },
+    "rank": 159,
+    "id": 1463058691,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21383238",
+        "plex": {
+          "guid": "62f691d868802988a7904a6e",
+          "slug": "the-real-story-of-january-6"
+        },
+        "slug": "the-real-story-of-january-6-2022",
+        "tmdb": 1024490,
+        "trakt": 823828
+      },
+      "year": 2022,
+      "title": "The Real Story of January 6"
+    },
+    "rank": 160,
+    "id": 1463058692,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21049266",
+        "plex": {
+          "guid": "62aeeeab2df199070230105a",
+          "slug": "my-daughters-killer"
+        },
+        "slug": "my-daughter-s-killer-2022",
+        "tmdb": 992536,
+        "trakt": 797753
+      },
+      "year": 2022,
+      "title": "My Daughter's Killer"
+    },
+    "rank": 161,
+    "id": 1463058693,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13689238",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "minnesota-tiger-man-2022",
+        "tmdb": 1032773,
+        "trakt": 830794
+      },
+      "year": 2022,
+      "title": "Minnesota Tiger Man"
+    },
+    "rank": 162,
+    "id": 1463058694,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21059520",
+        "plex": {
+          "guid": "62ab4cd48f2a4fd01198f044",
+          "slug": "girl-in-the-picture-2022"
+        },
+        "slug": "girl-in-the-picture-2022",
+        "tmdb": 988046,
+        "trakt": 794001
+      },
+      "year": 2022,
+      "title": "Girl in the Picture"
+    },
+    "rank": 163,
+    "id": 1463058695,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt7656142",
+        "plex": {
+          "guid": "5f40d3a65a76a80042f0b140",
+          "slug": "old-growth-murder"
+        },
+        "slug": "old-growth-murder-2022",
+        "tmdb": 1037933,
+        "trakt": 835060
+      },
+      "year": 2022,
+      "title": "Old Growth Murder"
+    },
+    "rank": 164,
+    "id": 1463058696,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21053202",
+        "plex": {
+          "guid": "62aeeeb0ceaa7a46685109ce",
+          "slug": "no-mercy-no-remorse"
+        },
+        "slug": "no-mercy-no-remorse-2022",
+        "tmdb": 991175,
+        "trakt": 796388
+      },
+      "year": 2022,
+      "title": "No Mercy, No Remorse"
+    },
+    "rank": 165,
+    "id": 1463058697,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt20202860",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "murdaugh-murders-deadly-dynasty-2022",
+        "tmdb": 1096535,
+        "trakt": 881859
+      },
+      "year": 2022,
+      "title": "Murdaugh Murders: Deadly Dynasty"
+    },
+    "rank": 166,
+    "id": 1463058698,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt20601028",
+        "plex": {
+          "guid": "62973551f9179878b333b373",
+          "slug": "sins-of-the-father-the-green-river-killer"
+        },
+        "slug": "sins-of-the-father-the-green-river-killer-2022",
+        "tmdb": 982460,
+        "trakt": 789406
+      },
+      "year": 2022,
+      "title": "Sins of the Father: The Green River Killer"
+    },
+    "rank": 167,
+    "id": 1463058699,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15690588",
+        "plex": {
+          "guid": "616e94ddb2b4ff5879d94265",
+          "slug": "the-abduction-of-lesley-whittle"
+        },
+        "slug": "the-abduction-of-lesley-whittle-2022",
+        "tmdb": 993340,
+        "trakt": 798505
+      },
+      "year": 2022,
+      "title": "The Abduction of Lesley Whittle"
+    },
+    "rank": 168,
+    "id": 1463058700,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt31473552",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "murder-at-city-hall-the-assassination-of-mayor-george-moscone-and-supervisor-harvey-milk-2022",
+        "tmdb": 1152169,
+        "trakt": 928184
+      },
+      "year": 2022,
+      "title": "Murder at City Hall: The Assassination of Mayor George Moscone and Supervisor Harvey Milk"
+    },
+    "rank": 169,
+    "id": 1463058701,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt19768508",
+        "plex": {
+          "guid": "62617115568eca99523b109e",
+          "slug": "cyber-hell-exposing-an-internet-horror"
+        },
+        "slug": "cyber-hell-exposing-an-internet-horror-2022",
+        "tmdb": 965143,
+        "trakt": 775885
+      },
+      "year": 2022,
+      "title": "Cyber Hell: Exposing an Internet Horror"
+    },
+    "rank": 170,
+    "id": 1463058702,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt19704638",
+        "plex": {
+          "guid": "62665aa113a47880dae8258c",
+          "slug": "our-father-2022-1"
+        },
+        "slug": "our-father-2022-05-11",
+        "tmdb": 962697,
+        "trakt": 773992
+      },
+      "year": 2022,
+      "title": "Our Father"
+    },
+    "rank": 171,
+    "id": 1463058703,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt20191060",
+        "plex": {
+          "guid": "627b707fb3f2e6645eb50ead",
+          "slug": "the-murder-of-rikki-neave"
+        },
+        "slug": "the-murder-of-rikki-neave-the-mother-s-story-2022",
+        "tmdb": 1092378,
+        "trakt": 878397
+      },
+      "year": 2022,
+      "title": "The Murder of Rikki Neave: The Mother's Story"
+    },
+    "rank": 172,
+    "id": 1463058704,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt19733442",
+        "plex": {
+          "guid": "62665ac18f2c3b0efd3ce882",
+          "slug": "the-thief-his-wife-and-the-canoe-the-real-story"
+        },
+        "slug": "the-thief-his-wife-and-the-canoe-the-real-story-2022",
+        "tmdb": 964634,
+        "trakt": 775344
+      },
+      "year": 2022,
+      "title": "The Thief, His Wife and the Canoe: The Real Story"
+    },
+    "rank": 173,
+    "id": 1463058705,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt19731714",
+        "plex": {
+          "guid": "625ad040f52ee183b3dc1ecd",
+          "slug": "the-photographer-murder-in-pinamar-2022"
+        },
+        "slug": "the-photographer-murder-in-pinamar-2022",
+        "tmdb": 962920,
+        "trakt": 774285
+      },
+      "year": 2022,
+      "title": "The Photographer: Murder in Pinamar"
+    },
+    "rank": 174,
+    "id": 1463058706,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt18225948",
+        "plex": {
+          "guid": "620edd847c4e1b2604e61c85",
+          "slug": "betsy-and-irv"
+        },
+        "slug": "betsy-irv-2022",
+        "tmdb": 965624,
+        "trakt": 776198
+      },
+      "year": 2022,
+      "title": "Betsy & Irv"
+    },
+    "rank": 175,
+    "id": 1463058707,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt20191126",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "getting-away-with-murder-the-kiling-of-mary-gough-2022",
+        "tmdb": 1414843,
+        "trakt": 1157493
+      },
+      "year": 2022,
+      "title": "Getting Away with Murder: The Kiling of Mary Gough"
+    },
+    "rank": 176,
+    "id": 1463058708,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt18381072",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "onde-mais-doe-2022",
+        "tmdb": 1295096,
+        "trakt": 1055361
+      },
+      "year": 2022,
+      "title": "Onde máis doe"
+    },
+    "rank": 177,
+    "id": 1463058709,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt20191306",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "murder-my-sweetheart-the-killing-of-dolores-mccrea-2022",
+        "tmdb": 1092433,
+        "trakt": 878231
+      },
+      "year": 2022,
+      "title": "Murder My Sweetheart: The Killing of Dolores McCrea"
+    },
+    "rank": 178,
+    "id": 1463058710,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt16892654",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "day-of-outrage-2022",
+        "tmdb": 1180187,
+        "trakt": 951661
+      },
+      "year": 2022,
+      "title": "Day of Outrage"
+    },
+    "rank": 179,
+    "id": 1463058711,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14296306",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-killing-of-pc-harper-a-widow-s-fight-for-justice-2022",
+        "tmdb": 1579800,
+        "trakt": 1311015
+      },
+      "year": 2022,
+      "title": "The Killing of PC Harper: A Widow's Fight for Justice"
+    },
+    "rank": 180,
+    "id": 1463058712,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt19838164",
+        "plex": {
+          "guid": "627b6f9d4398c9c8031db18c",
+          "slug": "bad-love-why-did-fri-kill-kyle"
+        },
+        "slug": "bad-love-why-did-fri-kill-kyle-2022",
+        "tmdb": 1116811,
+        "trakt": 898603
+      },
+      "year": 2022,
+      "title": "Bad Love: Why Did Fri Kill Kyle?"
+    },
+    "rank": 181,
+    "id": 1463058713,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt6275154",
+        "plex": {
+          "guid": "5f40cb3286422500429d6cd6",
+          "slug": "11m-terror-in-madrid"
+        },
+        "slug": "11m-terror-in-madrid-2022",
+        "tmdb": 940332,
+        "trakt": 754929
+      },
+      "year": 2022,
+      "title": "11M: Terror in Madrid"
+    },
+    "rank": 182,
+    "id": 1463058714,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt18082210",
+        "plex": {
+          "guid": "620e04c997619f65607a6cc8",
+          "slug": "who-killed-billie-jo"
+        },
+        "slug": "who-killed-billie-jo-2022",
+        "tmdb": 1056887,
+        "trakt": 850122
+      },
+      "year": 2022,
+      "title": "Who Killed Billie-Jo"
+    },
+    "rank": 183,
+    "id": 1463058715,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14992922",
+        "plex": {
+          "guid": "60e57400e9a099002c3560a7",
+          "slug": "the-tinder-swindler"
+        },
+        "slug": "the-tinder-swindler-2022",
+        "tmdb": 923632,
+        "trakt": 739823
+      },
+      "year": 2022,
+      "title": "The Tinder Swindler"
+    },
+    "rank": 184,
+    "id": 1463058716,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt17423738",
+        "plex": {
+          "guid": "61f4fc4eafd0daea5964df50",
+          "slug": "sold-sex-slaves-next-door"
+        },
+        "slug": "sold-sex-slaves-next-door-2022",
+        "tmdb": 931877,
+        "trakt": 747357
+      },
+      "year": 2022,
+      "title": "Sold: Sex Slaves Next Door"
+    },
+    "rank": 185,
+    "id": 1463058717,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt37344321",
+        "plex": {
+          "guid": "62ac8ec446897c93b1cfa5fa",
+          "slug": "dark-land-the-hunt-for-wales-worst-serial-killer"
+        },
+        "slug": "dark-land-the-hunt-for-wales-worst-serial-killer-2022",
+        "tmdb": 988477,
+        "trakt": 794372
+      },
+      "year": 2022,
+      "title": "Dark Land: The Hunt for Wales' Worst Serial Killer"
+    },
+    "rank": 186,
+    "id": 1463058718,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt16709542",
+        "plex": {
+          "guid": "61d02f7a041a4a8d12bb4941",
+          "slug": "suburban-nightmare-chris-watts"
+        },
+        "slug": "suburban-nightmare-chris-watts-2022",
+        "tmdb": 926790,
+        "trakt": 742518
+      },
+      "year": 2022,
+      "title": "Suburban Nightmare: Chris Watts"
+    },
+    "rank": 187,
+    "id": 1463058719,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt16879052",
+        "plex": {
+          "guid": "61d6d3d64d1cc43f9a50db26",
+          "slug": "der-sturm-aufs-kapitol-ein-amerikanisches-trauma"
+        },
+        "slug": "the-storming-of-the-capitol-an-american-trauma-2022",
+        "tmdb": 923501,
+        "trakt": 739802
+      },
+      "year": 2022,
+      "title": "The Storming of the Capitol - An American Trauma"
+    },
+    "rank": 188,
+    "id": 1463058720,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt6467176",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "corvo-2021",
+        "tmdb": 918292,
+        "trakt": 735276
+      },
+      "year": 2021,
+      "title": "Corvo"
+    },
+    "rank": 189,
+    "id": 1463058721,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt16416360",
+        "plex": {
+          "guid": "61bd9c1975ba374ffaba42a3",
+          "slug": "the-murder-of-gabby-petito-truth-lies-and-social-media"
+        },
+        "slug": "the-murder-of-gabby-petito-truth-lies-and-social-media-2021",
+        "tmdb": 917516,
+        "trakt": 734773
+      },
+      "year": 2021,
+      "title": "The Murder of Gabby Petito: Truth, Lies and Social Media"
+    },
+    "rank": 190,
+    "id": 1463058722,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15185642",
+        "plex": {
+          "guid": "6118d1d2a45515002c74694d",
+          "slug": "dead-asleep-2021"
+        },
+        "slug": "dead-asleep-2021",
+        "tmdb": 899997,
+        "trakt": 722115
+      },
+      "year": 2021,
+      "title": "Dead Asleep"
+    },
+    "rank": 191,
+    "id": 1463058723,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt19352112",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "il-mostro-di-firenze-quel-silenzio-che-non-tace-bugie-e-verita-2021",
+        "tmdb": 962826,
+        "trakt": 773931
+      },
+      "year": 2021,
+      "title": "Il mostro di Firenze - Quel silenzio che non tace: bugie e verità"
+    },
+    "rank": 192,
+    "id": 1463058724,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14513168",
+        "plex": {
+          "guid": "608529e4ac0818002c5c5b42",
+          "slug": "lynchpin-of-bensonhurst-the-dominick-montiglio-story"
+        },
+        "slug": "lynchpin-of-bensonhurst-the-dominick-montiglio-story-2021",
+        "tmdb": 1211998,
+        "trakt": 1025620
+      },
+      "year": 2021,
+      "title": "Lynchpin of Bensonhurst: The Dominick Montiglio Story"
+    },
+    "rank": 193,
+    "id": 1463058725,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt16252560",
+        "plex": {
+          "guid": "61a24c8c6b530211ffa39f52",
+          "slug": "capitol-punishment-2021"
+        },
+        "slug": "capitol-punishment-2021",
+        "tmdb": 905075,
+        "trakt": 724977
+      },
+      "year": 2021,
+      "title": "Capitol Punishment"
+    },
+    "rank": 194,
+    "id": 1463058726,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15750610",
+        "plex": {
+          "guid": "6179423df1f12d0848b4a44b",
+          "slug": "fresh-meat-jeffrey-dahmer"
+        },
+        "slug": "fresh-meat-jeffrey-dahmer-2021",
+        "tmdb": 905082,
+        "trakt": 725017
+      },
+      "year": 2021,
+      "title": "Fresh Meat: Jeffrey Dahmer"
+    },
+    "rank": 195,
+    "id": 1463058727,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt22035004",
+        "plex": {
+          "guid": "632201dad27283c2bb33d21d",
+          "slug": "killing-gucci-people-magazine-investigates-2021-1"
+        },
+        "slug": "killing-gucci-people-magazine-investigates-2021",
+        "tmdb": 947413,
+        "trakt": 761595
+      },
+      "year": 2021,
+      "title": "Killing Gucci: People Magazine Investigates"
+    },
+    "rank": 196,
+    "id": 1463058728,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt23053192",
+        "plex": {
+          "guid": "635d7e3e6606753e27f1aad1",
+          "slug": "the-worlds-biggest-drug-lord-tse-chi-lop-2021"
+        },
+        "slug": "the-world-s-biggest-drug-lord-tse-chi-lop-2021",
+        "tmdb": 900300,
+        "trakt": 722472
+      },
+      "year": 2021,
+      "title": "The World's Biggest Drug Lord: Tse Chi Lop"
+    },
+    "rank": 197,
+    "id": 1463058729,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13569380",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "iron-temple-2021",
+        "tmdb": 885362,
+        "trakt": 709477
+      },
+      "year": 2021,
+      "title": "Iron Temple"
+    },
+    "rank": 198,
+    "id": 1463058730,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14116028",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "eyewitness-2021",
+        "tmdb": 888157,
+        "trakt": 712035
+      },
+      "year": 2021,
+      "title": "Eyewitness"
+    },
+    "rank": 199,
+    "id": 1463058731,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15520020",
+        "plex": {
+          "guid": "6156cc247333a8f796fe9fc4",
+          "slug": "four-hours-at-the-capitol"
+        },
+        "slug": "four-hours-at-the-capitol-2021",
+        "tmdb": 879535,
+        "trakt": 704107
+      },
+      "year": 2021,
+      "title": "Four Hours at the Capitol"
+    },
+    "rank": 200,
+    "id": 1463058732,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15729412",
+        "plex": {
+          "guid": "617419037c008adcb3305124",
+          "slug": "famously-haunted-amityville"
+        },
+        "slug": "famously-haunted-amityville-2021",
+        "tmdb": 888478,
+        "trakt": 712448
+      },
+      "year": 2021,
+      "title": "Famously Haunted: Amityville"
+    },
+    "rank": 201,
+    "id": 1463058733,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15469820",
+        "plex": {
+          "guid": "602de0b0f4e80f002cf87a3e",
+          "slug": "britney-vs-spears"
+        },
+        "slug": "britney-vs-spears-2021",
+        "tmdb": 797594,
+        "trakt": 701899
+      },
+      "year": 2021,
+      "title": "Britney vs. Spears"
+    },
+    "rank": 202,
+    "id": 1463058734,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14707210",
+        "plex": {
+          "guid": "60af5944d3dea8002ccf5f1f",
+          "slug": "escaping-captivity-the-kara-robinson-story-2021"
+        },
+        "slug": "escaping-captivity-the-kara-robinson-story-2021",
+        "tmdb": 881058,
+        "trakt": 705640
+      },
+      "year": 2021,
+      "title": "Escaping Captivity: The Kara Robinson Story"
+    },
+    "rank": 203,
+    "id": 1463058735,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15575214",
+        "plex": {
+          "guid": "613a26149aaf0ecc83a4dd59",
+          "slug": "the-toolbox-killer"
+        },
+        "slug": "the-toolbox-killer-2021",
+        "tmdb": 872241,
+        "trakt": 697771
+      },
+      "year": 2021,
+      "title": "The Toolbox Killer"
+    },
+    "rank": 204,
+    "id": 1463058736,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt11905848",
+        "plex": {
+          "guid": "5eb8f2a86658cc0041c2afad",
+          "slug": "the-state-of-texas-vs-melissa"
+        },
+        "slug": "the-state-of-texas-vs-melissa-2021",
+        "tmdb": 701265,
+        "trakt": 544783
+      },
+      "year": 2021,
+      "title": "The State of Texas vs. Melissa"
+    },
+    "rank": 205,
+    "id": 1463058737,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15216504",
+        "plex": {
+          "guid": "6118d201a45515002c746ee3",
+          "slug": "the-women-and-the-murderer"
+        },
+        "slug": "the-women-and-the-murderer-2021",
+        "tmdb": 866127,
+        "trakt": 692529
+      },
+      "year": 2021,
+      "title": "The Women and the Murderer"
+    },
+    "rank": 206,
+    "id": 1463058738,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15559552",
+        "plex": {
+          "guid": "60d9f2e628ce61002dd838e2",
+          "slug": "the-bowraville-murders"
+        },
+        "slug": "the-bowraville-murders-2021",
+        "tmdb": 845269,
+        "trakt": 675093
+      },
+      "year": 2021,
+      "title": "The Bowraville Murders"
+    },
+    "rank": 207,
+    "id": 1463058739,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15085784",
+        "plex": {
+          "guid": "60f9436a7d87e7002c3b78f6",
+          "slug": "memories-of-a-murderer-the-nilsen-tapes"
+        },
+        "slug": "memories-of-a-murderer-the-nilsen-tapes-2021",
+        "tmdb": 852851,
+        "trakt": 681143
+      },
+      "year": 2021,
+      "title": "Memories of a Murderer: The Nilsen Tapes"
+    },
+    "rank": 208,
+    "id": 1463058740,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15106436",
+        "plex": {
+          "guid": "60ffbfc630cebd002c693015",
+          "slug": "unraveled-the-stalkers-web"
+        },
+        "slug": "unraveled-the-stalker-s-web-2021",
+        "tmdb": 860239,
+        "trakt": 687643
+      },
+      "year": 2021,
+      "title": "Unraveled: The Stalker's Web"
+    },
+    "rank": 209,
+    "id": 1463058741,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15499430",
+        "plex": {
+          "guid": "61542e8253b7bbba312506c5",
+          "slug": "no-body-recovered"
+        },
+        "slug": "no-body-recovered-2021",
+        "tmdb": 883166,
+        "trakt": 707534
+      },
+      "year": 2021,
+      "title": "No Body Recovered"
+    },
+    "rank": 210,
+    "id": 1463058742,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14597294",
+        "plex": {
+          "guid": "60964f348ceaf2002c615b9e",
+          "slug": "the-phantom-2021-1"
+        },
+        "slug": "the-phantom-2021",
+        "tmdb": 836305,
+        "trakt": 667676
+      },
+      "year": 2021,
+      "title": "The Phantom"
+    },
+    "rank": 211,
+    "id": 1463058743,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14679856",
+        "plex": {
+          "guid": "605a4c4bd38679002c17aea0",
+          "slug": "last-man-standing-suge-knight-and-the-murders-of-biggie-and-tupac"
+        },
+        "slug": "last-man-standing-suge-knight-and-the-murders-of-biggie-and-tupac-2021",
+        "tmdb": 809160,
+        "trakt": 643225
+      },
+      "year": 2021,
+      "title": "Last Man Standing: Suge Knight and the Murders of Biggie and Tupac"
+    },
+    "rank": 212,
+    "id": 1463058744,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14998400",
+        "plex": {
+          "guid": "60e80c55e18a10002cc708f7",
+          "slug": "day-of-rage-how-trump-supporters-took-the-u-s-capitol"
+        },
+        "slug": "day-of-rage-how-trump-supporters-took-the-u-s-capitol-2021",
+        "tmdb": 854477,
+        "trakt": 682864
+      },
+      "year": 2021,
+      "title": "Day of Rage: How Trump Supporters Took the U.S. Capitol"
+    },
+    "rank": 213,
+    "id": 1463058745,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13323092",
+        "plex": {
+          "guid": "5f93e0f31a54a7002d75fa8c",
+          "slug": "murder-by-the-coast"
+        },
+        "slug": "murder-by-the-coast-2021",
+        "tmdb": 830645,
+        "trakt": 662766
+      },
+      "year": 2021,
+      "title": "Murder by the Coast"
+    },
+    "rank": 214,
+    "id": 1463058746,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt12617712",
+        "plex": {
+          "guid": "5f409ff4a4f07a00421ba784",
+          "slug": "an-unknown-compelling-force"
+        },
+        "slug": "an-unknown-compelling-force-2021",
+        "tmdb": 837287,
+        "trakt": 668628
+      },
+      "year": 2021,
+      "title": "An Unknown Compelling Force"
+    },
+    "rank": 215,
+    "id": 1463058747,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29107063",
+        "plex": {
+          "guid": "6504d040c7888b3e5aec9301",
+          "slug": "becoming-evil-serial-killers-of-the-old-west-2021"
+        },
+        "slug": "becoming-evil-serial-killers-of-the-old-west-2021",
+        "tmdb": 889453,
+        "trakt": 713425
+      },
+      "year": 2021,
+      "title": "Becoming Evil: Serial Killers of the Old West"
+    },
+    "rank": 216,
+    "id": 1463058748,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14686516",
+        "plex": {
+          "guid": "60a8c233fe60b8002c3e6d3f",
+          "slug": "rose-west-born-evil"
+        },
+        "slug": "rose-west-born-evil-2021",
+        "tmdb": 843528,
+        "trakt": 673958
+      },
+      "year": 2021,
+      "title": "Rose West: Born Evil?"
+    },
+    "rank": 217,
+    "id": 1463058749,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14809682",
+        "plex": {
+          "guid": "60c1d0b436751e002c30e14d",
+          "slug": "colza-lo-invisible"
+        },
+        "slug": "colza-lo-invisible-2021",
+        "tmdb": 1065606,
+        "trakt": 857356
+      },
+      "year": 2021,
+      "title": "Colza, lo invisible"
+    },
+    "rank": 218,
+    "id": 1463058750,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt26594033",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "dad-shot-them-2021",
+        "tmdb": 876523,
+        "trakt": 701418
+      },
+      "year": 2021,
+      "title": "Dad Shot Them"
+    },
+    "rank": 219,
+    "id": 1463058751,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14735022",
+        "plex": {
+          "guid": "60b34e181664ef002c175fef",
+          "slug": null
+        },
+        "slug": "broadmoor-serial-killers-high-security-2021",
+        "tmdb": 834241,
+        "trakt": 665634
+      },
+      "year": 2021,
+      "title": "Broadmoor: Serial Killers & High Security"
+    },
+    "rank": 220,
+    "id": 1463058752,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt12939812",
+        "plex": {
+          "guid": "5f461bd525037f0041214fbf",
+          "slug": "nail-bomber-manhunt"
+        },
+        "slug": "nail-bomber-manhunt-2021",
+        "tmdb": 824865,
+        "trakt": 657488
+      },
+      "year": 2021,
+      "title": "Nail Bomber: Manhunt"
+    },
+    "rank": 221,
+    "id": 1463058753,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15555154",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "ricochet-2021",
+        "tmdb": 1235344,
+        "trakt": 999276
+      },
+      "year": 2021,
+      "title": "Ricochet"
+    },
+    "rank": 222,
+    "id": 1463058754,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14691090",
+        "plex": {
+          "guid": "60a7d9e252cfe6002d90b3ea",
+          "slug": null
+        },
+        "slug": "murdered-by-a-mob-2021",
+        "tmdb": 831539,
+        "trakt": 663421
+      },
+      "year": 2021,
+      "title": "Murdered by a Mob"
+    },
+    "rank": 223,
+    "id": 1463058755,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14638362",
+        "plex": {
+          "guid": "609f88ea90533f002c12b62a",
+          "slug": "broken-harts-2021"
+        },
+        "slug": "broken-harts-2021",
+        "tmdb": 830818,
+        "trakt": 662686
+      },
+      "year": 2021,
+      "title": "Broken Harts"
+    },
+    "rank": 224,
+    "id": 1463058756,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13616314",
+        "plex": {
+          "guid": "5fd47f32d7a671002e168fc0",
+          "slug": "haymarket-the-bomb-the-anarchists-the-labor-struggle"
+        },
+        "slug": "haymarket-the-bomb-the-anarchists-the-labor-struggle-2021",
+        "tmdb": 871551,
+        "trakt": 697077
+      },
+      "year": 2021,
+      "title": "Haymarket: The Bomb, the Anarchists, the Labor Struggle"
+    },
+    "rank": 225,
+    "id": 1463058757,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt29768970",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "cercando-elisa-il-delitto-claps-2021",
+        "tmdb": 1516290,
+        "trakt": 1244041
+      },
+      "year": 2021,
+      "title": "Cercando Elisa - Il Delitto Claps"
+    },
+    "rank": 226,
+    "id": 1463058758,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14583726",
+        "plex": {
+          "guid": "6094f5d9a2ea170036c5ebe3",
+          "slug": "catching-a-serial-killer-bruce-mcarthur"
+        },
+        "slug": "catching-a-serial-killer-bruce-mcarthur-2021",
+        "tmdb": 836023,
+        "trakt": 667531
+      },
+      "year": 2021,
+      "title": "Catching a Serial Killer: Bruce McArthur"
+    },
+    "rank": 227,
+    "id": 1463058759,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt11503700",
+        "plex": {
+          "guid": "5f40982b427eeb0041f1135b",
+          "slug": "knox-the-rob-knox-story"
+        },
+        "slug": "k-nox-the-rob-knox-story-2021",
+        "tmdb": 912568,
+        "trakt": 730774
+      },
+      "year": 2021,
+      "title": "(K)nox: The Rob Knox Story"
+    },
+    "rank": 228,
+    "id": 1463058760,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14318430",
+        "plex": {
+          "guid": "605f58297c50d6002d1b1218",
+          "slug": "why-did-you-kill-me-2021"
+        },
+        "slug": "why-did-you-kill-me-2021",
+        "tmdb": 810731,
+        "trakt": 644804
+      },
+      "year": 2021,
+      "title": "Why Did You Kill Me?"
+    },
+    "rank": 229,
+    "id": 1463058761,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14318270",
+        "plex": {
+          "guid": "60618e567c50d6002d2b1d1b",
+          "slug": "louis-theroux-shooting-joe-exotic"
+        },
+        "slug": "louis-theroux-shooting-joe-exotic-2021",
+        "tmdb": 814353,
+        "trakt": 648131
+      },
+      "year": 2021,
+      "title": "Louis Theroux: Shooting Joe Exotic"
+    },
+    "rank": 230,
+    "id": 1463058762,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13199014",
+        "plex": {
+          "guid": "5f867044134f8c004243885f",
+          "slug": "six-angry-women-2021"
+        },
+        "slug": "six-angry-women-2021",
+        "tmdb": 810533,
+        "trakt": 644390
+      },
+      "year": 2021,
+      "title": "Six Angry Women"
+    },
+    "rank": 231,
+    "id": 1463058763,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14349994",
+        "plex": {
+          "guid": "606432d0330a79002cd535c7",
+          "slug": "unraveled-the-long-island-serial-killer"
+        },
+        "slug": "unraveled-the-long-island-serial-killer-2021",
+        "tmdb": 826029,
+        "trakt": 658836
+      },
+      "year": 2021,
+      "title": "Unraveled: The Long Island Serial Killer"
+    },
+    "rank": 232,
+    "id": 1463058764,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt12835298",
+        "plex": {
+          "guid": "5f40df8c1ae71000412315af",
+          "slug": "killing-escobar"
+        },
+        "slug": "killing-escobar-2021",
+        "tmdb": 790644,
+        "trakt": 627079
+      },
+      "year": 2021,
+      "title": "Killing Escobar"
+    },
+    "rank": 233,
+    "id": 1463058765,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14829580",
+        "plex": {
+          "guid": "6043a7daede151002df449fc",
+          "slug": "the-yorkshire-rippers-new-victims-2021"
+        },
+        "slug": "the-yorkshire-ripper-s-new-victims-2021",
+        "tmdb": 802746,
+        "trakt": 637692
+      },
+      "year": 2021,
+      "title": "The Yorkshire Ripper's New Victims"
+    },
+    "rank": 234,
+    "id": 1463058766,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14072200",
+        "plex": {
+          "guid": "602e91257b0925002cacf350",
+          "slug": "die-erfindung-eines-morders-der-fall-bruno-ludke"
+        },
+        "slug": "the-case-of-bruno-ludke-2021",
+        "tmdb": 797811,
+        "trakt": 633205
+      },
+      "year": 2021,
+      "title": "The Case of Bruno Lüdke"
+    },
+    "rank": 235,
+    "id": 1463058767,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt12673718",
+        "plex": {
+          "guid": "601b12841c7caa002dcbd980",
+          "slug": "framing-britney-spears"
+        },
+        "slug": "framing-britney-spears-2021",
+        "tmdb": 801528,
+        "trakt": 643894
+      },
+      "year": 2021,
+      "title": "Framing Britney Spears"
+    },
+    "rank": 236,
+    "id": 1463058768,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13606318",
+        "plex": {
+          "guid": "5fd1db0b6b6926002ddd628b",
+          "slug": "monster-preacher"
+        },
+        "slug": "monster-preacher-2021",
+        "tmdb": 787373,
+        "trakt": 623811
+      },
+      "year": 2021,
+      "title": "Monster Preacher"
+    },
+    "rank": 237,
+    "id": 1463058769,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13848966",
+        "plex": {
+          "guid": "6006bfc02cc86b002b70994c",
+          "slug": "storming-the-capitol-the-inside-story"
+        },
+        "slug": "storming-the-capitol-the-inside-story-2021",
+        "tmdb": 808180,
+        "trakt": 642634
+      },
+      "year": 2021,
+      "title": "Storming the Capitol: The Inside Story"
+    },
+    "rank": 238,
+    "id": 1463058770,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13831376",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "24-hours-assault-on-the-capitol-2021",
+        "tmdb": 785171,
+        "trakt": 621818
+      },
+      "year": 2021,
+      "title": "24 Hours: Assault on the Capitol"
+    },
+    "rank": 239,
+    "id": 1463058771,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt15110932",
+        "plex": {
+          "guid": "60ffe4dd8226eb002cbb0c9e",
+          "slug": "jealous-guy-the-assassination-of-john-lennon"
+        },
+        "slug": "jealous-guy-the-assassination-of-john-lennon-2020",
+        "tmdb": 866385,
+        "trakt": 692902
+      },
+      "year": 2020,
+      "title": "Jealous Guy: The Assassination of John Lennon"
+    },
+    "rank": 240,
+    "id": 1463058772,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13658730",
+        "plex": {
+          "guid": "5fdc82e89d450b002d2b30b5",
+          "slug": "suzy-lamplugh-the-unsolved-mystery"
+        },
+        "slug": "suzy-lamplugh-the-unsolved-mystery-2020",
+        "tmdb": 781778,
+        "trakt": 618752
+      },
+      "year": 2020,
+      "title": "Suzy Lamplugh: The Unsolved Mystery"
+    },
+    "rank": 241,
+    "id": 1463058773,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt12837230",
+        "plex": {
+          "guid": "5f40df8efea1a1003fbc7e7b",
+          "slug": "alabama-snake"
+        },
+        "slug": "alabama-snake-2020",
+        "tmdb": 766238,
+        "trakt": 604586
+      },
+      "year": 2020,
+      "title": "Alabama Snake"
+    },
+    "rank": 242,
+    "id": 1463058774,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13370308",
+        "plex": {
+          "guid": "5fca5de36c12ab002d6c350d",
+          "slug": "who-killed-the-lyon-sisters"
+        },
+        "slug": "who-killed-the-lyon-sisters-2020",
+        "tmdb": 771278,
+        "trakt": 609089
+      },
+      "year": 2020,
+      "title": "Who Killed the Lyon Sisters?"
+    },
+    "rank": 243,
+    "id": 1463058775,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13511822",
+        "plex": {
+          "guid": "5fbcc007015fa8002de7af93",
+          "slug": "the-great-diamond-heist"
+        },
+        "slug": "the-millennium-dome-heist-with-ross-kemp-2020",
+        "tmdb": 794147,
+        "trakt": 629761
+      },
+      "year": 2020,
+      "title": "The Millennium Dome Heist with Ross Kemp"
+    },
+    "rank": 244,
+    "id": 1463058776,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt11674020",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "charles-ponzi-the-documentary-2020",
+        "tmdb": 773187,
+        "trakt": 610944
+      },
+      "year": 2020,
+      "title": "Charles Ponzi: The Documentary"
+    },
+    "rank": 245,
+    "id": 1463058777,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt38018586",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-serial-killer-s-apprentice",
+        "tmdb": 1531747,
+        "trakt": 1270357
+      },
+      "year": 2025,
+      "title": "The Serial Killer's Apprentice"
+    },
+    "rank": 24,
+    "id": 1463058556,
+    "listed_at": "2026-04-30T18:10:14.000Z",
+    "notes": null
+  }
+]

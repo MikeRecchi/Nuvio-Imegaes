@@ -1,0 +1,26 @@
+{
+  "username": "MikeRecchi",
+  "private": false,
+  "deleted": false,
+  "name": "Mike Recchi",
+  "vip": true,
+  "vip_ep": false,
+  "director": false,
+  "ids": {
+    "slug": "mikerecchi",
+    "trakt": 3221907
+  },
+  "joined_at": "2017-08-19T13:38:22.000Z",
+  "location": "Bardejov, Presov",
+  "about": "",
+  "gender": "male",
+  "age": 41,
+  "images": {
+    "avatar": {
+      "full": "https://walter-r2.trakt.tv/images/users/003/221/907/avatars/large/42ed985201.jpg"
+    }
+  },
+  "vip_og": false,
+  "vip_years": 0,
+  "vip_cover_image": null
+}

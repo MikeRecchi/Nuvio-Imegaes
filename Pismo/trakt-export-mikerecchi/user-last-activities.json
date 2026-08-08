@@ -1,0 +1,73 @@
+{
+  "all": "2026-05-09T15:33:24.000Z",
+  "movies": {
+    "watched_at": "2026-05-09T15:30:43.000Z",
+    "collected_at": "2025-07-27T21:02:31.000Z",
+    "rated_at": "2022-03-08T08:49:33.000Z",
+    "watchlisted_at": "2026-05-09T09:35:27.000Z",
+    "favorited_at": "2017-08-19T13:38:22.000Z",
+    "recommendations_at": "2017-08-19T13:38:22.000Z",
+    "commented_at": "2017-08-19T13:38:22.000Z",
+    "paused_at": "2026-05-09T07:03:02.000Z",
+    "hidden_at": "2017-08-19T13:38:22.000Z"
+  },
+  "episodes": {
+    "watched_at": "2026-05-09T15:33:24.000Z",
+    "collected_at": "2025-08-15T12:58:36.000Z",
+    "rated_at": "2024-06-09T16:30:11.000Z",
+    "watchlisted_at": "2025-11-05T18:30:32.000Z",
+    "commented_at": "2017-08-19T13:38:22.000Z",
+    "paused_at": "2026-05-08T05:13:49.000Z"
+  },
+  "shows": {
+    "rated_at": "2019-06-01T08:09:24.000Z",
+    "watchlisted_at": "2026-05-08T09:50:41.000Z",
+    "favorited_at": "2017-08-19T13:38:22.000Z",
+    "recommendations_at": "2017-08-19T13:38:22.000Z",
+    "commented_at": "2017-08-19T13:38:22.000Z",
+    "hidden_at": "2026-04-16T08:52:08.000Z",
+    "dropped_at": "2026-05-09T15:31:20.000Z"
+  },
+  "seasons": {
+    "rated_at": "2017-08-19T13:38:22.000Z",
+    "watchlisted_at": "2025-03-01T11:09:41.000Z",
+    "commented_at": "2017-08-19T13:38:22.000Z",
+    "hidden_at": "2017-08-19T13:38:22.000Z"
+  },
+  "comments": {
+    "liked_at": "2017-08-19T13:38:22.000Z",
+    "reacted_at": "2017-08-19T13:38:22.000Z",
+    "blocked_at": "2017-08-19T13:38:22.000Z"
+  },
+  "lists": {
+    "liked_at": "2026-04-12T19:07:28.000Z",
+    "reacted_at": "2026-04-12T19:07:28.000Z",
+    "updated_at": "2026-05-08T17:28:13.000Z",
+    "commented_at": "2017-08-19T13:38:22.000Z"
+  },
+  "watchlist": {
+    "updated_at": "2026-05-09T09:35:27.000Z"
+  },
+  "favorites": {
+    "updated_at": "2020-07-24T23:05:01.000Z"
+  },
+  "recommendations": {
+    "updated_at": "2020-07-24T23:05:01.000Z"
+  },
+  "collaborations": {
+    "updated_at": "2017-08-19T13:38:22.000Z"
+  },
+  "account": {
+    "settings_at": "2026-05-08T17:30:32.000Z",
+    "followed_at": "2022-08-29T19:21:43.000Z",
+    "following_at": "2026-04-25T23:22:00.000Z",
+    "pending_at": "2017-08-19T13:38:22.000Z",
+    "requested_at": "2017-08-19T13:38:22.000Z"
+  },
+  "saved_filters": {
+    "updated_at": "2017-08-19T13:38:22.000Z"
+  },
+  "notes": {
+    "updated_at": "2017-08-19T13:38:22.000Z"
+  }
+}

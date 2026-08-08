@@ -1,0 +1,7109 @@
+[
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt41082351",
+        "plex": {
+          "guid": "69cd9bfae23adb8b7fa721a1",
+          "slug": "should-i-marry-a-murderer"
+        },
+        "slug": "should-i-marry-a-murderer",
+        "tmdb": 318262,
+        "tvdb": 476125,
+        "trakt": 318003
+      },
+      "year": 2026,
+      "title": "Should I Marry A Murderer?",
+      "aired_episodes": 3
+    },
+    "rank": 1,
+    "id": 1464510370,
+    "listed_at": "2026-05-06T00:02:10.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38626699",
+        "plex": {
+          "guid": "69e5d26282bd0d507d73ab39",
+          "slug": "killing-grounds-the-gilgo-beach-murders-1"
+        },
+        "slug": "killing-grounds-the-gilgo-beach-murders",
+        "tmdb": 304550,
+        "tvdb": null,
+        "trakt": 306755
+      },
+      "year": 2026,
+      "title": "Killing Grounds: The Gilgo Beach Murders",
+      "aired_episodes": 4
+    },
+    "rank": 2,
+    "id": 1463056190,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt40392206",
+        "plex": {
+          "guid": "69b2b0261cc88a41871e1819",
+          "slug": "the-predator-of-seville"
+        },
+        "slug": "the-predator-of-seville",
+        "tmdb": 316295,
+        "tvdb": 475482,
+        "trakt": 317404
+      },
+      "year": 2026,
+      "title": "The Predator of Seville",
+      "aired_episodes": 3
+    },
+    "rank": 3,
+    "id": 1463056191,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt40586075",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "colosio-political-assassination",
+        "tmdb": 316961,
+        "tvdb": 475401,
+        "trakt": 317618
+      },
+      "year": 2026,
+      "title": "Colosio: Political Assassination",
+      "aired_episodes": 3
+    },
+    "rank": 4,
+    "id": 1463056192,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39509488",
+        "plex": {
+          "guid": "698e9fe35be3333728ce4717",
+          "slug": "the-tiktok-killer"
+        },
+        "slug": "the-tiktok-killer",
+        "tmdb": 313338,
+        "tvdb": 473615,
+        "trakt": 316303
+      },
+      "year": 2026,
+      "title": "The TikTok Killer",
+      "aired_episodes": 2
+    },
+    "rank": 5,
+    "id": 1463056193,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt40960311",
+        "plex": {
+          "guid": "699bc76980a4f4b6e2226887",
+          "slug": "lost-women-of-alaska"
+        },
+        "slug": "lost-women-of-alaska",
+        "tmdb": 313410,
+        "tvdb": 473699,
+        "trakt": 316390
+      },
+      "year": 2026,
+      "title": "Lost Women of Alaska",
+      "aired_episodes": 3
+    },
+    "rank": 6,
+    "id": 1463056194,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt40029146",
+        "plex": {
+          "guid": "699a5a4602935ddfaf7ecb5c",
+          "slug": "fit-for-a-killer"
+        },
+        "slug": "fit-for-a-killer",
+        "tmdb": 313228,
+        "tvdb": 474307,
+        "trakt": 316171
+      },
+      "year": 2026,
+      "title": "Fit for a Killer",
+      "aired_episodes": 3
+    },
+    "rank": 7,
+    "id": 1463056195,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39398776",
+        "plex": {
+          "guid": "698d4d9ec6063590df13a4e9",
+          "slug": "murder-in-glitterball-city"
+        },
+        "slug": "murder-in-glitterball-city",
+        "tmdb": 312530,
+        "tvdb": 473289,
+        "trakt": 315382
+      },
+      "year": 2026,
+      "title": "Murder in Glitterball City",
+      "aired_episodes": 2
+    },
+    "rank": 8,
+    "id": 1463056196,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39847051",
+        "plex": {
+          "guid": "69748d3bc49d88c356993824",
+          "slug": "girl-on-the-run-the-hunt-for-americas-most-wanted-woman"
+        },
+        "slug": "girl-on-the-run-the-hunt-for-america-s-most-wanted-woman",
+        "tmdb": 312508,
+        "tvdb": 472852,
+        "trakt": 315281
+      },
+      "year": 2026,
+      "title": "Girl on the Run: The Hunt for America's Most Wanted Woman",
+      "aired_episodes": 3
+    },
+    "rank": 9,
+    "id": 1463056197,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39676538",
+        "plex": {
+          "guid": "698d4d9fd9a0d087dd2804b1",
+          "slug": "the-scream-murder-a-true-teen-horror-story"
+        },
+        "slug": "the-scream-murder-a-true-teen-horror-story",
+        "tmdb": 312506,
+        "tvdb": 473401,
+        "trakt": 315280
+      },
+      "year": 2026,
+      "title": "The Scream Murder: A True Teen Horror Story",
+      "aired_episodes": 3
+    },
+    "rank": 10,
+    "id": 1463056198,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39227709",
+        "plex": {
+          "guid": "6960d27b7540920a1285d19b",
+          "slug": "honeymoon-se-hatya"
+        },
+        "slug": "honeymoon-se-hatya",
+        "tmdb": 310392,
+        "tvdb": 473825,
+        "trakt": 313506
+      },
+      "year": 2026,
+      "title": "Honeymoon Se Hatya",
+      "aired_episodes": 5
+    },
+    "rank": 11,
+    "id": 1463056199,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39151060",
+        "plex": {
+          "guid": "694a3a6733070c222278e56e",
+          "slug": "the-cult-behind-the-killer-the-andrea-yates-story"
+        },
+        "slug": "the-cult-behind-the-killer-the-andrea-yates-story",
+        "tmdb": 309810,
+        "tvdb": 471507,
+        "trakt": 312816
+      },
+      "year": 2026,
+      "title": "The Cult Behind the Killer: The Andrea Yates Story",
+      "aired_episodes": 3
+    },
+    "rank": 12,
+    "id": 1463056200,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt39282612",
+        "plex": {
+          "guid": "68fc16a90adab4b55cd3fa35",
+          "slug": "zabic-miss"
+        },
+        "slug": "obsession-the-murder-of-a-beauty-queen",
+        "tmdb": 303155,
+        "tvdb": 471783,
+        "trakt": 303835
+      },
+      "year": 2025,
+      "title": "Obsession: The Murder of a Beauty Queen",
+      "aired_episodes": 3
+    },
+    "rank": 13,
+    "id": 1463056201,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33473000",
+        "plex": {
+          "guid": "6651c38aa762562f917341f4",
+          "slug": "sean-combs-the-reckoning"
+        },
+        "slug": "sean-combs-the-reckoning",
+        "tmdb": 255251,
+        "tvdb": 450861,
+        "trakt": 241643
+      },
+      "year": 2025,
+      "title": "Sean Combs: The Reckoning",
+      "aired_episodes": 4
+    },
+    "rank": 14,
+    "id": 1463056202,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38783285",
+        "plex": {
+          "guid": "690f79092142313b3c3772b6",
+          "slug": "the-rocky-mountain-mortician-murder"
+        },
+        "slug": "the-rocky-mountain-mortician-murder",
+        "tmdb": 304115,
+        "tvdb": 470082,
+        "trakt": 305018
+      },
+      "year": 2025,
+      "title": "The Rocky Mountain Mortician Murder",
+      "aired_episodes": 3
+    },
+    "rank": 15,
+    "id": 1463056203,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38866478",
+        "plex": {
+          "guid": "68f1b78a3ef894925f5a4c40",
+          "slug": "who-hired-the-hitman-1"
+        },
+        "slug": "who-hired-the-hitman",
+        "tmdb": 302679,
+        "tvdb": 469142,
+        "trakt": 302037
+      },
+      "year": 2025,
+      "title": "Who Hired the Hitman?",
+      "aired_episodes": 6
+    },
+    "rank": 16,
+    "id": 1463056204,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38501655",
+        "plex": {
+          "guid": "68e3357531694c25f635eda5",
+          "slug": "mob-war-philadelphia-vs-the-mafia"
+        },
+        "slug": "mob-war-philadelphia-vs-the-mafia",
+        "tmdb": 301498,
+        "tvdb": 468539,
+        "trakt": 300030
+      },
+      "year": 2025,
+      "title": "Mob War: Philadelphia vs. the Mafia",
+      "aired_episodes": 3
+    },
+    "rank": 17,
+    "id": 1463056205,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38648604",
+        "plex": {
+          "guid": "68fc16accd2a7f79542d0c77",
+          "slug": "the-essex-murders-who-killed-goldfinger-1"
+        },
+        "slug": "the-essex-murders-who-killed-goldfinger",
+        "tmdb": 303154,
+        "tvdb": null,
+        "trakt": 303617
+      },
+      "year": 2025,
+      "title": "The Essex Murders: Who Killed Goldfinger?",
+      "aired_episodes": 3
+    },
+    "rank": 18,
+    "id": 1463056206,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38348167",
+        "plex": {
+          "guid": "68e0987860796d260cef4262",
+          "slug": "the-friday-the-13th-murders"
+        },
+        "slug": "the-friday-the-13th-murders",
+        "tmdb": 301147,
+        "tvdb": 468594,
+        "trakt": 299321
+      },
+      "year": 2025,
+      "title": "The Friday the 13th Murders",
+      "aired_episodes": 6
+    },
+    "rank": 19,
+    "id": 1463056207,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37970537",
+        "plex": {
+          "guid": "68ae02a84b4ba65a4e92cbd5",
+          "slug": "beauty-and-the-bester"
+        },
+        "slug": "beauty-and-the-bester",
+        "tmdb": 298867,
+        "tvdb": 467269,
+        "trakt": 295632
+      },
+      "year": 2025,
+      "title": "Beauty and the Bester",
+      "aired_episodes": 3
+    },
+    "rank": 20,
+    "id": 1463056208,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37694034",
+        "plex": {
+          "guid": "6880657866d178081c70ac02",
+          "slug": "love-con-revenge"
+        },
+        "slug": "love-con-revenge",
+        "tmdb": 297791,
+        "tvdb": 466023,
+        "trakt": 294272
+      },
+      "year": 2025,
+      "title": "Love Con Revenge",
+      "aired_episodes": 6
+    },
+    "rank": 21,
+    "id": 1463056209,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37721541",
+        "plex": {
+          "guid": "68a1fb37cebea6ed497e8acc",
+          "slug": "ruby-and-jodi-a-cult-of-sin-and-influence-1"
+        },
+        "slug": "ruby-jodi-a-cult-of-sin-and-influence",
+        "tmdb": 296962,
+        "tvdb": 466501,
+        "trakt": 293212
+      },
+      "year": 2025,
+      "title": "Ruby & Jodi: A Cult of Sin and Influence",
+      "aired_episodes": 4
+    },
+    "rank": 22,
+    "id": 1463056210,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt38367377",
+        "plex": {
+          "guid": "68bdd9f5f1773304a4c00217",
+          "slug": "horses-and-hangmen-1"
+        },
+        "slug": "horses-hangmen",
+        "tmdb": 299462,
+        "tvdb": 467482,
+        "trakt": 296739
+      },
+      "year": 2025,
+      "title": "Horses & Hangmen",
+      "aired_episodes": 4
+    },
+    "rank": 23,
+    "id": 1463056211,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36400733",
+        "plex": {
+          "guid": "684193e70b49164adaa9584e",
+          "slug": "abandoned-the-woman-in-the-decaying-house"
+        },
+        "slug": "abandoned-the-woman-in-the-decaying-house",
+        "tmdb": 293031,
+        "tvdb": 457651,
+        "trakt": 287604
+      },
+      "year": 2025,
+      "title": "Abandoned: The Woman in the Decaying House",
+      "aired_episodes": 3
+    },
+    "rank": 24,
+    "id": 1463056212,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37579634",
+        "plex": {
+          "guid": "68b00a909136f41437243043",
+          "slug": "amsterdam-narcos-1"
+        },
+        "slug": "amsterdam-narcos",
+        "tmdb": 298886,
+        "tvdb": 466380,
+        "trakt": 295635
+      },
+      "year": 2025,
+      "title": "Amsterdam Narcos",
+      "aired_episodes": 3
+    },
+    "rank": 25,
+    "id": 1463056213,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt35676401",
+        "plex": {
+          "guid": "6743ee239644c55575254d4f",
+          "slug": "the-yogurt-shop-murders"
+        },
+        "slug": "the-yogurt-shop-murders",
+        "tmdb": 277831,
+        "tvdb": 465939,
+        "trakt": 264857
+      },
+      "year": 2025,
+      "title": "The Yogurt Shop Murders",
+      "aired_episodes": 4
+    },
+    "rank": 26,
+    "id": 1463056214,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37376921",
+        "plex": {
+          "guid": "6860b2ac2055dfe850835add",
+          "slug": "mr-and-mrs-murder-2025"
+        },
+        "slug": "mr-mrs-murder-2025",
+        "tmdb": 294835,
+        "tvdb": 465474,
+        "trakt": 289765
+      },
+      "year": 2025,
+      "title": "Mr. & Mrs. Murder",
+      "aired_episodes": 4
+    },
+    "rank": 27,
+    "id": 1463056215,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37438628",
+        "plex": {
+          "guid": "685d6d380592dcc8c2e8e4f0",
+          "slug": "conversations-with-a-killer-the-son-of-sam-tapes"
+        },
+        "slug": "conversations-with-a-killer-the-son-of-sam-tapes",
+        "tmdb": 294611,
+        "tvdb": 465158,
+        "trakt": 289475
+      },
+      "year": 2025,
+      "title": "Conversations with a Killer: The Son of Sam Tapes",
+      "aired_episodes": 3
+    },
+    "rank": 28,
+    "id": 1463056216,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36416165",
+        "plex": {
+          "guid": "67eec058f7c20c44d7233ebe",
+          "slug": "angi-fake-life-true-crime"
+        },
+        "slug": "angi-fake-life-true-crime",
+        "tmdb": 288119,
+        "tvdb": 462236,
+        "trakt": 281424
+      },
+      "year": 2025,
+      "title": "Angi: Fake Life, True Crime",
+      "aired_episodes": 2
+    },
+    "rank": 29,
+    "id": 1463056217,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37439438",
+        "plex": {
+          "guid": "685f9a7fe1b16be95196fae1",
+          "slug": "amy-bradley-is-missing-2"
+        },
+        "slug": "amy-bradley-is-missing",
+        "tmdb": 294726,
+        "tvdb": 465157,
+        "trakt": 289596
+      },
+      "year": 2025,
+      "title": "Amy Bradley Is Missing",
+      "aired_episodes": 3
+    },
+    "rank": 30,
+    "id": 1463056218,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37724480",
+        "plex": {
+          "guid": "687bc1e560fe1be8c54f8e0c",
+          "slug": "911-did-the-killer-call"
+        },
+        "slug": "911-did-the-killer-call",
+        "tmdb": 296219,
+        "tvdb": 465753,
+        "trakt": 292323
+      },
+      "year": 2025,
+      "title": "911: Did The Killer Call?",
+      "aired_episodes": 6
+    },
+    "rank": 31,
+    "id": 1463056219,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37505179",
+        "plex": {
+          "guid": "686850ffa54135873904d549",
+          "slug": "her-last-broadcast-the-abduction-of-jodi-huisentruit"
+        },
+        "slug": "her-last-broadcast-the-abduction-of-jodi-huisentruit",
+        "tmdb": 295309,
+        "tvdb": 465363,
+        "trakt": 290449
+      },
+      "year": 2025,
+      "title": "Her Last Broadcast: The Abduction of Jodi Huisentruit",
+      "aired_episodes": 3
+    },
+    "rank": 32,
+    "id": 1463056220,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt37522426",
+        "plex": {
+          "guid": "685847ec012cf62525f4c309",
+          "slug": "a-killer-among-friends-1"
+        },
+        "slug": "a-killer-among-friends",
+        "tmdb": 294219,
+        "tvdb": 463677,
+        "trakt": 288917
+      },
+      "year": 2025,
+      "title": "A Killer Among Friends",
+      "aired_episodes": 6
+    },
+    "rank": 33,
+    "id": 1463056221,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32810392",
+        "plex": {
+          "guid": "684cf8c57220c1910dcb94a2",
+          "slug": "one-night-in-idaho-the-college-murders"
+        },
+        "slug": "one-night-in-idaho-the-college-murders",
+        "tmdb": 293691,
+        "tvdb": 452853,
+        "trakt": 288335
+      },
+      "year": 2025,
+      "title": "One Night in Idaho: The College Murders",
+      "aired_episodes": 4
+    },
+    "rank": 34,
+    "id": 1463056222,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34384091",
+        "plex": {
+          "guid": "68435ae89f899ebcabbebc16",
+          "slug": "the-many-deaths-of-nora-dalmasso"
+        },
+        "slug": "the-many-deaths-of-nora-dalmasso",
+        "tmdb": 293130,
+        "tvdb": 464495,
+        "trakt": 287719
+      },
+      "year": 2025,
+      "title": "The Many Deaths of Nora Dalmasso",
+      "aired_episodes": 3
+    },
+    "rank": 35,
+    "id": 1463056223,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32832580",
+        "plex": {
+          "guid": "6787aa4b5f517d470328b2b4",
+          "slug": "romcon-who-the-fk-is-jason-porter"
+        },
+        "slug": "romcon-who-the-f-k-is-jason-porter",
+        "tmdb": 281984,
+        "tvdb": 464203,
+        "trakt": 273376
+      },
+      "year": 2025,
+      "title": "ROMCON: Who the F**k Is Jason Porter?",
+      "aired_episodes": 2
+    },
+    "rank": 36,
+    "id": 1463056224,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32375259",
+        "plex": {
+          "guid": "6832683e78273f5972d24548",
+          "slug": "fatal-destination"
+        },
+        "slug": "fatal-destination",
+        "tmdb": 292175,
+        "tvdb": 464146,
+        "trakt": 286565
+      },
+      "year": 2025,
+      "title": "Fatal Destination",
+      "aired_episodes": 6
+    },
+    "rank": 37,
+    "id": 1463056225,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36985714",
+        "plex": {
+          "guid": "682dfa7cab9f715a23d2d733",
+          "slug": "the-mortician"
+        },
+        "slug": "the-mortician",
+        "tmdb": 291926,
+        "tvdb": 463866,
+        "trakt": 286139
+      },
+      "year": 2025,
+      "title": "The Mortician",
+      "aired_episodes": 3
+    },
+    "rank": 38,
+    "id": 1463056226,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36614653",
+        "plex": {
+          "guid": "68078aa3dd065ea128367ebe",
+          "slug": "cold-case-the-tylenol-murder"
+        },
+        "slug": "cold-case-the-tylenol-murders",
+        "tmdb": 289486,
+        "tvdb": 462818,
+        "trakt": 283224
+      },
+      "year": 2025,
+      "title": "Cold Case: The Tylenol Murders",
+      "aired_episodes": 3
+    },
+    "rank": 39,
+    "id": 1463056227,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": "6818cb9883e09bd2ad8a969a",
+          "slug": "american-monster-abuse-of-power"
+        },
+        "slug": "american-monster-abuse-of-power",
+        "tmdb": 291863,
+        "tvdb": 463330,
+        "trakt": 286039
+      },
+      "year": 2025,
+      "title": "American Monster: Abuse of Power",
+      "aired_episodes": 6
+    },
+    "rank": 40,
+    "id": 1463056228,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36590949",
+        "plex": {
+          "guid": "6800fbd50126ddb4c6637221",
+          "slug": "fred-and-rose-west-a-british-horror-story-1"
+        },
+        "slug": "fred-and-rose-west-a-british-horror-story",
+        "tmdb": 289123,
+        "tvdb": 462666,
+        "trakt": 282738
+      },
+      "year": 2025,
+      "title": "Fred and Rose West: A British Horror Story",
+      "aired_episodes": 3
+    },
+    "rank": 41,
+    "id": 1463056229,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36495586",
+        "plex": {
+          "guid": "680247268f1dedc95ac8df39",
+          "slug": "toxic-1"
+        },
+        "slug": "toxic",
+        "tmdb": 289196,
+        "tvdb": 462583,
+        "trakt": 282761
+      },
+      "year": 2025,
+      "title": "Toxic",
+      "aired_episodes": 6
+    },
+    "rank": 42,
+    "id": 1463056230,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31806040",
+        "plex": {
+          "guid": "67dc0e52ed14df0f7fd51847",
+          "slug": "the-diamond-heist"
+        },
+        "slug": "the-diamond-heist",
+        "tmdb": 286840,
+        "tvdb": 461701,
+        "trakt": 279870
+      },
+      "year": 2025,
+      "title": "The Diamond Heist",
+      "aired_episodes": 3
+    },
+    "rank": 43,
+    "id": 1463056231,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36599902",
+        "plex": {
+          "guid": "68070e42afcda62df3019a59",
+          "slug": "the-people-vs-michael-jackson"
+        },
+        "slug": "the-people-v-michael-jackson",
+        "tmdb": 289353,
+        "tvdb": null,
+        "trakt": 282933
+      },
+      "year": 2025,
+      "title": "The People v. Michael Jackson",
+      "aired_episodes": 2
+    },
+    "rank": 44,
+    "id": 1463056232,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt35629774",
+        "plex": {
+          "guid": "67be75d709a5d77b23df9fc4",
+          "slug": "gone-girls-the-long-island-serial-killer"
+        },
+        "slug": "gone-girls-the-long-island-serial-killer",
+        "tmdb": 285084,
+        "tvdb": 459609,
+        "trakt": 277603
+      },
+      "year": 2025,
+      "title": "Gone Girls: The Long Island Serial Killer",
+      "aired_episodes": 3
+    },
+    "rank": 45,
+    "id": 1463056233,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36241713",
+        "plex": {
+          "guid": "67dfff14e3f53b4c71c60711",
+          "slug": "from-rock-star-to-killer"
+        },
+        "slug": "from-rock-star-to-killer",
+        "tmdb": 287131,
+        "tvdb": 461727,
+        "trakt": 280135
+      },
+      "year": 2025,
+      "title": "From Rock Star to Killer",
+      "aired_episodes": 3
+    },
+    "rank": 46,
+    "id": 1463056234,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36041664",
+        "plex": {
+          "guid": "67d2cfe4be7f89f836768bfd",
+          "slug": "hollywood-demons"
+        },
+        "slug": "hollywood-demons",
+        "tmdb": 286269,
+        "tvdb": 461072,
+        "trakt": 279021
+      },
+      "year": 2025,
+      "title": "Hollywood Demons",
+      "aired_episodes": 9
+    },
+    "rank": 47,
+    "id": 1463056235,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt35663090",
+        "plex": {
+          "guid": "67c22c80652daf28277e7917",
+          "slug": "a-body-in-the-snow-the-trial-of-karen-read"
+        },
+        "slug": "a-body-in-the-snow-the-trial-of-karen-read",
+        "tmdb": 285338,
+        "tvdb": 459792,
+        "trakt": 277829
+      },
+      "year": 2025,
+      "title": "A Body in the Snow - The Trial of Karen Read",
+      "aired_episodes": 5
+    },
+    "rank": 48,
+    "id": 1463056236,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt35309276",
+        "plex": {
+          "guid": "677e6e613de0bf8804c2bc01",
+          "slug": "devil-in-the-family-the-fall-of-ruby-franke"
+        },
+        "slug": "devil-in-the-family-the-fall-of-ruby-franke",
+        "tmdb": 281371,
+        "tvdb": 458636,
+        "trakt": 272454
+      },
+      "year": 2025,
+      "title": "Devil in the Family: The Fall of Ruby Franke",
+      "aired_episodes": 3
+    },
+    "rank": 49,
+    "id": 1463056237,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt35617850",
+        "plex": {
+          "guid": "67b4456f2fee72b8d01cc52f",
+          "slug": "the-fox-hollow-murders-playground-of-a-serial-killer-1"
+        },
+        "slug": "the-fox-hollow-murders-playground-of-a-serial-killer",
+        "tmdb": 283272,
+        "tvdb": 460132,
+        "trakt": 275050
+      },
+      "year": 2025,
+      "title": "The Fox Hollow Murders: Playground of a Serial Killer",
+      "aired_episodes": 4
+    },
+    "rank": 50,
+    "id": 1463056238,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt35590630",
+        "plex": {
+          "guid": "67995594ac503ccac5a198ab",
+          "slug": "american-murder-gabby-petito-1"
+        },
+        "slug": "american-murder-gabby-petito",
+        "tmdb": 283197,
+        "tvdb": 459466,
+        "trakt": 274856
+      },
+      "year": 2025,
+      "title": "American Murder: Gabby Petito",
+      "aired_episodes": 3
+    },
+    "rank": 51,
+    "id": 1463056239,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33749186",
+        "plex": {
+          "guid": "66e5185ad76a9d0b1bbd8edd",
+          "slug": "how-i-left-the-opus-dei"
+        },
+        "slug": "how-i-left-the-opus-dei",
+        "tmdb": 271311,
+        "tvdb": 459171,
+        "trakt": 255854
+      },
+      "year": 2025,
+      "title": "How I Left the Opus Dei",
+      "aired_episodes": 4
+    },
+    "rank": 52,
+    "id": 1463056240,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34998832",
+        "plex": {
+          "guid": "675c39898792cda2c99b51fc",
+          "slug": "the-curious-case-of"
+        },
+        "slug": "the-curious-case-of",
+        "tmdb": 279379,
+        "tvdb": 458211,
+        "trakt": 269723
+      },
+      "year": 2025,
+      "title": "The Curious Case of...",
+      "aired_episodes": 14
+    },
+    "rank": 53,
+    "id": 1463056241,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34682275",
+        "plex": {
+          "guid": "674288dec8be115fa9484837",
+          "slug": "the-kings-of-tupelo-a-southern-crime-saga"
+        },
+        "slug": "the-kings-of-tupelo-a-southern-crime-saga",
+        "tmdb": 277789,
+        "tvdb": 456948,
+        "trakt": 264812
+      },
+      "year": 2024,
+      "title": "The Kings of Tupelo: A Southern Crime Saga",
+      "aired_episodes": 3
+    },
+    "rank": 54,
+    "id": 1463056242,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34169767",
+        "plex": {
+          "guid": "671f7ea7abd7c631b453519d",
+          "slug": "cold-case-who-killed-jonbenet-ramsey"
+        },
+        "slug": "cold-case-who-killed-jonbenet-ramsey",
+        "tmdb": 274820,
+        "tvdb": 455934,
+        "trakt": 260571
+      },
+      "year": 2024,
+      "title": "Cold Case: Who Killed JonBenét Ramsey",
+      "aired_episodes": 3
+    },
+    "rank": 55,
+    "id": 1463056243,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34164659",
+        "plex": {
+          "guid": "672030ed73d7b3264f87d3c4",
+          "slug": "900-days-without-anabel"
+        },
+        "slug": "900-days-without-anabel",
+        "tmdb": 274905,
+        "tvdb": 455872,
+        "trakt": 260689
+      },
+      "year": 2024,
+      "title": "900 Days Without Anabel",
+      "aired_episodes": 3
+    },
+    "rank": 56,
+    "id": 1463056244,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt36934625",
+        "plex": {
+          "guid": "672ae32a8a9eb945ff5ce61e",
+          "slug": "operation-undercover"
+        },
+        "slug": "operation-undercover",
+        "tmdb": 275437,
+        "tvdb": 456608,
+        "trakt": 261353
+      },
+      "year": 2024,
+      "title": "Operation Undercover",
+      "aired_episodes": 6
+    },
+    "rank": 57,
+    "id": 1463056245,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34539343",
+        "plex": {
+          "guid": "672b20808a9eb945ff640974",
+          "slug": "before-they-kill-again"
+        },
+        "slug": "before-they-kill-again",
+        "tmdb": 275587,
+        "tvdb": 456362,
+        "trakt": 261569
+      },
+      "year": 2024,
+      "title": "Before They Kill Again",
+      "aired_episodes": 6
+    },
+    "rank": 58,
+    "id": 1463056246,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt34483519",
+        "plex": {
+          "guid": "677a04b9a6e35783ace1dc20",
+          "slug": "skin-hunters-3"
+        },
+        "slug": "skin-hunters",
+        "tmdb": 273235,
+        "tvdb": 456031,
+        "trakt": 258298
+      },
+      "year": 2024,
+      "title": "Skin Hunters",
+      "aired_episodes": 4
+    },
+    "rank": 59,
+    "id": 1463056247,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33480540",
+        "plex": {
+          "guid": "66f4d6d2d4797af9e32a432b",
+          "slug": "this-is-the-zodiac-speaking"
+        },
+        "slug": "this-is-the-zodiac-speaking",
+        "tmdb": 272299,
+        "tvdb": 454805,
+        "trakt": 256938
+      },
+      "year": 2024,
+      "title": "This Is the Zodiac Speaking",
+      "aired_episodes": 3
+    },
+    "rank": 60,
+    "id": 1463056248,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32889222",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "medina-the-celebrity-scammer",
+        "tmdb": 259425,
+        "tvdb": 454841,
+        "trakt": 249011
+      },
+      "year": 2024,
+      "title": "Medina: The Celebrity Scammer",
+      "aired_episodes": 5
+    },
+    "rank": 61,
+    "id": 1463056249,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33481557",
+        "plex": {
+          "guid": "66f54331e49ae9ec369fd3de",
+          "slug": "im-not-a-monster-the-lois-riess-murders-1"
+        },
+        "slug": "i-m-not-a-monster-the-lois-riess-murders",
+        "tmdb": 272321,
+        "tvdb": 455183,
+        "trakt": 257050
+      },
+      "year": 2024,
+      "title": "I'm Not a Monster: The Lois Riess Murders",
+      "aired_episodes": 2
+    },
+    "rank": 62,
+    "id": 1463056250,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33484143",
+        "plex": {
+          "guid": "66db68769a577fa3da25983d",
+          "slug": "out-there-crimes-of-the-paranormal"
+        },
+        "slug": "out-there-crimes-of-the-paranormal",
+        "tmdb": 270492,
+        "tvdb": 454203,
+        "trakt": 254789
+      },
+      "year": 2024,
+      "title": "OUT THERE: Crimes of the Paranormal",
+      "aired_episodes": 8
+    },
+    "rank": 63,
+    "id": 1463056251,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33163756",
+        "plex": {
+          "guid": "66bf16583e4755bab4f782c3",
+          "slug": "into-the-fire-the-lost-daughter"
+        },
+        "slug": "into-the-fire-the-lost-daughter",
+        "tmdb": 261649,
+        "tvdb": 453315,
+        "trakt": 252096
+      },
+      "year": 2024,
+      "title": "Into the Fire: The Lost Daughter",
+      "aired_episodes": 2
+    },
+    "rank": 64,
+    "id": 1463056252,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33349065",
+        "plex": {
+          "guid": "66cb28616dd1af64d2e7e28d",
+          "slug": "the-real-murders-on-elm-street"
+        },
+        "slug": "the-real-murders-on-elm-street",
+        "tmdb": 262445,
+        "tvdb": 453276,
+        "trakt": 253155
+      },
+      "year": 2024,
+      "title": "The Real Murders on Elm Street",
+      "aired_episodes": 12
+    },
+    "rank": 65,
+    "id": 1463056253,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33343774",
+        "plex": {
+          "guid": "66bee216af209408d49224be",
+          "slug": "cabin-in-the-woods"
+        },
+        "slug": "cabin-in-the-woods",
+        "tmdb": 261572,
+        "tvdb": 453275,
+        "trakt": 252041
+      },
+      "year": 2024,
+      "title": "Cabin in the Woods",
+      "aired_episodes": 6
+    },
+    "rank": 66,
+    "id": 1463056254,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33081933",
+        "plex": {
+          "guid": "66bb417b16bb2324e7e242c8",
+          "slug": "born-evil-the-serial-killer-and-the-savior"
+        },
+        "slug": "born-evil-the-serial-killer-and-the-savior",
+        "tmdb": 261449,
+        "tvdb": 453191,
+        "trakt": 251852
+      },
+      "year": 2024,
+      "title": "Born Evil: The Serial Killer and the Savior",
+      "aired_episodes": 5
+    },
+    "rank": 67,
+    "id": 1463056255,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32932523",
+        "plex": {
+          "guid": "6699f0178b365400e0c3ccc2",
+          "slug": "worst-ex-ever-1"
+        },
+        "slug": "worst-ex-ever",
+        "tmdb": 259259,
+        "tvdb": 452357,
+        "trakt": 248773
+      },
+      "year": 2024,
+      "title": "Worst Ex Ever",
+      "aired_episodes": 8
+    },
+    "rank": 68,
+    "id": 1463056256,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33079160",
+        "plex": {
+          "guid": "66b2fe791d13e6a7e2c28683",
+          "slug": "american-murder-laci-peterson"
+        },
+        "slug": "american-murder-laci-peterson",
+        "tmdb": 261034,
+        "tvdb": 452965,
+        "trakt": 251287
+      },
+      "year": 2024,
+      "title": "American Murder: Laci Peterson",
+      "aired_episodes": 3
+    },
+    "rank": 69,
+    "id": 1463056257,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32844085",
+        "plex": {
+          "guid": "667dc175976679f449dc90b9",
+          "slug": "the-black-widower-the-six-wives-of-thomas-randolph"
+        },
+        "slug": "the-black-widower-the-six-wives-of-thomas-randolph",
+        "tmdb": 257960,
+        "tvdb": 451859,
+        "trakt": 246395
+      },
+      "year": 2024,
+      "title": "The Black Widower: The Six Wives of Thomas Randolph",
+      "aired_episodes": 3
+    },
+    "rank": 70,
+    "id": 1463056258,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt27712032",
+        "plex": {
+          "guid": "667dc14bac342c72f89e685d",
+          "slug": "the-man-with-1000-kids-1"
+        },
+        "slug": "the-man-with-1000-kids",
+        "tmdb": 257207,
+        "tvdb": 451422,
+        "trakt": 244876
+      },
+      "year": 2024,
+      "title": "The Man with 1000 Kids",
+      "aired_episodes": 3
+    },
+    "rank": 71,
+    "id": 1463056259,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31844445",
+        "plex": {
+          "guid": "667c6ea8651d0459ab69c2b3",
+          "slug": "lucrecia-a-murder-in-madrid"
+        },
+        "slug": "lucrecia-a-murder-in-madrid",
+        "tmdb": 257928,
+        "tvdb": 451636,
+        "trakt": 246463
+      },
+      "year": 2024,
+      "title": "Lucrecia: A Murder in Madrid",
+      "aired_episodes": 4
+    },
+    "rank": 72,
+    "id": 1463056260,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32421513",
+        "plex": {
+          "guid": "6651c399135c7682be0ecd64",
+          "slug": "cult-massacre-one-day-in-jonestown"
+        },
+        "slug": "cult-massacre-one-day-in-jonestown",
+        "tmdb": 255293,
+        "tvdb": 450570,
+        "trakt": 241519
+      },
+      "year": 2024,
+      "title": "Cult Massacre: One Day in Jonestown",
+      "aired_episodes": 3
+    },
+    "rank": 73,
+    "id": 1463056261,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32333081",
+        "plex": {
+          "guid": "664379574ba7eb1e147e5dab",
+          "slug": "deadly-influence-the-social-media-murders"
+        },
+        "slug": "deadly-influence-the-social-media-murders",
+        "tmdb": 255805,
+        "tvdb": 450002,
+        "trakt": 242582
+      },
+      "year": 2024,
+      "title": "Deadly Influence: The Social Media Murders",
+      "aired_episodes": 6
+    },
+    "rank": 74,
+    "id": 1463056262,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32307218",
+        "plex": {
+          "guid": "663557c845f74b3415b72344",
+          "slug": "dancing-for-the-devil-the-7m-tiktok-cult"
+        },
+        "slug": "dancing-for-the-devil-the-7m-tiktok-cult",
+        "tmdb": 253384,
+        "tvdb": 449674,
+        "trakt": 238122
+      },
+      "year": 2024,
+      "title": "Dancing for the Devil: The 7M TikTok Cult",
+      "aired_episodes": 3
+    },
+    "rank": 75,
+    "id": 1463056263,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32203228",
+        "plex": {
+          "guid": "662c0017be48ab862c415324",
+          "slug": "fallen-idols-nick-and-aaron-carter"
+        },
+        "slug": "fallen-idols-nick-and-aaron-carter",
+        "tmdb": 252729,
+        "tvdb": 449394,
+        "trakt": 236972
+      },
+      "year": 2024,
+      "title": "Fallen Idols: Nick and Aaron Carter",
+      "aired_episodes": 4
+    },
+    "rank": 76,
+    "id": 1463056264,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32097426",
+        "plex": {
+          "guid": "6630f173bf2cf3fc032295ca",
+          "slug": "cooking-up-murder-uncovering-the-story-of-cesar-roman"
+        },
+        "slug": "cooking-up-murder-uncovering-the-story-of-cesar-roman",
+        "tmdb": 253485,
+        "tvdb": 449258,
+        "trakt": 238371
+      },
+      "year": 2024,
+      "title": "Cooking Up Murder: Uncovering the Story of César Román",
+      "aired_episodes": 3
+    },
+    "rank": 77,
+    "id": 1463056265,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21148288",
+        "plex": {
+          "guid": "662c12ad3c26e331bd60af33",
+          "slug": "spacey-unmasked"
+        },
+        "slug": "spacey-unmasked",
+        "tmdb": 252727,
+        "tvdb": 449467,
+        "trakt": 236966
+      },
+      "year": 2024,
+      "title": "Spacey Unmasked",
+      "aired_episodes": 2
+    },
+    "rank": 78,
+    "id": 1463056266,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt32283804",
+        "plex": {
+          "guid": "66329fafbec979c9f64043e8",
+          "slug": "people-magazine-investigates-surviving-a-serial-killer"
+        },
+        "slug": "people-magazine-investigates-surviving-a-serial-killer",
+        "tmdb": 253242,
+        "tvdb": 449753,
+        "trakt": 237744
+      },
+      "year": 2024,
+      "title": "People Magazine Investigates: Surviving a Serial Killer",
+      "aired_episodes": 6
+    },
+    "rank": 79,
+    "id": 1463056267,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31842359",
+        "plex": {
+          "guid": "65fd89d0843d9e5b356d3ecb",
+          "slug": "ctrlaltdesire-1"
+        },
+        "slug": "ctrl-alt-desire",
+        "tmdb": 249582,
+        "tvdb": 447950,
+        "trakt": 231720
+      },
+      "year": 2024,
+      "title": "CTRL+ALT+DESIRE",
+      "aired_episodes": 3
+    },
+    "rank": 80,
+    "id": 1463056268,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt33319186",
+        "plex": {
+          "guid": "66e062081311ca353ef305ef",
+          "slug": "the-sancho-case-1"
+        },
+        "slug": "the-sancho-case",
+        "tmdb": 263246,
+        "tvdb": 454070,
+        "trakt": 254269
+      },
+      "year": 2024,
+      "title": "The Sancho Case",
+      "aired_episodes": 4
+    },
+    "rank": 81,
+    "id": 1463056269,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31638758",
+        "plex": {
+          "guid": "65f10eca5ba62a55f8b37a0b",
+          "slug": "files-of-the-unexplained"
+        },
+        "slug": "files-of-the-unexplained",
+        "tmdb": 248795,
+        "tvdb": 447413,
+        "trakt": 230553
+      },
+      "year": 2024,
+      "title": "Files of the Unexplained",
+      "aired_episodes": 8
+    },
+    "rank": 82,
+    "id": 1463056270,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31592633",
+        "plex": {
+          "guid": "65ed307e0881153d344c528d",
+          "slug": "crime-scene-berlin-nightlife-killer"
+        },
+        "slug": "crime-scene-berlin-nightlife-killer",
+        "tmdb": 248470,
+        "tvdb": 447313,
+        "trakt": 229849
+      },
+      "year": 2024,
+      "title": "Crime Scene Berlin: Nightlife Killer",
+      "aired_episodes": 3
+    },
+    "rank": 83,
+    "id": 1463056271,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21822256",
+        "plex": {
+          "guid": "65761311124fdebffbf3af10",
+          "slug": "the-synanon-fix"
+        },
+        "slug": "the-synanon-fix-did-the-cure-become-a-cult",
+        "tmdb": 241230,
+        "tvdb": 447911,
+        "trakt": 231845
+      },
+      "year": 2024,
+      "title": "The Synanon Fix: Did the Cure Become a Cult?",
+      "aired_episodes": 4
+    },
+    "rank": 84,
+    "id": 1463056272,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31556788",
+        "plex": {
+          "guid": "657c4333e1410b8e3e569777",
+          "slug": "lethally-blonde"
+        },
+        "slug": "lethally-blonde",
+        "tmdb": 241513,
+        "tvdb": 444055,
+        "trakt": 227930
+      },
+      "year": 2024,
+      "title": "Lethally Blonde",
+      "aired_episodes": 6
+    },
+    "rank": 85,
+    "id": 1463056273,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31556143",
+        "plex": {
+          "guid": "65e70d02a2bd004a7e6c10cf",
+          "slug": "homicide-2024"
+        },
+        "slug": "homicide-2024",
+        "tmdb": 248126,
+        "tvdb": 447029,
+        "trakt": 229196
+      },
+      "year": 2024,
+      "title": "Homicide",
+      "aired_episodes": 15
+    },
+    "rank": 86,
+    "id": 1463056274,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31193442",
+        "plex": {
+          "guid": "65d1de40cc4a37319ea06b64",
+          "slug": "quiet-on-set-the-dark-side-of-kids-tv-1"
+        },
+        "slug": "quiet-on-set-the-dark-side-of-kids-tv",
+        "tmdb": 245902,
+        "tvdb": 445906,
+        "trakt": 225058
+      },
+      "year": 2024,
+      "title": "Quiet on Set: The Dark Side of Kids TV",
+      "aired_episodes": 5
+    },
+    "rank": 87,
+    "id": 1463056275,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31889191",
+        "plex": {
+          "guid": "65f6c4c6736faae78a263056",
+          "slug": "deadliest-families"
+        },
+        "slug": "deadliest-families",
+        "tmdb": 250109,
+        "tvdb": 447693,
+        "trakt": 232466
+      },
+      "year": 2024,
+      "title": "Deadliest Families",
+      "aired_episodes": 6
+    },
+    "rank": 88,
+    "id": 1463056276,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31069611",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-indrani-mukerjea-story-buried-truth",
+        "tmdb": 246178,
+        "tvdb": 445404,
+        "trakt": 225756
+      },
+      "year": 2024,
+      "title": "The Indrani Mukerjea Story: Buried Truth",
+      "aired_episodes": 4
+    },
+    "rank": 89,
+    "id": 1463056277,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31030101",
+        "plex": {
+          "guid": "65b5ba18b5cab9889434222b",
+          "slug": "american-conspiracy-the-octopus-murders"
+        },
+        "slug": "american-conspiracy-the-octopus-murders",
+        "tmdb": 244616,
+        "tvdb": 445495,
+        "trakt": 221061
+      },
+      "year": 2024,
+      "title": "American Conspiracy: The Octopus Murders",
+      "aired_episodes": 4
+    },
+    "rank": 90,
+    "id": 1463056278,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31035015",
+        "plex": {
+          "guid": "65c178d00e3c488da34e9d44",
+          "slug": "can-i-tell-you-a-secret-1"
+        },
+        "slug": "can-i-tell-you-a-secret",
+        "tmdb": 245551,
+        "tvdb": 445956,
+        "trakt": 224172
+      },
+      "year": 2024,
+      "title": "Can I Tell You a Secret?",
+      "aired_episodes": 2
+    },
+    "rank": 91,
+    "id": 1463056279,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt31114733",
+        "plex": {
+          "guid": "65cf338c55f42c974686d7c2",
+          "slug": "the-truth-about-jim-1"
+        },
+        "slug": "the-truth-about-jim",
+        "tmdb": 245235,
+        "tvdb": 445782,
+        "trakt": 223178
+      },
+      "year": 2024,
+      "title": "The Truth About Jim",
+      "aired_episodes": 4
+    },
+    "rank": 92,
+    "id": 1463056280,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt22797582",
+        "plex": {
+          "guid": "6488fc61d413548bb7997333",
+          "slug": "american-nightmare-2024"
+        },
+        "slug": "american-nightmare-2024",
+        "tmdb": 242845,
+        "tvdb": 435726,
+        "trakt": 219763
+      },
+      "year": 2024,
+      "title": "American Nightmare",
+      "aired_episodes": 3
+    },
+    "rank": 93,
+    "id": 1463056281,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt29627149",
+        "plex": {
+          "guid": "653c57682bab46fd1392214b",
+          "slug": "john-lennon-murder-without-a-trial-1"
+        },
+        "slug": "john-lennon-murder-without-a-trial",
+        "tmdb": 238126,
+        "tvdb": 441373,
+        "trakt": 215535
+      },
+      "year": 2023,
+      "title": "John Lennon: Murder Without a Trial",
+      "aired_episodes": 3
+    },
+    "rank": 94,
+    "id": 1463056282,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt29816747",
+        "plex": {
+          "guid": "654a383566e0f5cb1930ca14",
+          "slug": "murder-in-boston-roots-rampage-and-reckoning"
+        },
+        "slug": "murder-in-boston-roots-rampage-reckoning",
+        "tmdb": 238986,
+        "tvdb": 441993,
+        "trakt": 214017
+      },
+      "year": 2023,
+      "title": "Murder in Boston: Roots, Rampage & Reckoning",
+      "aired_episodes": 3
+    },
+    "rank": 95,
+    "id": 1463056283,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": null,
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "wild-crime-blood-mountain",
+        "tmdb": 240702,
+        "tvdb": null,
+        "trakt": 230145
+      },
+      "year": 2023,
+      "title": "Wild Crime: Blood Mountain",
+      "aired_episodes": 4
+    },
+    "rank": 96,
+    "id": 1463056284,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28197236",
+        "plex": {
+          "guid": "653a6e1f7b35f2456df41ed5",
+          "slug": "bad-surgeon-love-under-the-knife"
+        },
+        "slug": "bad-surgeon-love-under-the-knife",
+        "tmdb": 238959,
+        "tvdb": 441332,
+        "trakt": 212961
+      },
+      "year": 2023,
+      "title": "Bad Surgeon: Love Under the Knife",
+      "aired_episodes": 3
+    },
+    "rank": 97,
+    "id": 1463056285,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt30320447",
+        "plex": {
+          "guid": "65b3bd001803af893418ad04",
+          "slug": "lockerbie-1"
+        },
+        "slug": "lockerbie",
+        "tmdb": 240349,
+        "tvdb": 417078,
+        "trakt": 215275
+      },
+      "year": 2023,
+      "title": "Lockerbie",
+      "aired_episodes": 4
+    },
+    "rank": 98,
+    "id": 1463056286,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt29629798",
+        "plex": {
+          "guid": "65524be54afa7dcdf45ec204",
+          "slug": "good-cop-bad-cop-2"
+        },
+        "slug": "good-cop-bad-cop",
+        "tmdb": 239393,
+        "tvdb": 442036,
+        "trakt": 213115
+      },
+      "year": 2023,
+      "title": "Good Cop, Bad Cop",
+      "aired_episodes": 6
+    },
+    "rank": 99,
+    "id": 1463056287,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21914006",
+        "plex": {
+          "guid": "61fabf259e7e09713da9f407",
+          "slug": "saiyuki-reload-zeroin-1"
+        },
+        "slug": "feds-2023",
+        "tmdb": 238699,
+        "tvdb": 440872,
+        "trakt": 212563
+      },
+      "year": 2023,
+      "title": "FEDS",
+      "aired_episodes": 12
+    },
+    "rank": 100,
+    "id": 1463056288,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28466971",
+        "plex": {
+          "guid": "6535120ff12ffcb6970dc70c",
+          "slug": "till-murder-do-us-part-soering-vs-haysom-1"
+        },
+        "slug": "till-murder-do-us-part-soering-vs-haysom",
+        "tmdb": 237806,
+        "tvdb": 427114,
+        "trakt": 211985
+      },
+      "year": 2023,
+      "title": "Till Murder Do Us Part: Soering vs. Haysom",
+      "aired_episodes": 4
+    },
+    "rank": 101,
+    "id": 1463056289,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt29333646",
+        "plex": {
+          "guid": "651729c106c4584b8e2f8bae",
+          "slug": "get-gotti"
+        },
+        "slug": "get-gotti",
+        "tmdb": 236006,
+        "tvdb": 440345,
+        "trakt": 210559
+      },
+      "year": 2023,
+      "title": "Get Gotti",
+      "aired_episodes": 3
+    },
+    "rank": 102,
+    "id": 1463056290,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt26445771",
+        "plex": {
+          "guid": "64eaafd7a387724f696df20b",
+          "slug": "who-killed-jill-dando"
+        },
+        "slug": "who-killed-jill-dando",
+        "tmdb": 233722,
+        "tvdb": 438735,
+        "trakt": 208727
+      },
+      "year": 2023,
+      "title": "Who Killed Jill Dando?",
+      "aired_episodes": 3
+    },
+    "rank": 103,
+    "id": 1463056291,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28637385",
+        "plex": {
+          "guid": "64d83699b1969778e23d8de0",
+          "slug": "spy-ops-1"
+        },
+        "slug": "spy-ops",
+        "tmdb": 232401,
+        "tvdb": 438219,
+        "trakt": 207896
+      },
+      "year": 2023,
+      "title": "Spy Ops",
+      "aired_episodes": 8
+    },
+    "rank": 104,
+    "id": 1463056292,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15520170",
+        "plex": {
+          "guid": "64c15fee6288ffcdb66774fd",
+          "slug": "wanted-the-escape-of-carlos-ghosn"
+        },
+        "slug": "wanted-the-escape-of-carlos-ghosn",
+        "tmdb": 231319,
+        "tvdb": 437598,
+        "trakt": 207567
+      },
+      "year": 2023,
+      "title": "Wanted: The Escape of Carlos Ghosn",
+      "aired_episodes": 4
+    },
+    "rank": 105,
+    "id": 1463056293,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28457132",
+        "plex": {
+          "guid": "64bc0c75d10f4a2f439de3da",
+          "slug": "the-last-hours-of-mario-biondo"
+        },
+        "slug": "the-last-hours-of-mario-biondo",
+        "tmdb": 231015,
+        "tvdb": 437460,
+        "trakt": 207677
+      },
+      "year": 2023,
+      "title": "The Last Hours of Mario Biondo",
+      "aired_episodes": 3
+    },
+    "rank": 106,
+    "id": 1463056294,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28083302",
+        "plex": {
+          "guid": "62e12c214d9ac7674e47528c",
+          "slug": "demons-and-saviors"
+        },
+        "slug": "demons-saviors",
+        "tmdb": 206817,
+        "tvdb": 437116,
+        "trakt": 206719
+      },
+      "year": 2023,
+      "title": "Demons & Saviors",
+      "aired_episodes": 3
+    },
+    "rank": 107,
+    "id": 1463056295,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28606450",
+        "plex": {
+          "guid": "64c27f0b858fc67f062a3c21",
+          "slug": "does-murder-sleep"
+        },
+        "slug": "does-murder-sleep",
+        "tmdb": 231899,
+        "tvdb": 437631,
+        "trakt": 207739
+      },
+      "year": 2023,
+      "title": "Does Murder Sleep",
+      "aired_episodes": 6
+    },
+    "rank": 108,
+    "id": 1463056296,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28253602",
+        "plex": {
+          "guid": "64a71b5bd149f43ff9e641fc",
+          "slug": "how-to-become-a-cult-leader-1"
+        },
+        "slug": "how-to-become-a-cult-leader",
+        "tmdb": 230043,
+        "tvdb": 436744,
+        "trakt": 207128
+      },
+      "year": 2023,
+      "title": "How to Become a Cult Leader",
+      "aired_episodes": 6
+    },
+    "rank": 109,
+    "id": 1463056297,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28453452",
+        "plex": {
+          "guid": "64bd88cdb17ba9080aff02b3",
+          "slug": "a-body-in-the-basement-1"
+        },
+        "slug": "a-body-in-the-basement",
+        "tmdb": 231034,
+        "tvdb": 437436,
+        "trakt": 207476
+      },
+      "year": 2023,
+      "title": "A Body in the Basement",
+      "aired_episodes": 14
+    },
+    "rank": 110,
+    "id": 1463056298,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28145016",
+        "plex": {
+          "guid": "649698ba4ee4ef6c5d5bc236",
+          "slug": "last-call-when-a-serial-killer-stalked-queer-new-york"
+        },
+        "slug": "last-call-when-a-serial-killer-stalked-queer-new-york",
+        "tmdb": 229166,
+        "tvdb": 436547,
+        "trakt": 207037
+      },
+      "year": 2023,
+      "title": "Last Call: When a Serial Killer Stalked Queer New York",
+      "aired_episodes": 4
+    },
+    "rank": 111,
+    "id": 1463056299,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt27995624",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "548-days-abducted-online",
+        "tmdb": 226645,
+        "tvdb": 435205,
+        "trakt": 206714
+      },
+      "year": 2023,
+      "title": "548 Days: Abducted Online",
+      "aired_episodes": 3
+    },
+    "rank": 112,
+    "id": 1463056300,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt27749701",
+        "plex": {
+          "guid": "63a4dcf2d62d68971abed182",
+          "slug": "the-playing-card-killer"
+        },
+        "slug": "the-playing-card-killer-2023",
+        "tmdb": 229277,
+        "tvdb": 435563,
+        "trakt": 208189
+      },
+      "year": 2023,
+      "title": "The Playing Card Killer",
+      "aired_episodes": 3
+    },
+    "rank": 113,
+    "id": 1463056301,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28094595",
+        "plex": {
+          "guid": "648416d761ecd2cecb3a8906",
+          "slug": "late-night-lockup-1"
+        },
+        "slug": "late-night-lockup",
+        "tmdb": 228243,
+        "tvdb": 435874,
+        "trakt": 206553
+      },
+      "year": 2023,
+      "title": "Late Night Lockup",
+      "aired_episodes": 18
+    },
+    "rank": 114,
+    "id": 1463056302,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt28099507",
+        "plex": {
+          "guid": "647fb37463ffb137b8db4021",
+          "slug": "married-to-evil-1"
+        },
+        "slug": "married-to-evil",
+        "tmdb": 227971,
+        "tvdb": 435453,
+        "trakt": 206680
+      },
+      "year": 2023,
+      "title": "Married to Evil",
+      "aired_episodes": 12
+    },
+    "rank": 115,
+    "id": 1463056303,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt27612322",
+        "plex": {
+          "guid": "644bcb9f94aaf9e321fee5e7",
+          "slug": "missing-dead-or-alive"
+        },
+        "slug": "missing-dead-or-alive",
+        "tmdb": 225351,
+        "tvdb": 434245,
+        "trakt": 204794
+      },
+      "year": 2023,
+      "title": "Missing: Dead or Alive?",
+      "aired_episodes": 8
+    },
+    "rank": 116,
+    "id": 1463056304,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt27142031",
+        "plex": {
+          "guid": "641298955d79dfd198236ae2",
+          "slug": "american-manhunt-the-boston-marathon-bombing"
+        },
+        "slug": "american-manhunt-the-boston-marathon-bombing",
+        "tmdb": 222314,
+        "tvdb": 432470,
+        "trakt": 203265
+      },
+      "year": 2023,
+      "title": "American Manhunt: The Boston Marathon Bombing",
+      "aired_episodes": 3
+    },
+    "rank": 117,
+    "id": 1463056305,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt26901662",
+        "plex": {
+          "guid": "640ebf2ad7d42a06909073e9",
+          "slug": "the-lesson-is-murder"
+        },
+        "slug": "the-lesson-is-murder",
+        "tmdb": 222390,
+        "tvdb": 432136,
+        "trakt": 203276
+      },
+      "year": 2023,
+      "title": "The Lesson Is Murder",
+      "aired_episodes": 3
+    },
+    "rank": 118,
+    "id": 1463056306,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt26687196",
+        "plex": {
+          "guid": "63e960da30eea9f6d8e8944c",
+          "slug": "waco-american-apocalypse"
+        },
+        "slug": "waco-american-apocalypse",
+        "tmdb": 220229,
+        "tvdb": 431010,
+        "trakt": 202585
+      },
+      "year": 2023,
+      "title": "Waco: American Apocalypse",
+      "aired_episodes": 3
+    },
+    "rank": 119,
+    "id": 1463056307,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt26742875",
+        "plex": {
+          "guid": "63fb30b8c7f6f301452c3dcb",
+          "slug": "mean-girl-murders"
+        },
+        "slug": "mean-girl-murders",
+        "tmdb": 221121,
+        "tvdb": 431197,
+        "trakt": 203210
+      },
+      "year": 2023,
+      "title": "Mean Girl Murders",
+      "aired_episodes": 28
+    },
+    "rank": 120,
+    "id": 1463056308,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt26753472",
+        "plex": {
+          "guid": "63e999bab64fe64108b14f16",
+          "slug": "jared-from-subway-catching-a-monster"
+        },
+        "slug": "jared-from-subway-catching-a-monster",
+        "tmdb": 221181,
+        "tvdb": 431011,
+        "trakt": 203046
+      },
+      "year": 2023,
+      "title": "Jared from Subway: Catching a Monster",
+      "aired_episodes": 3
+    },
+    "rank": 121,
+    "id": 1463056309,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt26340363",
+        "plex": {
+          "guid": "63c8925cefa9d5bdf7edeb28",
+          "slug": "in-the-name-of-god-a-holy-betrayal"
+        },
+        "slug": "in-the-name-of-god-a-holy-betrayal",
+        "tmdb": 218476,
+        "tvdb": 429826,
+        "trakt": 202772
+      },
+      "year": 2023,
+      "title": "In the Name of God: A Holy Betrayal",
+      "aired_episodes": 8
+    },
+    "rank": 122,
+    "id": 1463056310,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt26595396",
+        "plex": {
+          "guid": "63fa20a475340c236c7c0667",
+          "slug": "monique-olivier-accessory-to-evil-1"
+        },
+        "slug": "monique-olivier-accessory-to-evil",
+        "tmdb": 221048,
+        "tvdb": 431184,
+        "trakt": 202918
+      },
+      "year": 2023,
+      "title": "Monique Olivier: Accessory to Evil",
+      "aired_episodes": 5
+    },
+    "rank": 123,
+    "id": 1463056311,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt26340238",
+        "plex": {
+          "guid": "63c74d3d58a1157f222bde84",
+          "slug": "murdaugh-murders-a-southern-scandal"
+        },
+        "slug": "murdaugh-murders-a-southern-scandal",
+        "tmdb": 218530,
+        "tvdb": 429854,
+        "trakt": 201737
+      },
+      "year": 2023,
+      "title": "Murdaugh Murders: A Southern Scandal",
+      "aired_episodes": 6
+    },
+    "rank": 124,
+    "id": 1463056312,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11595808",
+        "plex": {
+          "guid": "63e6f245ccec8018ef801e07",
+          "slug": "still-missing-morgan"
+        },
+        "slug": "still-missing-morgan",
+        "tmdb": 220155,
+        "tvdb": 430945,
+        "trakt": 202430
+      },
+      "year": 2023,
+      "title": "Still Missing Morgan",
+      "aired_episodes": 4
+    },
+    "rank": 125,
+    "id": 1463056313,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt23330464",
+        "plex": {
+          "guid": "63988d9a0c747cb480d01fd2",
+          "slug": "stolen-youth-inside-the-cult-at-sarah-lawrence"
+        },
+        "slug": "stolen-youth-inside-the-cult-at-sarah-lawrence",
+        "tmdb": 216315,
+        "tvdb": 428318,
+        "trakt": 200693
+      },
+      "year": 2023,
+      "title": "Stolen Youth: Inside the Cult at Sarah Lawrence",
+      "aired_episodes": 3
+    },
+    "rank": 126,
+    "id": 1463056314,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt24246984",
+        "plex": {
+          "guid": "63b5cc6249c493be8a750806",
+          "slug": "killing-county-1"
+        },
+        "slug": "killing-county",
+        "tmdb": 217615,
+        "tvdb": 428465,
+        "trakt": 201496
+      },
+      "year": 2023,
+      "title": "Killing County",
+      "aired_episodes": 3
+    },
+    "rank": 127,
+    "id": 1463056315,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt26672508",
+        "plex": {
+          "guid": "605a33f4d4d720002dbc6e06",
+          "slug": "the-playboy-murders-1"
+        },
+        "slug": "the-playboy-murders",
+        "tmdb": 218982,
+        "tvdb": 428875,
+        "trakt": 201925
+      },
+      "year": 2023,
+      "title": "The Playboy Murders",
+      "aired_episodes": 19
+    },
+    "rank": 128,
+    "id": 1463056316,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt26228446",
+        "plex": {
+          "guid": "63ced4fefd7242336ed72e19",
+          "slug": "death-by-fame-1"
+        },
+        "slug": "death-by-fame",
+        "tmdb": 218835,
+        "tvdb": 428876,
+        "trakt": 201874
+      },
+      "year": 2023,
+      "title": "Death by Fame",
+      "aired_episodes": 22
+    },
+    "rank": 129,
+    "id": 1463056317,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt24246986",
+        "plex": {
+          "guid": "63b5cc60aa5da663f4933aaa",
+          "slug": "web-of-death-1"
+        },
+        "slug": "web-of-death",
+        "tmdb": 217616,
+        "tvdb": 428464,
+        "trakt": 201753
+      },
+      "year": 2023,
+      "title": "Web of Death",
+      "aired_episodes": 6
+    },
+    "rank": 130,
+    "id": 1463056318,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt25050236",
+        "plex": {
+          "guid": "639d29372ae470d73b52acb5",
+          "slug": "how-i-caught-my-killer"
+        },
+        "slug": "how-i-caught-my-killer",
+        "tmdb": 217448,
+        "tvdb": 428463,
+        "trakt": 201393
+      },
+      "year": 2023,
+      "title": "How I Caught My Killer",
+      "aired_episodes": 19
+    },
+    "rank": 131,
+    "id": 1463056319,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt23732458",
+        "plex": {
+          "guid": "63929b60317cdb9876e3602b",
+          "slug": "madoff-the-monster-of-wall-street"
+        },
+        "slug": "madoff-the-monster-of-wall-street",
+        "tmdb": 216005,
+        "tvdb": 428125,
+        "trakt": 200575
+      },
+      "year": 2023,
+      "title": "Madoff: The Monster of Wall Street",
+      "aired_episodes": 4
+    },
+    "rank": 132,
+    "id": 1463056320,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt23751640",
+        "plex": {
+          "guid": "6387bcf6905fcb1ccf3393fa",
+          "slug": "beast-of-bangalore-indian-predator"
+        },
+        "slug": "beast-of-bangalore-indian-predator",
+        "tmdb": 215871,
+        "tvdb": 427824,
+        "trakt": 200476
+      },
+      "year": 2022,
+      "title": "Beast of Bangalore: Indian Predator",
+      "aired_episodes": 3
+    },
+    "rank": 133,
+    "id": 1463056321,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt24221310",
+        "plex": {
+          "guid": "639875e86a190b58225808aa",
+          "slug": "real-time-crime"
+        },
+        "slug": "real-time-crime",
+        "tmdb": 216516,
+        "tvdb": 428311,
+        "trakt": 200783
+      },
+      "year": 2022,
+      "title": "Real Time Crime",
+      "aired_episodes": 16
+    },
+    "rank": 134,
+    "id": 1463056322,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt23667804",
+        "plex": {
+          "guid": "63753809ce5fe4bbb058caba",
+          "slug": "unveiled-surviving-la-luz-del-mundo"
+        },
+        "slug": "unveiled-surviving-la-luz-del-mundo",
+        "tmdb": 214509,
+        "tvdb": 427301,
+        "trakt": 200114
+      },
+      "year": 2022,
+      "title": "Unveiled: Surviving La Luz del Mundo",
+      "aired_episodes": 3
+    },
+    "rank": 135,
+    "id": 1463056323,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt23553310",
+        "plex": {
+          "guid": "6000d4f83f6fd2002beee6ca",
+          "slug": "crime-scene-1"
+        },
+        "slug": "crime-scene-the-texas-killing-fields",
+        "tmdb": 214180,
+        "tvdb": 446956,
+        "trakt": 199747
+      },
+      "year": 2022,
+      "title": "Crime Scene: The Texas Killing Fields",
+      "aired_episodes": 3
+    },
+    "rank": 136,
+    "id": 1463056324,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt23569850",
+        "plex": {
+          "guid": "637aff3671dc465bbea0cfeb",
+          "slug": "the-confession-2022"
+        },
+        "slug": "the-confession-2022",
+        "tmdb": 215069,
+        "tvdb": 427438,
+        "trakt": 200017
+      },
+      "year": 2022,
+      "title": "The Confession",
+      "aired_episodes": 2
+    },
+    "rank": 137,
+    "id": 1463056325,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt26676711",
+        "plex": {
+          "guid": "6371a763baa12f7a135b8c22",
+          "slug": "inside-the-heist"
+        },
+        "slug": "inside-the-heist",
+        "tmdb": 214627,
+        "tvdb": 427165,
+        "trakt": 199857
+      },
+      "year": 2022,
+      "title": "Inside the Heist",
+      "aired_episodes": 6
+    },
+    "rank": 138,
+    "id": 1463056326,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt22646714",
+        "plex": {
+          "guid": "63432fb80743b10ec08d7b68",
+          "slug": "killer-sally"
+        },
+        "slug": "killer-sally",
+        "tmdb": 212870,
+        "tvdb": 425843,
+        "trakt": 199168
+      },
+      "year": 2022,
+      "title": "Killer Sally",
+      "aired_episodes": 3
+    },
+    "rank": 139,
+    "id": 1463056327,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt22756480",
+        "plex": {
+          "guid": "634c45164f1b50691c81d953",
+          "slug": "indian-predator-murder-in-a-courtroom-1"
+        },
+        "slug": "indian-predator-murder-in-a-courtroom",
+        "tmdb": 213345,
+        "tvdb": 426058,
+        "trakt": 199352
+      },
+      "year": 2022,
+      "title": "Indian Predator: Murder in a Courtroom",
+      "aired_episodes": 3
+    },
+    "rank": 140,
+    "id": 1463056328,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt23826740",
+        "plex": {
+          "guid": "6387f46983e6b2e62d6d2270",
+          "slug": "pervert-hunting-the-strip-search-caller-1"
+        },
+        "slug": "pervert-hunting-the-strip-search-caller",
+        "tmdb": 215117,
+        "tvdb": 427843,
+        "trakt": 200708
+      },
+      "year": 2022,
+      "title": "Pervert: Hunting the Strip Search Caller",
+      "aired_episodes": 3
+    },
+    "rank": 141,
+    "id": 1463056329,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt22746676",
+        "plex": {
+          "guid": "634848aa2794b720a96adb1a",
+          "slug": "vatican-girl-the-disappearance-of-emanuela-orlandi"
+        },
+        "slug": "vatican-girl-the-disappearance-of-emanuela-orlandi",
+        "tmdb": 212186,
+        "tvdb": 425946,
+        "trakt": 198901
+      },
+      "year": 2022,
+      "title": "Vatican Girl: The Disappearance of Emanuela Orlandi",
+      "aired_episodes": 4
+    },
+    "rank": 142,
+    "id": 1463056330,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15553888",
+        "plex": {
+          "guid": "635d7397218b4e757d54ee06",
+          "slug": "i-am-a-stalker-1"
+        },
+        "slug": "i-am-a-stalker",
+        "tmdb": 213333,
+        "tvdb": 425346,
+        "trakt": 199340
+      },
+      "year": 2022,
+      "title": "I Am a Stalker",
+      "aired_episodes": 8
+    },
+    "rank": 143,
+    "id": 1463056331,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21946032",
+        "plex": {
+          "guid": "630df3d33786a483af494ff0",
+          "slug": "conversations-with-a-killer-the-jeffrey-dahmer-tapes"
+        },
+        "slug": "conversations-with-a-killer-the-jeffrey-dahmer-tapes",
+        "tmdb": 209167,
+        "tvdb": 424072,
+        "trakt": 198486
+      },
+      "year": 2022,
+      "title": "Conversations with a Killer: The Jeffrey Dahmer Tapes",
+      "aired_episodes": 3
+    },
+    "rank": 144,
+    "id": 1463056332,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt22175810",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-survivors-colonia-dignidad",
+        "tmdb": 211192,
+        "tvdb": 426523,
+        "trakt": 198721
+      },
+      "year": 2022,
+      "title": "The Survivors: Colonia Dignidad",
+      "aired_episodes": 5
+    },
+    "rank": 145,
+    "id": 1463056333,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21340378",
+        "plex": {
+          "guid": "62cb116772b359f3b8474340",
+          "slug": "fortune-seller-a-tv-scam"
+        },
+        "slug": "fortune-seller-a-tv-scam",
+        "tmdb": 205657,
+        "tvdb": 422638,
+        "trakt": 197034
+      },
+      "year": 2022,
+      "title": "Fortune Seller: A TV Scam",
+      "aired_episodes": 4
+    },
+    "rank": 146,
+    "id": 1463056334,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21867596",
+        "plex": {
+          "guid": "63074e88290d89c879eca17a",
+          "slug": "sins-of-our-mother-1"
+        },
+        "slug": "sins-of-our-mother",
+        "tmdb": 208720,
+        "tvdb": 423782,
+        "trakt": 197679
+      },
+      "year": 2022,
+      "title": "Sins of Our Mother",
+      "aired_episodes": 3
+    },
+    "rank": 147,
+    "id": 1463056335,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt22079254",
+        "plex": {
+          "guid": "63212710f2be59c4500ebae5",
+          "slug": "stolen-catching-the-art-thieves-2"
+        },
+        "slug": "stolen-catching-the-art-thieves",
+        "tmdb": 210049,
+        "tvdb": 424637,
+        "trakt": 198462
+      },
+      "year": 2022,
+      "title": "Stolen: Catching the Art Thieves",
+      "aired_episodes": 3
+    },
+    "rank": 148,
+    "id": 1463056336,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21811888",
+        "plex": {
+          "guid": "6302057ba7a864b0a770da86",
+          "slug": "indian-predator-the-diary-of-a-serial-killer-1"
+        },
+        "slug": "indian-predator-the-diary-of-a-serial-killer",
+        "tmdb": 208130,
+        "tvdb": 423673,
+        "trakt": 197621
+      },
+      "year": 2022,
+      "title": "Indian Predator: The Diary of a Serial Killer",
+      "aired_episodes": 3
+    },
+    "rank": 149,
+    "id": 1463056337,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21388530",
+        "plex": {
+          "guid": "62e95e84a950a41ea51fdaa3",
+          "slug": "a-kidnapping-scandal-the-florence-cassez-affair"
+        },
+        "slug": "a-kidnapping-scandal-the-florence-cassez-affair",
+        "tmdb": 207242,
+        "tvdb": 423012,
+        "trakt": 197231
+      },
+      "year": 2022,
+      "title": "A Kidnapping Scandal: The Florence Cassez Affair",
+      "aired_episodes": 5
+    },
+    "rank": 150,
+    "id": 1463056338,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21841018",
+        "plex": {
+          "guid": "63074e861d41d5afc66df8a4",
+          "slug": "devil-in-suburbia-1"
+        },
+        "slug": "devil-in-suburbia",
+        "tmdb": 208721,
+        "tvdb": 422670,
+        "trakt": 197677
+      },
+      "year": 2022,
+      "title": "Devil In Suburbia",
+      "aired_episodes": 6
+    },
+    "rank": 151,
+    "id": 1463056339,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21315194",
+        "plex": {
+          "guid": "62dc2c11137cc1ba2d082ff7",
+          "slug": "i-just-killed-my-dad-1"
+        },
+        "slug": "i-just-killed-my-dad",
+        "tmdb": 206492,
+        "tvdb": 422516,
+        "trakt": 197138
+      },
+      "year": 2022,
+      "title": "I Just Killed My Dad",
+      "aired_episodes": 3
+    },
+    "rank": 152,
+    "id": 1463056340,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21098728",
+        "plex": {
+          "guid": "62b45d09e588a4ac9fa75560",
+          "slug": "the-most-hated-man-on-the-internet"
+        },
+        "slug": "the-most-hated-man-on-the-internet",
+        "tmdb": 205106,
+        "tvdb": 421574,
+        "trakt": 196570
+      },
+      "year": 2022,
+      "title": "The Most Hated Man on the Internet",
+      "aired_episodes": 3
+    },
+    "rank": 153,
+    "id": 1463056341,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt14178824",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "indian-predator-the-butcher-of-delhi",
+        "tmdb": 205434,
+        "tvdb": 421730,
+        "trakt": 196669
+      },
+      "year": 2022,
+      "title": "Indian Predator: The Butcher of Delhi",
+      "aired_episodes": 3
+    },
+    "rank": 154,
+    "id": 1463056342,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt21063148",
+        "plex": {
+          "guid": "62ac8709dfd87959d693fa48",
+          "slug": "d-b-cooper-where-are-you"
+        },
+        "slug": "d-b-cooper-where-are-you",
+        "tmdb": 204302,
+        "tvdb": 421328,
+        "trakt": 196391
+      },
+      "year": 2022,
+      "title": "D.B. Cooper: Where Are You?!",
+      "aired_episodes": 4
+    },
+    "rank": 155,
+    "id": 1463056343,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt20782578",
+        "plex": {
+          "guid": "6298d999b79ed6b398ce37df",
+          "slug": "mind-over-murder"
+        },
+        "slug": "mind-over-murder",
+        "tmdb": 203282,
+        "tvdb": 420928,
+        "trakt": 196174
+      },
+      "year": 2022,
+      "title": "Mind Over Murder",
+      "aired_episodes": 6
+    },
+    "rank": 156,
+    "id": 1463056344,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt20202860",
+        "plex": {
+          "guid": "6290fe1d5f6ae4e14f0e8169",
+          "slug": "murdaugh-murders-deadly-dynasty"
+        },
+        "slug": "murdaugh-murders-deadly-dynasty",
+        "tmdb": 202884,
+        "tvdb": 420688,
+        "trakt": 196371
+      },
+      "year": 2022,
+      "title": "Murdaugh Murders: Deadly Dynasty",
+      "aired_episodes": 3
+    },
+    "rank": 157,
+    "id": 1463056345,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt20602042",
+        "plex": {
+          "guid": "6290fe1cec0f243a3e1a0e4d",
+          "slug": "web-of-make-believe-death-lies-and-the-internet-1"
+        },
+        "slug": "web-of-make-believe-death-lies-and-the-internet",
+        "tmdb": 202886,
+        "tvdb": 420589,
+        "trakt": 195718
+      },
+      "year": 2022,
+      "title": "Web of Make Believe: Death, Lies and the Internet",
+      "aired_episodes": 6
+    },
+    "rank": 158,
+    "id": 1463056346,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt20560404",
+        "plex": {
+          "guid": "6290fe1e40eb5094ccc28299",
+          "slug": "keep-sweet-pray-and-obey-1"
+        },
+        "slug": "keep-sweet-pray-and-obey",
+        "tmdb": 202880,
+        "tvdb": 420590,
+        "trakt": 195709
+      },
+      "year": 2022,
+      "title": "Keep Sweet: Pray and Obey",
+      "aired_episodes": 4
+    },
+    "rank": 159,
+    "id": 1463056347,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt20454248",
+        "plex": {
+          "guid": "628518a95965af3419367f8e",
+          "slug": "keeper-of-the-ashes-the-oklahoma-girl-scout-murders-1"
+        },
+        "slug": "keeper-of-the-ashes-the-oklahoma-girl-scout-murders",
+        "tmdb": 202173,
+        "tvdb": 420215,
+        "trakt": 195672
+      },
+      "year": 2022,
+      "title": "Keeper of the Ashes: The Oklahoma Girl Scout Murders",
+      "aired_episodes": 4
+    },
+    "rank": 160,
+    "id": 1463056348,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8405624",
+        "plex": {
+          "guid": "6279427abcedf74f79c41662",
+          "slug": "two-shallow-graves-the-mcstay-family-murders"
+        },
+        "slug": "two-shallow-graves",
+        "tmdb": 202761,
+        "tvdb": 419941,
+        "trakt": 195745
+      },
+      "year": 2022,
+      "title": "Two Shallow Graves",
+      "aired_episodes": 7
+    },
+    "rank": 161,
+    "id": 1463056349,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt18265020",
+        "plex": {
+          "guid": "62110c7d3c1f196025278728",
+          "slug": "the-big-conn"
+        },
+        "slug": "the-big-conn",
+        "tmdb": 158333,
+        "tvdb": 416610,
+        "trakt": 193581
+      },
+      "year": 2022,
+      "title": "The Big Conn",
+      "aired_episodes": 4
+    },
+    "rank": 162,
+    "id": 1463056350,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15039492",
+        "plex": {
+          "guid": "626976f4215dc1a449c75a05",
+          "slug": "the-real-bling-ring-hollywood-heist-1"
+        },
+        "slug": "bling-ring-hollywood-heist",
+        "tmdb": 199935,
+        "tvdb": 419422,
+        "trakt": 195025
+      },
+      "year": 2022,
+      "title": "Bling Ring: Hollywood Heist",
+      "aired_episodes": 3
+    },
+    "rank": 163,
+    "id": 1463056351,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15185666",
+        "plex": {
+          "guid": "6239a087d30e742a614f7553",
+          "slug": "captive-audience-a-real-american-horror-story"
+        },
+        "slug": "captive-audience-a-real-american-horror-story",
+        "tmdb": 195420,
+        "tvdb": 418061,
+        "trakt": 194621
+      },
+      "year": 2022,
+      "title": "Captive Audience: A Real American Horror Story",
+      "aired_episodes": 3
+    },
+    "rank": 164,
+    "id": 1463056352,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt18970124",
+        "plex": {
+          "guid": "6242e4f2e1729c08d62af7c0",
+          "slug": "conversations-with-a-killer-the-john-wayne-gacy-tapes"
+        },
+        "slug": "conversations-with-a-killer-the-john-wayne-gacy-tapes",
+        "tmdb": 197248,
+        "tvdb": 418354,
+        "trakt": 194657
+      },
+      "year": 2022,
+      "title": "Conversations with a Killer: The John Wayne Gacy Tapes",
+      "aired_episodes": 3
+    },
+    "rank": 165,
+    "id": 1463056353,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt18954258",
+        "plex": {
+          "guid": "623c7cdd3fe5aecede069c2b",
+          "slug": "senzo-murder-of-a-soccer-star"
+        },
+        "slug": "senzo-murder-of-a-soccer-star",
+        "tmdb": 195925,
+        "tvdb": 418151,
+        "trakt": 194238
+      },
+      "year": 2022,
+      "title": "Senzo: Murder of a Soccer Star",
+      "aired_episodes": 5
+    },
+    "rank": 166,
+    "id": 1463056354,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt18970454",
+        "plex": {
+          "guid": "6241fc3c1785df12d173c640",
+          "slug": "jimmy-savile-a-british-horror-story"
+        },
+        "slug": "jimmy-savile-a-british-horror-story",
+        "tmdb": 196122,
+        "tvdb": 418105,
+        "trakt": 194447
+      },
+      "year": 2022,
+      "title": "Jimmy Savile: A British Horror Story",
+      "aired_episodes": 2
+    },
+    "rank": 167,
+    "id": 1463056355,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt18274172",
+        "plex": {
+          "guid": "621f95b8a60eecec496b0878",
+          "slug": "the-great-robbery-of-brazils-central-bank"
+        },
+        "slug": "hei-t-the-great-robbery-of-brazil-s-central-bank",
+        "tmdb": 158762,
+        "tvdb": 416536,
+        "trakt": 193754
+      },
+      "year": 2022,
+      "title": "Hei$t: The Great Robbery of Brazil's Central Bank",
+      "aired_episodes": 3
+    },
+    "rank": 168,
+    "id": 1463056356,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt18260538",
+        "plex": {
+          "guid": "6151a61ff02928b8537f7a15",
+          "slug": "bad-vegan-fame-fraud-fugitives"
+        },
+        "slug": "bad-vegan-fame-fraud-fugitives",
+        "tmdb": 157709,
+        "tvdb": 410441,
+        "trakt": 188553
+      },
+      "year": 2022,
+      "title": "Bad Vegan: Fame. Fraud. Fugitives.",
+      "aired_episodes": 4
+    },
+    "rank": 169,
+    "id": 1463056357,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt18412630",
+        "plex": {
+          "guid": "623b4fefd99152d977598452",
+          "slug": "caught-in-the-net"
+        },
+        "slug": "caught-in-the-net",
+        "tmdb": 195754,
+        "tvdb": 417811,
+        "trakt": 194213
+      },
+      "year": 2022,
+      "title": "Caught in the Net",
+      "aired_episodes": 14
+    },
+    "rank": 170,
+    "id": 1463056358,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt18412604",
+        "plex": {
+          "guid": "6224c3a2b15db3d7bd1123bf",
+          "slug": "crime-scene-confidential-1"
+        },
+        "slug": "crime-scene-confidential",
+        "tmdb": 171398,
+        "tvdb": 416743,
+        "trakt": 193832
+      },
+      "year": 2022,
+      "title": "Crime Scene Confidential",
+      "aired_episodes": 14
+    },
+    "rank": 171,
+    "id": 1463056359,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt18361656",
+        "plex": {
+          "guid": "621f487178ec44804cbc6e09",
+          "slug": "undercurrent-the-disappearance-of-kim-wall"
+        },
+        "slug": "undercurrent-the-disappearance-of-kim-wall",
+        "tmdb": 158787,
+        "tvdb": 417327,
+        "trakt": 193769
+      },
+      "year": 2022,
+      "title": "Undercurrent: The Disappearance of Kim Wall",
+      "aired_episodes": 2
+    },
+    "rank": 172,
+    "id": 1463056360,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8323702",
+        "plex": {
+          "guid": "61f6a14286c971c95cb31f56",
+          "slug": "worst-roommate-ever"
+        },
+        "slug": "worst-roommate-ever",
+        "tmdb": 156595,
+        "tvdb": 415503,
+        "trakt": 192962
+      },
+      "year": 2022,
+      "title": "Worst Roommate Ever",
+      "aired_episodes": 9
+    },
+    "rank": 173,
+    "id": 1463056361,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt18083512",
+        "plex": {
+          "guid": "61f939ac6555a63dad42c769",
+          "slug": "murder-in-the-valleys"
+        },
+        "slug": "murder-in-the-valleys",
+        "tmdb": 157275,
+        "tvdb": 415501,
+        "trakt": 193249
+      },
+      "year": 2022,
+      "title": "Murder In The Valleys",
+      "aired_episodes": 4
+    },
+    "rank": 174,
+    "id": 1463056362,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15479704",
+        "plex": {
+          "guid": "6151a64bd485e6b9ff77db58",
+          "slug": "the-puppet-master-hunting-the-ultimate-conman"
+        },
+        "slug": "the-puppet-master-hunting-the-ultimate-conman",
+        "tmdb": 153574,
+        "tvdb": 410442,
+        "trakt": 188560
+      },
+      "year": 2022,
+      "title": "The Puppet Master: Hunting the Ultimate Conman",
+      "aired_episodes": 3
+    },
+    "rank": 175,
+    "id": 1463056363,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt16527056",
+        "plex": {
+          "guid": "61bddddd6fe1ffe4778b72d3",
+          "slug": "murder-under-the-friday-night-lights"
+        },
+        "slug": "murder-under-the-friday-night-lights",
+        "tmdb": 154877,
+        "tvdb": 413532,
+        "trakt": 192273
+      },
+      "year": 2022,
+      "title": "Murder Under the Friday Night Lights",
+      "aired_episodes": 30
+    },
+    "rank": 176,
+    "id": 1463056364,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt16027926",
+        "plex": {
+          "guid": "6000d4f83f6fd2002beee6ca",
+          "slug": "crime-scene-1"
+        },
+        "slug": "crime-scene-the-times-square-killer",
+        "tmdb": 153588,
+        "tvdb": null,
+        "trakt": 191879
+      },
+      "year": 2021,
+      "title": "Crime Scene: The Times Square Killer",
+      "aired_episodes": 3
+    },
+    "rank": 177,
+    "id": 1463056365,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt16311226",
+        "plex": {
+          "guid": "61cdaeab6bb8e8560170736a",
+          "slug": "the-hillside-strangler"
+        },
+        "slug": "the-hillside-strangler",
+        "tmdb": 154388,
+        "tvdb": 413980,
+        "trakt": 192164
+      },
+      "year": 2021,
+      "title": "The Hillside Strangler",
+      "aired_episodes": 3
+    },
+    "rank": 178,
+    "id": 1463056366,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8045494",
+        "plex": {
+          "guid": "61b0d099f4d0c03a3add36ed",
+          "slug": "the-murders-at-starved-rock"
+        },
+        "slug": "the-murders-at-starved-rock",
+        "tmdb": 139086,
+        "tvdb": 412398,
+        "trakt": 191314
+      },
+      "year": 2021,
+      "title": "The Murders at Starved Rock",
+      "aired_episodes": 3
+    },
+    "rank": 179,
+    "id": 1463056367,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt16742878",
+        "plex": {
+          "guid": "61b4b8ae035ea15d1990b303",
+          "slug": "ken-and-barbie-killers-the-lost-murder-tapes"
+        },
+        "slug": "ken-and-barbie-killers-the-lost-murder-tapes",
+        "tmdb": 153263,
+        "tvdb": 412667,
+        "trakt": 191721
+      },
+      "year": 2021,
+      "title": "Ken and Barbie Killers: The Lost Murder Tapes",
+      "aired_episodes": 4
+    },
+    "rank": 180,
+    "id": 1463056368,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt16269820",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "deadliest-mums-dads",
+        "tmdb": 202818,
+        "tvdb": 413927,
+        "trakt": 196677
+      },
+      "year": 2021,
+      "title": "Deadliest Mums & Dads",
+      "aired_episodes": 13
+    },
+    "rank": 181,
+    "id": 1463056369,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15771888",
+        "plex": {
+          "guid": "617d67a9aa77303543e52d67",
+          "slug": "dig-deeper-the-disappearance-of-birgit-meier"
+        },
+        "slug": "dig-deeper-the-disappearance-of-birgit-meier",
+        "tmdb": 137903,
+        "tvdb": 411945,
+        "trakt": 190640
+      },
+      "year": 2021,
+      "title": "Dig Deeper: The Disappearance of Birgit Meier",
+      "aired_episodes": 4
+    },
+    "rank": 182,
+    "id": 1463056370,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt16113748",
+        "plex": {
+          "guid": "6197a2238cc9eb2d13ca6fde",
+          "slug": "city-of-angels-or-city-of-death"
+        },
+        "slug": "city-of-angels-city-of-death",
+        "tmdb": 138999,
+        "tvdb": 412638,
+        "trakt": 191286
+      },
+      "year": 2021,
+      "title": "City of Angels | City of Death",
+      "aired_episodes": 6
+    },
+    "rank": 183,
+    "id": 1463056371,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt16102994",
+        "plex": {
+          "guid": "619132aeaf74f179227311d3",
+          "slug": "anni-the-honeymoon-murder"
+        },
+        "slug": "anni-the-honeymoon-murder",
+        "tmdb": 138562,
+        "tvdb": 412546,
+        "trakt": 191241
+      },
+      "year": 2021,
+      "title": "Anni: The Honeymoon Murder",
+      "aired_episodes": 4
+    },
+    "rank": 184,
+    "id": 1463056372,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15796898",
+        "plex": {
+          "guid": "617c0e91aa77303543d44193",
+          "slug": "where-is-marta"
+        },
+        "slug": "where-is-marta",
+        "tmdb": 137899,
+        "tvdb": 411920,
+        "trakt": 190631
+      },
+      "year": 2021,
+      "title": "Where Is Marta?",
+      "aired_episodes": 3
+    },
+    "rank": 185,
+    "id": 1463056373,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15723914",
+        "plex": {
+          "guid": "617168bad72a4458c9037b42",
+          "slug": "catching-killers-2021"
+        },
+        "slug": "catching-killers",
+        "tmdb": 137003,
+        "tvdb": 411637,
+        "trakt": 190194
+      },
+      "year": 2021,
+      "title": "Catching Killers",
+      "aired_episodes": 12
+    },
+    "rank": 186,
+    "id": 1463056374,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15599274",
+        "plex": {
+          "guid": "616d4facc87118cb15b732b3",
+          "slug": "love-honor-betray"
+        },
+        "slug": "love-honor-betray",
+        "tmdb": 138057,
+        "tvdb": 411532,
+        "trakt": 189999
+      },
+      "year": 2021,
+      "title": "Love, Honor, Betray",
+      "aired_episodes": 6
+    },
+    "rank": 187,
+    "id": 1463056375,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15588682",
+        "plex": {
+          "guid": "616d4faac87118cb15b732ae",
+          "slug": "undercover-underage"
+        },
+        "slug": "undercover-underage",
+        "tmdb": 137527,
+        "tvdb": 411529,
+        "trakt": 189988
+      },
+      "year": 2021,
+      "title": "Undercover Underage",
+      "aired_episodes": 14
+    },
+    "rank": 188,
+    "id": 1463056376,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt14961752",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "dolores-the-truth-about-the-wanninkhof-case",
+        "tmdb": 137168,
+        "tvdb": 405850,
+        "trakt": 188886
+      },
+      "year": 2021,
+      "title": "Dolores: The Truth About the Wanninkhof Case",
+      "aired_episodes": 6
+    },
+    "rank": 189,
+    "id": 1463056377,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15484900",
+        "plex": {
+          "guid": "615080eff02928b853715b6d",
+          "slug": "the-raincoat-killer-chasing-a-predator-in-korea"
+        },
+        "slug": "the-raincoat-killer-chasing-a-predator-in-korea",
+        "tmdb": 134902,
+        "tvdb": 410654,
+        "trakt": 188935
+      },
+      "year": 2021,
+      "title": "The Raincoat Killer: Chasing a Predator in Korea",
+      "aired_episodes": 3
+    },
+    "rank": 190,
+    "id": 1463056378,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt14167390",
+        "plex": {
+          "guid": "613e0bb071f838aa340e0dbc",
+          "slug": "house-of-secrets-the-burari-deaths"
+        },
+        "slug": "house-of-secrets-the-burari-deaths",
+        "tmdb": 133359,
+        "tvdb": 410156,
+        "trakt": 187708
+      },
+      "year": 2021,
+      "title": "House of Secrets: The Burari Deaths",
+      "aired_episodes": 3
+    },
+    "rank": 191,
+    "id": 1463056379,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15402912",
+        "plex": {
+          "guid": "613e0bbe220f3fdb964f1786",
+          "slug": "bad-sport"
+        },
+        "slug": "bad-sport",
+        "tmdb": 133358,
+        "tvdb": 410042,
+        "trakt": 187707
+      },
+      "year": 2021,
+      "title": "Bad Sport",
+      "aired_episodes": 6
+    },
+    "rank": 192,
+    "id": 1463056380,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15430012",
+        "plex": {
+          "guid": "613a28217f4f232754fd9ed4",
+          "slug": "a-sinister-sect-colonia-dignidad"
+        },
+        "slug": "a-sinister-sect-colonia-dignidad",
+        "tmdb": 133089,
+        "tvdb": 410898,
+        "trakt": 187496
+      },
+      "year": 2021,
+      "title": "A Sinister Sect: Colonia Dignidad",
+      "aired_episodes": 6
+    },
+    "rank": 193,
+    "id": 1463056381,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15489004",
+        "plex": {
+          "guid": "615338c7678681b4b9405334",
+          "slug": "wild-crime"
+        },
+        "slug": "wild-crime",
+        "tmdb": 135134,
+        "tvdb": 410482,
+        "trakt": 188614
+      },
+      "year": 2021,
+      "title": "Wild Crime",
+      "aired_episodes": 12
+    },
+    "rank": 194,
+    "id": 1463056382,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15493722",
+        "plex": {
+          "guid": "617037e61c0939121d452b69",
+          "slug": "detective-diaries"
+        },
+        "slug": "detective-diaries",
+        "tmdb": 136725,
+        "tvdb": 410004,
+        "trakt": 187976
+      },
+      "year": 2021,
+      "title": "Detective Diaries",
+      "aired_episodes": 5
+    },
+    "rank": 195,
+    "id": 1463056383,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15287836",
+        "plex": {
+          "guid": "6124c4bb3132c6002ca99e64",
+          "slug": "monsters-inside-the-24-faces-of-billy-milligan"
+        },
+        "slug": "monsters-inside-the-24-faces-of-billy-milligan",
+        "tmdb": 132105,
+        "tvdb": 409076,
+        "trakt": 186425
+      },
+      "year": 2021,
+      "title": "Monsters Inside: The 24 Faces of Billy Milligan",
+      "aired_episodes": 4
+    },
+    "rank": 196,
+    "id": 1463056384,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15732474",
+        "plex": {
+          "guid": "62ff5256ca49ff537a93765a",
+          "slug": "deadliest-kids"
+        },
+        "slug": "deadliest-kids",
+        "tmdb": 221924,
+        "tvdb": 423587,
+        "trakt": 203127
+      },
+      "year": 2021,
+      "title": "Deadliest Kids",
+      "aired_episodes": 4
+    },
+    "rank": 197,
+    "id": 1463056385,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15233856",
+        "plex": {
+          "guid": "60f943e86b96b7002c1b2384",
+          "slug": "john-of-god-the-crimes-of-a-spiritual-healer"
+        },
+        "slug": "john-of-god-the-crimes-of-a-spiritual-healer",
+        "tmdb": 130119,
+        "tvdb": 406426,
+        "trakt": 184475
+      },
+      "year": 2021,
+      "title": "John of God: The Crimes of a Spiritual Healer",
+      "aired_episodes": 4
+    },
+    "rank": 198,
+    "id": 1463056386,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt15049206",
+        "plex": {
+          "guid": "60f009623ea13f002caecff4",
+          "slug": "cocaine-cowboys-the-kings-of-miami"
+        },
+        "slug": "cocaine-cowboys-the-kings-of-miami",
+        "tmdb": 129206,
+        "tvdb": 406562,
+        "trakt": 183821
+      },
+      "year": 2021,
+      "title": "Cocaine Cowboys: The Kings of Miami",
+      "aired_episodes": 6
+    },
+    "rank": 199,
+    "id": 1463056387,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt14865290",
+        "plex": {
+          "guid": "60cb1ec2bc5697002cb5c87e",
+          "slug": "heist-2021"
+        },
+        "slug": "heist-2021",
+        "tmdb": 127643,
+        "tvdb": 405017,
+        "trakt": 182254
+      },
+      "year": 2021,
+      "title": "Heist",
+      "aired_episodes": 6
+    },
+    "rank": 200,
+    "id": 1463056388,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt14856998",
+        "plex": {
+          "guid": "60cb80d65f8da4002daa0606",
+          "slug": "elize-matsunaga-once-upon-a-crime"
+        },
+        "slug": "elize-matsunaga-once-upon-a-crime",
+        "tmdb": 127617,
+        "tvdb": 404908,
+        "trakt": 182522
+      },
+      "year": 2021,
+      "title": "Elize Matsunaga: Once Upon a Crime",
+      "aired_episodes": 4
+    },
+    "rank": 201,
+    "id": 1463056389,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt14681732",
+        "plex": {
+          "guid": "60afd4dcd0924c002c80151a",
+          "slug": "sophie-a-murder-in-west-cork"
+        },
+        "slug": "sophie-a-murder-in-west-cork",
+        "tmdb": 126396,
+        "tvdb": 403177,
+        "trakt": 181212
+      },
+      "year": 2021,
+      "title": "Sophie: A Murder in West Cork",
+      "aired_episodes": 3
+    },
+    "rank": 202,
+    "id": 1463056390,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13156316",
+        "plex": {
+          "guid": "606f196265d1b6002ce1994a",
+          "slug": "the-sons-of-sam-a-descent-into-darkness"
+        },
+        "slug": "the-sons-of-sam-a-descent-into-darkness",
+        "tmdb": 122672,
+        "tvdb": 400640,
+        "trakt": 178658
+      },
+      "year": 2021,
+      "title": "The Sons of Sam: A Descent into Darkness",
+      "aired_episodes": 4
+    },
+    "rank": 203,
+    "id": 1463056391,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt14223858",
+        "plex": {
+          "guid": "604b9134c03f34002ddb9bc1",
+          "slug": "this-is-a-robbery-the-worlds-biggest-art-heist"
+        },
+        "slug": "this-is-a-robbery-the-world-s-biggest-art-heist",
+        "tmdb": 120582,
+        "tvdb": 398365,
+        "trakt": 175186
+      },
+      "year": 2021,
+      "title": "This Is a Robbery: The World's Biggest Art Heist",
+      "aired_episodes": 4
+    },
+    "rank": 204,
+    "id": 1463056392,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13987620",
+        "plex": {
+          "guid": "6022466746acbb002dfddf69",
+          "slug": "murder-among-the-mormons"
+        },
+        "slug": "murder-among-the-mormons",
+        "tmdb": 119337,
+        "tvdb": 396763,
+        "trakt": 173723
+      },
+      "year": 2021,
+      "title": "Murder Among the Mormons",
+      "aired_episodes": 3
+    },
+    "rank": 205,
+    "id": 1463056393,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt14611902",
+        "plex": {
+          "guid": "60361be94d09e7002cfacdf0",
+          "slug": "where-murder-lies"
+        },
+        "slug": "where-murder-lies",
+        "tmdb": 120041,
+        "tvdb": 397331,
+        "trakt": 174252
+      },
+      "year": 2021,
+      "title": "Where Murder Lies",
+      "aired_episodes": 14
+    },
+    "rank": 206,
+    "id": 1463056394,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13837672",
+        "plex": {
+          "guid": "6000d4f83f6fd2002beee6ca",
+          "slug": "crime-scene-1"
+        },
+        "slug": "crime-scene-the-vanishing-at-the-cecil-hotel",
+        "tmdb": 317805,
+        "tvdb": 395098,
+        "trakt": 172256
+      },
+      "year": 2021,
+      "title": "Crime Scene: The Vanishing at the Cecil Hotel",
+      "aired_episodes": 4
+    },
+    "rank": 207,
+    "id": 1463056395,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13651632",
+        "plex": {
+          "guid": "5fda5893a17e8b002d82d31c",
+          "slug": "night-stalker-the-hunt-for-a-serial-killer"
+        },
+        "slug": "night-stalker-the-hunt-for-a-serial-killer",
+        "tmdb": 114705,
+        "tvdb": 393452,
+        "trakt": 170827
+      },
+      "year": 2021,
+      "title": "Night Stalker: The Hunt For a Serial Killer",
+      "aired_episodes": 4
+    },
+    "rank": 208,
+    "id": 1463056396,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11595618",
+        "plex": {
+          "guid": "5ffddc2ecc0645002b786f12",
+          "slug": "american-detective-with-lt-joe-kenda"
+        },
+        "slug": "american-detective-with-lt-joe-kenda",
+        "tmdb": 116106,
+        "tvdb": 393973,
+        "trakt": 171299
+      },
+      "year": 2021,
+      "title": "American Detective with Lt. Joe Kenda",
+      "aired_episodes": 44
+    },
+    "rank": 209,
+    "id": 1463056397,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13492374",
+        "plex": {
+          "guid": "5fb697d95363d3002e2f4f3f",
+          "slug": "the-ripper"
+        },
+        "slug": "the-ripper",
+        "tmdb": 113372,
+        "tvdb": 392096,
+        "trakt": 169658
+      },
+      "year": 2020,
+      "title": "The Ripper",
+      "aired_episodes": 4
+    },
+    "rank": 210,
+    "id": 1463056398,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13540900",
+        "plex": {
+          "guid": "5fc4ab06b0a7cb002d8aa922",
+          "slug": "room-2806-the-accusation"
+        },
+        "slug": "room-2806-the-accusation",
+        "tmdb": 114003,
+        "tvdb": 392654,
+        "trakt": 170265
+      },
+      "year": 2020,
+      "title": "Room 2806: The Accusation",
+      "aired_episodes": 4
+    },
+    "rank": 211,
+    "id": 1463056399,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11210146",
+        "plex": {
+          "guid": "5f6c885972b26900400184a2",
+          "slug": "heavens-gate-the-cult-of-cults"
+        },
+        "slug": "heaven-s-gate-the-cult-of-cults",
+        "tmdb": 113678,
+        "tvdb": 392294,
+        "trakt": 169796
+      },
+      "year": 2020,
+      "title": "Heaven's Gate: The Cult of Cults",
+      "aired_episodes": 4
+    },
+    "rank": 212,
+    "id": 1463056400,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13263106",
+        "plex": {
+          "guid": "5f98448d5ddcb2002dddaa0b",
+          "slug": "murder-on-middle-beach"
+        },
+        "slug": "murder-on-middle-beach",
+        "tmdb": 112111,
+        "tvdb": 389941,
+        "trakt": 168115
+      },
+      "year": 2020,
+      "title": "Murder on Middle Beach",
+      "aired_episodes": 4
+    },
+    "rank": 213,
+    "id": 1463056401,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13363298",
+        "plex": {
+          "guid": "5f9bd3791d01cd002dae46d3",
+          "slug": "trial-4"
+        },
+        "slug": "trial-4",
+        "tmdb": 112278,
+        "tvdb": 391106,
+        "trakt": 168979
+      },
+      "year": 2020,
+      "title": "Trial 4",
+      "aired_episodes": 8
+    },
+    "rank": 214,
+    "id": 1463056402,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13244092",
+        "plex": {
+          "guid": "5f872a2ccaaf370041d0aa9c",
+          "slug": "carmel-who-killed-maria-marta"
+        },
+        "slug": "carmel-who-killed-maria-marta",
+        "tmdb": 111495,
+        "tvdb": 390708,
+        "trakt": 168675
+      },
+      "year": 2020,
+      "title": "Carmel: Who Killed Maria Marta?",
+      "aired_episodes": 4
+    },
+    "rank": 215,
+    "id": 1463056403,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13440300",
+        "plex": {
+          "guid": "5f9bd37aebc2c0002d0475a7",
+          "slug": "evil-lives-here-shadows-of-death"
+        },
+        "slug": "evil-lives-here-shadows-of-death",
+        "tmdb": 112535,
+        "tvdb": 391143,
+        "trakt": 168999
+      },
+      "year": 2020,
+      "title": "Evil Lives Here: Shadows Of Death",
+      "aired_episodes": 38
+    },
+    "rank": 216,
+    "id": 1463056404,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13332656",
+        "plex": {
+          "guid": "5f80afce1bc06e00424517ab",
+          "slug": "suspicious-minds-2020"
+        },
+        "slug": "suspicious-minds",
+        "tmdb": 111473,
+        "tvdb": 389781,
+        "trakt": 168013
+      },
+      "year": 2020,
+      "title": "Suspicious Minds",
+      "aired_episodes": 6
+    },
+    "rank": 217,
+    "id": 1463056405,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt12939836",
+        "plex": {
+          "guid": "5f5c761cc3d1880042f5cadb",
+          "slug": "a-perfect-crime"
+        },
+        "slug": "a-perfect-crime",
+        "tmdb": 110412,
+        "tvdb": 387872,
+        "trakt": 166419
+      },
+      "year": 2020,
+      "title": "A Perfect Crime",
+      "aired_episodes": 4
+    },
+    "rank": 218,
+    "id": 1463056406,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13113556",
+        "plex": {
+          "guid": "5f68d2a314a61300432a6aee",
+          "slug": "chaos-in-court"
+        },
+        "slug": "chaos-in-court",
+        "tmdb": 110287,
+        "tvdb": 388131,
+        "trakt": 166681
+      },
+      "year": 2020,
+      "title": "Chaos in Court",
+      "aired_episodes": 22
+    },
+    "rank": 219,
+    "id": 1463056407,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13117238",
+        "plex": {
+          "guid": "5f4ca47cb9bf4d0041572f88",
+          "slug": "crimes-gone-viral"
+        },
+        "slug": "crimes-gone-viral",
+        "tmdb": 110558,
+        "tvdb": 387648,
+        "trakt": 166193
+      },
+      "year": 2020,
+      "title": "Crimes Gone Viral",
+      "aired_episodes": 64
+    },
+    "rank": 220,
+    "id": 1463056408,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13222854",
+        "plex": {
+          "guid": "5f55df0ba8a37200401b221e",
+          "slug": "living-a-nightmare"
+        },
+        "slug": "living-a-nightmare",
+        "tmdb": 110314,
+        "tvdb": 388036,
+        "trakt": 166543
+      },
+      "year": 2020,
+      "title": "Living a Nightmare",
+      "aired_episodes": 6
+    },
+    "rank": 221,
+    "id": 1463056409,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13023668",
+        "plex": {
+          "guid": "5f57bdaa41df620042f986d9",
+          "slug": "the-93-victims-of-samuel-little"
+        },
+        "slug": "the-93-victims-of-samuel-little",
+        "tmdb": 108395,
+        "tvdb": 387779,
+        "trakt": 166334
+      },
+      "year": 2020,
+      "title": "The 93 Victims of Samuel Little",
+      "aired_episodes": 2
+    },
+    "rank": 222,
+    "id": 1463056410,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt13530014",
+        "plex": {
+          "guid": "5f4369ea02101b004035c4f4",
+          "slug": "signs-of-a-psychopath"
+        },
+        "slug": "signs-of-a-psychopath",
+        "tmdb": 108464,
+        "tvdb": 387339,
+        "trakt": 165955
+      },
+      "year": 2020,
+      "title": "Signs Of A Psychopath",
+      "aired_episodes": 98
+    },
+    "rank": 223,
+    "id": 1463056411,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt10222764",
+        "plex": {
+          "guid": "5d9c081effd9ef001e98d70f",
+          "slug": "the-vow"
+        },
+        "slug": "the-vow",
+        "tmdb": 49920,
+        "tvdb": 386160,
+        "trakt": 165062
+      },
+      "year": 2020,
+      "title": "The Vow",
+      "aired_episodes": 15
+    },
+    "rank": 224,
+    "id": 1463056412,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt12753698",
+        "plex": {
+          "guid": "5f1e6ce155bc150040e2430d",
+          "slug": "worlds-most-wanted"
+        },
+        "slug": "world-s-most-wanted",
+        "tmdb": 106513,
+        "tvdb": 385763,
+        "trakt": 164772
+      },
+      "year": 2020,
+      "title": "World's Most Wanted",
+      "aired_episodes": 5
+    },
+    "rank": 225,
+    "id": 1463056413,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0345133",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "dick-emery-the-thames-television-specials",
+        "tmdb": null,
+        "tvdb": 275350,
+        "trakt": 102831
+      },
+      "year": 1979,
+      "title": "Dick Emery - The Thames Television Specials",
+      "aired_episodes": 0
+    },
+    "rank": 226,
+    "id": 1463056414,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt12588372",
+        "plex": {
+          "guid": "5efcc0a57e76150040eed4d4",
+          "slug": "fear-city-new-york-vs-the-mafia"
+        },
+        "slug": "fear-city-new-york-vs-the-mafia",
+        "tmdb": 105489,
+        "tvdb": 384510,
+        "trakt": 163687
+      },
+      "year": 2020,
+      "title": "Fear City: New York vs The Mafia",
+      "aired_episodes": 3
+    },
+    "rank": 227,
+    "id": 1463056415,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9642938",
+        "plex": {
+          "guid": "5ef2ab583834ed0041ac0360",
+          "slug": "unsolved-mysteries-1"
+        },
+        "slug": "unsolved-mysteries-2020",
+        "tmdb": 105177,
+        "tvdb": null,
+        "trakt": 164474
+      },
+      "year": 2020,
+      "title": "Unsolved Mysteries",
+      "aired_episodes": 30
+    },
+    "rank": 228,
+    "id": 1463056416,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8259114",
+        "plex": {
+          "guid": "5eb6b60680cbc90042002c6f",
+          "slug": "ill-be-gone-in-the-dark"
+        },
+        "slug": "i-ll-be-gone-in-the-dark",
+        "tmdb": 103023,
+        "tvdb": 473967,
+        "trakt": 158462
+      },
+      "year": 2020,
+      "title": "I'll Be Gone in the Dark",
+      "aired_episodes": 7
+    },
+    "rank": 229,
+    "id": 1463056417,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt12662374",
+        "plex": {
+          "guid": "5f57bc1e34816f00420e96bb",
+          "slug": "a-killer-uncaged"
+        },
+        "slug": "a-killer-uncaged",
+        "tmdb": 108347,
+        "tvdb": 385807,
+        "trakt": 164780
+      },
+      "year": 2020,
+      "title": "A Killer Uncaged",
+      "aired_episodes": 3
+    },
+    "rank": 230,
+    "id": 1463056418,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt12312250",
+        "plex": {
+          "guid": "5ec75ff0f942b10041e942ac",
+          "slug": "jeffrey-epstein-filthy-rich"
+        },
+        "slug": "jeffrey-epstein-filthy-rich",
+        "tmdb": 103506,
+        "tvdb": 378477,
+        "trakt": 159265
+      },
+      "year": 2020,
+      "title": "Jeffrey Epstein: Filthy Rich",
+      "aired_episodes": 4
+    },
+    "rank": 231,
+    "id": 1463056419,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11963042",
+        "plex": {
+          "guid": "5eb6b5fe54710d00418289b9",
+          "slug": "trial-by-media"
+        },
+        "slug": "trial-by-media",
+        "tmdb": 102901,
+        "tvdb": 380951,
+        "trakt": 161074
+      },
+      "year": 2020,
+      "title": "Trial by Media",
+      "aired_episodes": 6
+    },
+    "rank": 232,
+    "id": 1463056420,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt10039642",
+        "plex": {
+          "guid": "61b0c991f4d0c03a3add1b20",
+          "slug": "southern-gothic"
+        },
+        "slug": "southern-gothic",
+        "tmdb": 102767,
+        "tvdb": 381309,
+        "trakt": 161356
+      },
+      "year": 2020,
+      "title": "Southern Gothic",
+      "aired_episodes": 6
+    },
+    "rank": 233,
+    "id": 1463056421,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt12282764",
+        "plex": {
+          "guid": "5eb6b60181daba0040be09ad",
+          "slug": "predator-at-large"
+        },
+        "slug": "predator-at-large",
+        "tmdb": 102950,
+        "tvdb": 380438,
+        "trakt": 160665
+      },
+      "year": 2020,
+      "title": "Predator at Large",
+      "aired_episodes": 6
+    },
+    "rank": 234,
+    "id": 1463056422,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11958922",
+        "plex": {
+          "guid": "5e7362f4a109be00400053f3",
+          "slug": "the-innocence-files"
+        },
+        "slug": "the-innocence-files",
+        "tmdb": 100379,
+        "tvdb": 378246,
+        "trakt": 159073
+      },
+      "year": 2020,
+      "title": "The Innocence Files",
+      "aired_episodes": 9
+    },
+    "rank": 235,
+    "id": 1463056423,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11958942",
+        "plex": {
+          "guid": "5e7362f57b2c47003faf1292",
+          "slug": "how-to-fix-a-drug-scandal"
+        },
+        "slug": "how-to-fix-a-drug-scandal",
+        "tmdb": 100407,
+        "tvdb": 378367,
+        "trakt": 159179
+      },
+      "year": 2020,
+      "title": "How to Fix a Drug Scandal",
+      "aired_episodes": 4
+    },
+    "rank": 236,
+    "id": 1463056424,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11823076",
+        "plex": {
+          "guid": "5e7e3e5e5d5a5f0042d8959e",
+          "slug": "tiger-king"
+        },
+        "slug": "tiger-king-murder-mayhem-and-madness",
+        "tmdb": 100698,
+        "tvdb": 377269,
+        "trakt": 158420
+      },
+      "year": 2020,
+      "title": "Tiger King: Murder, Mayhem and Madness",
+      "aired_episodes": 13
+    },
+    "rank": 237,
+    "id": 1463056425,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11857512",
+        "plex": {
+          "guid": "5e85eda69f6e88004128bbda",
+          "slug": "crime-beat"
+        },
+        "slug": "crime-beat",
+        "tmdb": 101106,
+        "tvdb": 378563,
+        "trakt": 159316
+      },
+      "year": 2020,
+      "title": "Crime Beat",
+      "aired_episodes": 151
+    },
+    "rank": 238,
+    "id": 1463056426,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11822998",
+        "plex": {
+          "guid": "5e5855a9ef1f92003e96b32a",
+          "slug": "the-trials-of-gabriel-fernandez"
+        },
+        "slug": "the-trials-of-gabriel-fernandez",
+        "tmdb": 99626,
+        "tvdb": 377321,
+        "trakt": 158450
+      },
+      "year": 2020,
+      "title": "The Trials of Gabriel Fernandez",
+      "aired_episodes": 6
+    },
+    "rank": 239,
+    "id": 1463056427,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11600174",
+        "plex": {
+          "guid": "5e2ed4ca9b65510036f4f43e",
+          "slug": "the-pharmacist"
+        },
+        "slug": "the-pharmacist",
+        "tmdb": 98735,
+        "tvdb": 376102,
+        "trakt": 157602
+      },
+      "year": 2020,
+      "title": "The Pharmacist",
+      "aired_episodes": 4
+    },
+    "rank": 240,
+    "id": 1463056428,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9148598",
+        "plex": {
+          "guid": "5e1625a3898b1c0040e28089",
+          "slug": "mcmilliondollar"
+        },
+        "slug": "mcmillion",
+        "tmdb": 96213,
+        "tvdb": 373265,
+        "trakt": 155959
+      },
+      "year": 2020,
+      "title": "McMillion$",
+      "aired_episodes": 6
+    },
+    "rank": 241,
+    "id": 1463056429,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11141900",
+        "plex": {
+          "guid": "5e20424c785b5a003bb2ed06",
+          "slug": "ted-bundy-falling-for-a-killer"
+        },
+        "slug": "ted-bundy-falling-for-a-killer",
+        "tmdb": 97428,
+        "tvdb": 371107,
+        "trakt": 154237
+      },
+      "year": 2020,
+      "title": "Ted Bundy: Falling for a Killer",
+      "aired_episodes": 5
+    },
+    "rank": 242,
+    "id": 1463056430,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11475228",
+        "plex": {
+          "guid": "5e165b4b10faa50040103492",
+          "slug": "killer-inside-the-mind-of-aaron-hernandez"
+        },
+        "slug": "killer-inside-the-mind-of-aaron-hernandez",
+        "tmdb": 97062,
+        "tvdb": 374603,
+        "trakt": 156790
+      },
+      "year": 2020,
+      "title": "Killer Inside: The Mind of Aaron Hernandez",
+      "aired_episodes": 3
+    },
+    "rank": 243,
+    "id": 1463056431,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11318602",
+        "plex": {
+          "guid": "5e01fc33d1987c001d6f5be2",
+          "slug": "dont-fk-with-cats-hunting-an-internet-killer"
+        },
+        "slug": "don-t-f-k-with-cats-hunting-an-internet-killer",
+        "tmdb": 96129,
+        "tvdb": 372566,
+        "trakt": 155423
+      },
+      "year": 2019,
+      "title": "Don't F**k with Cats: Hunting an Internet Killer",
+      "aired_episodes": 3
+    },
+    "rank": 244,
+    "id": 1463056432,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11307176",
+        "plex": {
+          "guid": "5e16253a54420c003c20c617",
+          "slug": "the-confession-killer"
+        },
+        "slug": "the-confession-killer",
+        "tmdb": 95986,
+        "tvdb": 372481,
+        "trakt": 155353
+      },
+      "year": 2019,
+      "title": "The Confession Killer",
+      "aired_episodes": 5
+    },
+    "rank": 245,
+    "id": 1463056433,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt11018358",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "the-interrogator",
+        "tmdb": 98848,
+        "tvdb": 372621,
+        "trakt": 155456
+      },
+      "year": 2019,
+      "title": "The Interrogator",
+      "aired_episodes": 6
+    },
+    "rank": 246,
+    "id": 1463056434,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt10836794",
+        "plex": {
+          "guid": "5e1621ca5dd66b00406db2c2",
+          "slug": "the-murder-tapes"
+        },
+        "slug": "the-murder-tapes",
+        "tmdb": 93005,
+        "tvdb": 367649,
+        "trakt": 151022
+      },
+      "year": 2019,
+      "title": "The Murder Tapes",
+      "aired_episodes": 82
+    },
+    "rank": 247,
+    "id": 1463056435,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9614090",
+        "plex": {
+          "guid": "5d9c0925ec357c001f9b1312",
+          "slug": "i-love-you-now-die-the-commonwealth-vs-michelle-carter"
+        },
+        "slug": "i-love-you-now-die-the-commonwealth-v-michelle-carter",
+        "tmdb": 87518,
+        "tvdb": 366337,
+        "trakt": 149940
+      },
+      "year": 2019,
+      "title": "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+      "aired_episodes": 2
+    },
+    "rank": 248,
+    "id": 1463056436,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt10553838",
+        "plex": {
+          "guid": "61b17b7672d2810d4b1b3e69",
+          "slug": "til-death-do-us-part-2019"
+        },
+        "slug": "til-death-do-us-part-2019",
+        "tmdb": 101601,
+        "tvdb": 365441,
+        "trakt": 149065
+      },
+      "year": 2019,
+      "title": "Til Death Do Us Part",
+      "aired_episodes": 16
+    },
+    "rank": 249,
+    "id": 1463056437,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt10376904",
+        "plex": {
+          "guid": "5d9c09252192ba001f31c941",
+          "slug": "exhibit-a-2019"
+        },
+        "slug": "exhibit-a",
+        "tmdb": 90725,
+        "tvdb": 364493,
+        "trakt": 148235
+      },
+      "year": 2019,
+      "title": "Exhibit A",
+      "aired_episodes": 4
+    },
+    "rank": 250,
+    "id": 1463056438,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8033244",
+        "plex": {
+          "guid": "5e160e4fae6f98001f3fc056",
+          "slug": "the-alcasser-murders"
+        },
+        "slug": "the-alcasser-murders",
+        "tmdb": 90274,
+        "tvdb": 364471,
+        "trakt": 148212
+      },
+      "year": 2019,
+      "title": "The Alcàsser Murders",
+      "aired_episodes": 5
+    },
+    "rank": 251,
+    "id": 1463056439,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt10243692",
+        "plex": {
+          "guid": "5d9c0924e9d5a1001f4deab6",
+          "slug": "killer-ratings"
+        },
+        "slug": "killer-ratings",
+        "tmdb": 89899,
+        "tvdb": 363750,
+        "trakt": 147652
+      },
+      "year": 2019,
+      "title": "Killer Ratings",
+      "aired_episodes": 7
+    },
+    "rank": 252,
+    "id": 1463056440,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8241514",
+        "plex": {
+          "guid": "5e161283c2a81f001ed3546b",
+          "slug": "still-a-mystery"
+        },
+        "slug": "still-a-mystery",
+        "tmdb": 90456,
+        "tvdb": 364334,
+        "trakt": 148109
+      },
+      "year": 2019,
+      "title": "Still a Mystery",
+      "aired_episodes": 59
+    },
+    "rank": 253,
+    "id": 1463056441,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9879074",
+        "plex": {
+          "guid": "5d9c091c02391c001f595a3d",
+          "slug": "the-disappearance-of-madeleine-mccann"
+        },
+        "slug": "the-disappearance-of-madeleine-mccann",
+        "tmdb": 87600,
+        "tvdb": 360992,
+        "trakt": 145285
+      },
+      "year": 2019,
+      "title": "The Disappearance of Madeleine McCann",
+      "aired_episodes": 8
+    },
+    "rank": 254,
+    "id": 1463056442,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "",
+        "plex": {
+          "guid": "620c80c0645bc7c4592a91c8",
+          "slug": "hometown-homicide-local-mysteries-1"
+        },
+        "slug": "hometown-homicide-local-mysteries",
+        "tmdb": 157336,
+        "tvdb": 365042,
+        "trakt": 148704
+      },
+      "year": 2019,
+      "title": "Hometown Homicide: Local Mysteries",
+      "aired_episodes": 18
+    },
+    "rank": 255,
+    "id": 1463056443,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9134666",
+        "plex": {
+          "guid": "5d9c0917705e7a001e6ea483",
+          "slug": "lorena"
+        },
+        "slug": "lorena",
+        "tmdb": 85712,
+        "tvdb": 357880,
+        "trakt": 142614
+      },
+      "year": 2019,
+      "title": "Lorena",
+      "aired_episodes": 4
+    },
+    "rank": 256,
+    "id": 1463056444,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9425132",
+        "plex": {
+          "guid": "5d9c09157b5c2e001e6667f3",
+          "slug": "conversations-with-a-killer-the-ted-bundy-tapes"
+        },
+        "slug": "conversations-with-a-killer-the-ted-bundy-tapes",
+        "tmdb": 85833,
+        "tvdb": 356609,
+        "trakt": 141542
+      },
+      "year": 2019,
+      "title": "Conversations with a Killer: The Ted Bundy Tapes",
+      "aired_episodes": 4
+    },
+    "rank": 257,
+    "id": 1463056445,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9632280",
+        "plex": {
+          "guid": "5d9c0918e9d5a1001f4de6ec",
+          "slug": "dead-of-winter"
+        },
+        "slug": "dead-of-winter",
+        "tmdb": 86660,
+        "tvdb": 358010,
+        "trakt": 142718
+      },
+      "year": 2019,
+      "title": "Dead of Winter",
+      "aired_episodes": 12
+    },
+    "rank": 258,
+    "id": 1463056446,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9412802",
+        "plex": {
+          "guid": "5d9c0916e98e47001eb1adca",
+          "slug": "the-lake-erie-murders"
+        },
+        "slug": "the-lake-erie-murders",
+        "tmdb": 86217,
+        "tvdb": 356962,
+        "trakt": 141819
+      },
+      "year": 2018,
+      "title": "The Lake Erie Murders",
+      "aired_episodes": 17
+    },
+    "rank": 259,
+    "id": 1463056447,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9425082",
+        "plex": {
+          "guid": "5d9c09120aaccd001f8f3f12",
+          "slug": "body-cam"
+        },
+        "slug": "body-cam",
+        "tmdb": 91183,
+        "tvdb": 355125,
+        "trakt": 139593
+      },
+      "year": 2018,
+      "title": "Body Cam",
+      "aired_episodes": 100
+    },
+    "rank": 260,
+    "id": 1463056448,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9256586",
+        "plex": {
+          "guid": "5d9c0910ba6eb9001fbaf348",
+          "slug": "welcome-to-murdertown"
+        },
+        "slug": "welcome-to-murdertown",
+        "tmdb": 107875,
+        "tvdb": 354532,
+        "trakt": 138555
+      },
+      "year": 2018,
+      "title": "Welcome To Murdertown",
+      "aired_episodes": 6
+    },
+    "rank": 261,
+    "id": 1463056449,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt10417072",
+        "plex": {
+          "guid": "607014267b0f08002ce2ba70",
+          "slug": "how-i-caught-the-killer"
+        },
+        "slug": "how-i-caught-the-killer",
+        "tmdb": 125618,
+        "tvdb": 352886,
+        "trakt": 136438
+      },
+      "year": 2018,
+      "title": "How I Caught The Killer ",
+      "aired_episodes": 40
+    },
+    "rank": 262,
+    "id": 1463056450,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8738580",
+        "plex": {
+          "guid": "5d9c09052df347001e3bbbd4",
+          "slug": "someone-you-thought-you-knew"
+        },
+        "slug": "someone-you-thought-you-knew",
+        "tmdb": 93791,
+        "tvdb": 350198,
+        "trakt": 134065
+      },
+      "year": 2018,
+      "title": "Someone You Thought You Knew",
+      "aired_episodes": 12
+    },
+    "rank": 263,
+    "id": 1463056451,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7364546",
+        "plex": {
+          "guid": "5d9c09024eefaa001f5e69d4",
+          "slug": "the-wonderland-murders"
+        },
+        "slug": "the-wonderland-murders",
+        "tmdb": 80029,
+        "tvdb": 348625,
+        "trakt": 131668
+      },
+      "year": 2018,
+      "title": "The Wonderland Murders",
+      "aired_episodes": 12
+    },
+    "rank": 264,
+    "id": 1463056452,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8461242",
+        "plex": {
+          "guid": "5e16128d0d14e4001e5d4f05",
+          "slug": "people-magazine-investigates-cults"
+        },
+        "slug": "people-magazine-investigates-cults",
+        "tmdb": 90634,
+        "tvdb": 348513,
+        "trakt": 131578
+      },
+      "year": 2018,
+      "title": "People Magazine Investigates: Cults",
+      "aired_episodes": 12
+    },
+    "rank": 265,
+    "id": 1463056453,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8300324",
+        "plex": {
+          "guid": "5d9c0905e98e47001eb19c8b",
+          "slug": "i-am-a-killer"
+        },
+        "slug": "i-am-a-killer",
+        "tmdb": 81337,
+        "tvdb": 349934,
+        "trakt": 133854
+      },
+      "year": 2018,
+      "title": "I Am a Killer",
+      "aired_episodes": 44
+    },
+    "rank": 266,
+    "id": 1463056454,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8465938",
+        "plex": {
+          "guid": "5d9c0900ef619b00204837cf",
+          "slug": "dead-north"
+        },
+        "slug": "dead-north",
+        "tmdb": 79879,
+        "tvdb": 347893,
+        "trakt": 131057
+      },
+      "year": 2018,
+      "title": "Dead North",
+      "aired_episodes": 4
+    },
+    "rank": 267,
+    "id": 1463056455,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8342862",
+        "plex": {
+          "guid": "5d9c08fe08fddd001f2a5925",
+          "slug": "evil-genius-1"
+        },
+        "slug": "evil-genius",
+        "tmdb": 79126,
+        "tvdb": 347033,
+        "trakt": 130180
+      },
+      "year": 2018,
+      "title": "Evil Genius",
+      "aired_episodes": 4
+    },
+    "rank": 268,
+    "id": 1463056456,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8314840",
+        "plex": {
+          "guid": null,
+          "slug": null
+        },
+        "slug": "methanol",
+        "tmdb": 81590,
+        "tvdb": 346928,
+        "trakt": 143646
+      },
+      "year": 2018,
+      "title": "Methanol",
+      "aired_episodes": 2
+    },
+    "rank": 269,
+    "id": 1463056457,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8337704",
+        "plex": {
+          "guid": "5d9c08feba6eb9001fbae083",
+          "slug": "the-killer-beside-me"
+        },
+        "slug": "the-killer-beside-me",
+        "tmdb": 79360,
+        "tvdb": 346598,
+        "trakt": 130009
+      },
+      "year": 2018,
+      "title": "The Killer Beside Me",
+      "aired_episodes": 18
+    },
+    "rank": 270,
+    "id": 1463056458,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8137604",
+        "plex": {
+          "guid": "5d9c08f8705e7a001e6e7c22",
+          "slug": "breaking-homicide"
+        },
+        "slug": "breaking-homicide",
+        "tmdb": 78821,
+        "tvdb": 344851,
+        "trakt": 129110
+      },
+      "year": 2018,
+      "title": "Breaking Homicide",
+      "aired_episodes": 14
+    },
+    "rank": 271,
+    "id": 1463056459,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7768848",
+        "plex": {
+          "guid": "5d9c08f2e98e47001eb187ba",
+          "slug": "wild-wild-country"
+        },
+        "slug": "wild-wild-country",
+        "tmdb": 77601,
+        "tvdb": 473667,
+        "trakt": 127498
+      },
+      "year": 2018,
+      "title": "Wild Wild Country",
+      "aired_episodes": 6
+    },
+    "rank": 272,
+    "id": 1463056460,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8336664",
+        "plex": {
+          "guid": "5d9c08f63c3f87001f35987b",
+          "slug": "the-golden-state-killer-its-not-over"
+        },
+        "slug": "the-golden-state-killer-it-s-not-over",
+        "tmdb": 77669,
+        "tvdb": 343700,
+        "trakt": 128517
+      },
+      "year": 2018,
+      "title": "The Golden State Killer: It's Not Over",
+      "aired_episodes": 4
+    },
+    "rank": 273,
+    "id": 1463056461,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt8004578",
+        "plex": {
+          "guid": "5d9c08f508fddd001f2a4c21",
+          "slug": "flint-town"
+        },
+        "slug": "flint-town",
+        "tmdb": 77591,
+        "tvdb": 343305,
+        "trakt": 128309
+      },
+      "year": 2018,
+      "title": "Flint Town",
+      "aired_episodes": 8
+    },
+    "rank": 274,
+    "id": 1463056462,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7889220",
+        "plex": {
+          "guid": "5d9c08efffd9ef001e99cc8b",
+          "slug": "dirty-money-2018"
+        },
+        "slug": "dirty-money-2018",
+        "tmdb": 76307,
+        "tvdb": 339925,
+        "trakt": 126430
+      },
+      "year": 2018,
+      "title": "Dirty Money",
+      "aired_episodes": 12
+    },
+    "rank": 275,
+    "id": 1463056463,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt9769678",
+        "plex": {
+          "guid": "5d9c0916705e7a001e6ea31a",
+          "slug": "hometown-homicide"
+        },
+        "slug": "hometown-homicide",
+        "tmdb": 85492,
+        "tvdb": 357394,
+        "trakt": 142164
+      },
+      "year": 2018,
+      "title": "Hometown Homicide",
+      "aired_episodes": 12
+    },
+    "rank": 276,
+    "id": 1463056464,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7817212",
+        "plex": {
+          "guid": "5d9c08f502391c001f592ec5",
+          "slug": "true-conviction"
+        },
+        "slug": "true-conviction",
+        "tmdb": 77281,
+        "tvdb": 340182,
+        "trakt": 126520
+      },
+      "year": 2018,
+      "title": "True Conviction",
+      "aired_episodes": 34
+    },
+    "rank": 277,
+    "id": 1463056465,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7306056",
+        "plex": {
+          "guid": "5d9c08deba2e21001f193615",
+          "slug": "wormwood-2017"
+        },
+        "slug": "wormwood-2017",
+        "tmdb": 73581,
+        "tvdb": 334153,
+        "trakt": 123276
+      },
+      "year": 2017,
+      "title": "Wormwood",
+      "aired_episodes": 6
+    },
+    "rank": 278,
+    "id": 1463056466,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7656606",
+        "plex": {
+          "guid": "5d9c08ede9d5a1001f4dd88e",
+          "slug": "murder-in-the-heartland-2017"
+        },
+        "slug": "murder-in-the-heartland-2017",
+        "tmdb": 85041,
+        "tvdb": 338572,
+        "trakt": 125701
+      },
+      "year": 2017,
+      "title": "Murder in the Heartland",
+      "aired_episodes": 69
+    },
+    "rank": 279,
+    "id": 1463056467,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7349602",
+        "plex": {
+          "guid": "5d9c08e10aaccd001f8f2edf",
+          "slug": "the-confession-tapes"
+        },
+        "slug": "the-confession-tapes",
+        "tmdb": 73792,
+        "tvdb": 334680,
+        "trakt": 123558
+      },
+      "year": 2017,
+      "title": "The Confession Tapes",
+      "aired_episodes": 11
+    },
+    "rank": 280,
+    "id": 1463056468,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7312040",
+        "plex": {
+          "guid": "5d9c08dd2df347001e3b99ac",
+          "slug": "shattered-2017-2"
+        },
+        "slug": "shattered-2017",
+        "tmdb": 73448,
+        "tvdb": 333850,
+        "trakt": 123158
+      },
+      "year": 2017,
+      "title": "Shattered",
+      "aired_episodes": 26
+    },
+    "rank": 281,
+    "id": 1463056469,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt7136584",
+        "plex": {
+          "guid": "5d9c08d608fddd001f2a2905",
+          "slug": "murder-by-numbers"
+        },
+        "slug": "murder-by-numbers",
+        "tmdb": 73364,
+        "tvdb": 331111,
+        "trakt": 121560
+      },
+      "year": 2017,
+      "title": "Murder by Numbers",
+      "aired_episodes": 14
+    },
+    "rank": 282,
+    "id": 1463056470,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt6792200",
+        "plex": {
+          "guid": "5d9c0855e264b7001fc41a20",
+          "slug": "the-keepers"
+        },
+        "slug": "the-keepers",
+        "tmdb": 26101,
+        "tvdb": 327175,
+        "trakt": 118361
+      },
+      "year": 2017,
+      "title": "The Keepers",
+      "aired_episodes": 7
+    },
+    "rank": 283,
+    "id": 1464720875,
+    "listed_at": "2026-05-07T00:00:28.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt6821540",
+        "plex": {
+          "guid": "5d9c08cde98e47001eb16485",
+          "slug": "reasonable-doubt"
+        },
+        "slug": "reasonable-doubt-2017",
+        "tmdb": 71450,
+        "tvdb": 327759,
+        "trakt": 118668
+      },
+      "year": 2017,
+      "title": "Reasonable Doubt",
+      "aired_episodes": 50
+    },
+    "rank": 284,
+    "id": 1463056472,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt6760366",
+        "plex": {
+          "guid": "5d9c08ccba6eb9001fbaa55e",
+          "slug": "casey-anthony-an-american-murder-mystery"
+        },
+        "slug": "casey-anthony-an-american-murder-mystery",
+        "tmdb": 71200,
+        "tvdb": 326761,
+        "trakt": 118156
+      },
+      "year": 2017,
+      "title": "Casey Anthony: An American Murder Mystery",
+      "aired_episodes": 3
+    },
+    "rank": 285,
+    "id": 1463056473,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt5782486",
+        "plex": {
+          "guid": "5d9c083ce98e47001eb0ae55",
+          "slug": "murder-calls"
+        },
+        "slug": "murder-calls",
+        "tmdb": 69888,
+        "tvdb": 322106,
+        "trakt": 115621
+      },
+      "year": 2017,
+      "title": "Murder Calls",
+      "aired_episodes": 25
+    },
+    "rank": 286,
+    "id": 1463056474,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt6107486",
+        "plex": {
+          "guid": "5e1618d977eeed003e8399d3",
+          "slug": "pandoras-box-unleashing-evil"
+        },
+        "slug": "pandora-s-box-unleashing-evil",
+        "tmdb": 89101,
+        "tvdb": 320921,
+        "trakt": 113759
+      },
+      "year": 2016,
+      "title": "Pandora's Box: Unleashing Evil",
+      "aired_episodes": 17
+    },
+    "rank": 287,
+    "id": 1463056475,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt6463374",
+        "plex": {
+          "guid": "5d9c08ed705e7a001e6e6996",
+          "slug": "homicide-for-the-holidays"
+        },
+        "slug": "homicide-for-the-holidays",
+        "tmdb": 85012,
+        "tvdb": 320811,
+        "trakt": 113710
+      },
+      "year": 2016,
+      "title": "Homicide for the Holidays",
+      "aired_episodes": 30
+    },
+    "rank": 288,
+    "id": 1463056476,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt5594440",
+        "plex": {
+          "guid": "5d9c08ec3c3f87001f358c8a",
+          "slug": "people-magazine-investigates"
+        },
+        "slug": "people-magazine-investigates",
+        "tmdb": 76458,
+        "tvdb": 319556,
+        "trakt": 113021
+      },
+      "year": 2016,
+      "title": "People Magazine Investigates",
+      "aired_episodes": 113
+    },
+    "rank": 289,
+    "id": 1463056477,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt5784958",
+        "plex": {
+          "guid": "5d9c08c07b5c2e001e660bdd",
+          "slug": "american-monster"
+        },
+        "slug": "american-monster",
+        "tmdb": 73320,
+        "tvdb": 312576,
+        "trakt": 108126
+      },
+      "year": 2016,
+      "title": "American Monster",
+      "aired_episodes": 130
+    },
+    "rank": 290,
+    "id": 1463056478,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt5489746",
+        "plex": {
+          "guid": "5d9c08bd170e24001f2acd3d",
+          "slug": "evil-lives-here"
+        },
+        "slug": "evil-lives-here",
+        "tmdb": 70249,
+        "tvdb": 306194,
+        "trakt": 104845
+      },
+      "year": 2016,
+      "title": "Evil Lives Here",
+      "aired_episodes": 177
+    },
+    "rank": 291,
+    "id": 1463056479,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt5189670",
+        "plex": {
+          "guid": "5d9c08107d06d9001ffcf5a3",
+          "slug": "making-a-murderer"
+        },
+        "slug": "making-a-murderer",
+        "tmdb": 64439,
+        "tvdb": 303210,
+        "trakt": 103423
+      },
+      "year": 2015,
+      "title": "Making a Murderer",
+      "aired_episodes": 20
+    },
+    "rank": 292,
+    "id": 1463056480,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt4299972",
+        "plex": {
+          "guid": "5d9c084f705e7a001e6d8b0f",
+          "slug": "the-jinx-the-life-and-deaths-of-robert-durst"
+        },
+        "slug": "the-jinx-the-life-and-deaths-of-robert-durst",
+        "tmdb": 61929,
+        "tvdb": 289946,
+        "trakt": 94066
+      },
+      "year": 2015,
+      "title": "The Jinx: The Life and Deaths of Robert Durst",
+      "aired_episodes": 12
+    },
+    "rank": 293,
+    "id": 1463056481,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt4111430",
+        "plex": {
+          "guid": "5d9c081608fddd001f291dd0",
+          "slug": "your-worst-nightmare"
+        },
+        "slug": "your-worst-nightmare",
+        "tmdb": 65067,
+        "tvdb": 286981,
+        "trakt": 81122
+      },
+      "year": 2014,
+      "title": "Your Worst Nightmare",
+      "aired_episodes": 58
+    },
+    "rank": 294,
+    "id": 1463056482,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt3691462",
+        "plex": {
+          "guid": "5d9c0805e98e47001eb058e3",
+          "slug": "the-perfect-murder"
+        },
+        "slug": "the-perfect-murder",
+        "tmdb": 63424,
+        "tvdb": 281147,
+        "trakt": 77511
+      },
+      "year": 2014,
+      "title": "The Perfect Murder",
+      "aired_episodes": 49
+    },
+    "rank": 295,
+    "id": 1463056483,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt3450150",
+        "plex": {
+          "guid": "5d9c08a4ba6eb9001fba79fa",
+          "slug": "murder-comes-to-town"
+        },
+        "slug": "murder-comes-to-town",
+        "tmdb": 70582,
+        "tvdb": 277503,
+        "trakt": 75406
+      },
+      "year": 2014,
+      "title": "Murder Comes To Town",
+      "aired_episodes": 46
+    },
+    "rank": 296,
+    "id": 1463056484,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt3463426",
+        "plex": {
+          "guid": "5d9c08173c3f87001f3473eb",
+          "slug": "web-of-lies"
+        },
+        "slug": "web-of-lies",
+        "tmdb": 66006,
+        "tvdb": 278659,
+        "trakt": 76135
+      },
+      "year": 2014,
+      "title": "Web of Lies",
+      "aired_episodes": 72
+    },
+    "rank": 297,
+    "id": 1463056485,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt3044834",
+        "plex": {
+          "guid": "5d9c080fe98e47001eb066f9",
+          "slug": "a-crime-to-remember"
+        },
+        "slug": "a-crime-to-remember",
+        "tmdb": 68549,
+        "tvdb": 275245,
+        "trakt": 73947
+      },
+      "year": 2013,
+      "title": "A Crime to Remember",
+      "aired_episodes": 38
+    },
+    "rank": 298,
+    "id": 1463056486,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt3152202",
+        "plex": {
+          "guid": "5d9c08a002391c001f58d92a",
+          "slug": "evil-kin"
+        },
+        "slug": "evil-kin",
+        "tmdb": 118381,
+        "tvdb": 274619,
+        "trakt": 73611
+      },
+      "year": 2013,
+      "title": "Evil Kin",
+      "aired_episodes": 35
+    },
+    "rank": 299,
+    "id": 1463056487,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt2978518",
+        "plex": {
+          "guid": "5d9c07ef7b5c2e001e64fd6a",
+          "slug": "swamp-murders"
+        },
+        "slug": "swamp-murders",
+        "tmdb": 53100,
+        "tvdb": 270476,
+        "trakt": 71032
+      },
+      "year": 2013,
+      "title": "Swamp Murders",
+      "aired_episodes": 46
+    },
+    "rank": 300,
+    "id": 1463056488,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt2723810",
+        "plex": {
+          "guid": "5d9c08b9705e7a001e6e27c1",
+          "slug": "snapped-killer-couples"
+        },
+        "slug": "snapped-killer-couples",
+        "tmdb": 91932,
+        "tvdb": 300134,
+        "trakt": 101630
+      },
+      "year": 2013,
+      "title": "Snapped: Killer Couples",
+      "aired_episodes": 191
+    },
+    "rank": 301,
+    "id": 1463056489,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt2287998",
+        "plex": {
+          "guid": "5d9c0896e9d5a1001f4db7a3",
+          "slug": "evil-twins"
+        },
+        "slug": "evil-twins",
+        "tmdb": 74285,
+        "tvdb": 265690,
+        "trakt": 71594
+      },
+      "year": 2012,
+      "title": "Evil Twins",
+      "aired_episodes": 37
+    },
+    "rank": 302,
+    "id": 1463056490,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt2361849",
+        "plex": {
+          "guid": "5d9c086d08fddd001f29a87a",
+          "slug": "blood-relatives"
+        },
+        "slug": "blood-relatives",
+        "tmdb": 48736,
+        "tvdb": 260517,
+        "trakt": 71844
+      },
+      "year": 2012,
+      "title": "Blood Relatives",
+      "aired_episodes": 65
+    },
+    "rank": 303,
+    "id": 1463056491,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt1802968",
+        "plex": {
+          "guid": "5d9c07eee264b7001fc38345",
+          "slug": "nightmare-next-door"
+        },
+        "slug": "nightmare-next-door",
+        "tmdb": 38534,
+        "tvdb": 226811,
+        "trakt": 38374
+      },
+      "year": 2011,
+      "title": "Nightmare Next Door",
+      "aired_episodes": 100
+    },
+    "rank": 304,
+    "id": 1463056492,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt1705096",
+        "plex": {
+          "guid": "5d9c0809170e24001f2a709f",
+          "slug": "who-the-bleep-did-i-marry"
+        },
+        "slug": "who-the-bleep-did-i-marry",
+        "tmdb": 36154,
+        "tvdb": 185611,
+        "trakt": 35998
+      },
+      "year": 2010,
+      "title": "Who The (Bleep) Did I Marry?",
+      "aired_episodes": 123
+    },
+    "rank": 305,
+    "id": 1463056493,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt1563280",
+        "plex": {
+          "guid": "5d9c0859ffd9ef001e992119",
+          "slug": "disappeared"
+        },
+        "slug": "disappeared",
+        "tmdb": 26728,
+        "tvdb": 203411,
+        "trakt": 26611
+      },
+      "year": 2009,
+      "title": "Disappeared",
+      "aired_episodes": 160
+    },
+    "rank": 306,
+    "id": 1463056494,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt1554356",
+        "plex": {
+          "guid": "5d9c08293c3f87001f3490e6",
+          "slug": "on-the-case-with-paula-zahn"
+        },
+        "slug": "on-the-case-with-paula-zahn",
+        "tmdb": 25181,
+        "tvdb": 272540,
+        "trakt": 73240
+      },
+      "year": 2009,
+      "title": "On the Case With Paula Zahn",
+      "aired_episodes": 433
+    },
+    "rank": 307,
+    "id": 1463056495,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0388644",
+        "plex": {
+          "guid": "5d9c0814ba6eb9001fb9b232",
+          "slug": "the-staircase-2004"
+        },
+        "slug": "the-staircase",
+        "tmdb": 21421,
+        "tvdb": 92011,
+        "trakt": 21323
+      },
+      "year": 2004,
+      "title": "The Staircase",
+      "aired_episodes": 13
+    },
+    "rank": 308,
+    "id": 1463056497,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0429434",
+        "plex": {
+          "guid": "5d9c086608fddd001f299388",
+          "slug": "snapped"
+        },
+        "slug": "snapped",
+        "tmdb": 10184,
+        "tvdb": 74921,
+        "trakt": 10135
+      },
+      "year": 2004,
+      "title": "Snapped",
+      "aired_episodes": 714
+    },
+    "rank": 309,
+    "id": 1463056498,
+    "listed_at": "2026-04-30T18:02:08.000Z",
+    "notes": null
+  }
+]
